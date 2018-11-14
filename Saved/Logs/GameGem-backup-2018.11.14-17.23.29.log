@@ -1,0 +1,798 @@
+﻿Log file open, 11/14/18 15:52:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameGem
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1797989394) SRandInit(-1797989394).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.236511
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.14-06.52.33:070][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.14-06.52.33:070][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.14-06.52.33:081][  0]LogInit: Computer: DESKTOP-OCEV6JO
+[2018.11.14-06.52.33:082][  0]LogInit: User: joono
+[2018.11.14-06.52.33:082][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.11.14-06.52.33:082][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2018.11.14-06.52.33:082][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.14-06.52.33:082][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.14-06.52.33:082][  0]LogMemory: Process Physical Memory: 273.33 MB used, 273.33 MB peak
+[2018.11.14-06.52.33:082][  0]LogMemory: Process Virtual Memory: 270.18 MB used, 270.18 MB peak
+[2018.11.14-06.52.33:082][  0]LogMemory: Physical Memory: 4480.78 MB used,  11845.89 MB free, 16326.67 MB total
+[2018.11.14-06.52.33:082][  0]LogMemory: Virtual Memory: 4783.48 MB used,  11845.89 MB free, 134217728.00 MB total
+[2018.11.14-06.52.33:292][  0]LogInit: Using OS detected language (ko-KR).
+[2018.11.14-06.52.33:292][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.11.14-06.52.33:295][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.11.14-06.52.33:437][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.14-06.52.33:733][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.14-06.52.33:795][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.11.14-06.52.33:795][  0]LogD3D11RHI:       1987/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.14-06.52.33:797][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.14-06.52.33:797][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.14-06.52.33:797][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.14-06.52.33:802][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.14-06.52.33:802][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.14-06.52.33:802][  0]LogWindows: EnumDisplayDevices:
+[2018.11.14-06.52.33:802][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.11.14-06.52.33:803][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2018.11.14-06.52.33:803][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.11.14-06.52.33:803][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.11.14-06.52.33:804][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.14-06.52.33:804][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.11.14-06.52.33:804][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.14-06.52.33:804][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.14-06.52.33:804][  0]LogRHI: Texture pool is 1391 MB (70% of 1987 MB)
+[2018.11.14-06.52.33:831][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.14-06.52.33:843][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.14-06.52.33:945][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Intermediate/Shaders/WorkingDirectory/12888/).
+[2018.11.14-06.52.33:945][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joono/AppData/Local/Temp/UnrealShaderWorkingDir/6008FECC434B2A72E3D5C696D3841A6F/'.
+[2018.11.14-06.52.33:945][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.14-06.52.34:940][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.14-06.52.35:009][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.14-06.52.35:078][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.14-06.52.35:145][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.14-06.52.35:214][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.14-06.52.35:282][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.14-06.52.35:350][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.14-06.52.35:419][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.14-06.52.35:481][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.14-06.52.35:547][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.14-06.52.35:614][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.14-06.52.35:682][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.14-06.52.35:749][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.14-06.52.35:816][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.14-06.52.35:949][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.14-06.52.35:949][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.14-06.52.36:016][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.14-06.52.36:074][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.14-06.52.36:190][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.14-06.52.36:223][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.14-06.52.36:289][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.14-06.52.36:356][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.14-06.52.36:424][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.14-06.52.36:492][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.14-06.52.36:492][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.14-06.52.37:147][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.14-06.52.37:205][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/joono/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.14-06.52.37:205][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joono/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.11.14-06.52.37:205][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.14-06.52.37:205][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.14-06.52.37:205][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.14-06.52.37:205][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.14-06.52.37:218][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.14-06.52.37:230][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joono/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.14-06.52.37:238][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.14-06.52.37:239][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.14-06.52.37:239][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.14-06.52.37:239][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.14-06.52.37:564][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.14-06.52.37:935][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.14-06.52.37:995][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.14-06.52.37:995][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.14-06.52.37:995][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.14-06.52.37:995][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.14-06.52.37:995][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.14-06.52.38:095][  0]LogNetVersion: GameGem , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 882068137)
+[2018.11.14-06.52.38:280][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.11.14-06.52.38:766][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.053829 seconds
+[2018.11.14-06.52.38:770][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.11.14-06.52.38:770][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.11.14-06.52.38:770][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.14-06.52.38:848][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.11.14-06.52.42:094][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.14-06.52.42:149][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.14-06.52.43:063][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.11.14-06.52.43:622][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.14-06.52.43:622][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.14-06.52.43:697][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.14-06.52.43:772][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.14-06.52.44:910][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.14-06.52.45:290][  0]LogOcInput: OculusInput pre-init called
+[2018.11.14-06.52.45:676][  0]LogEngine: Initializing Engine...
+[2018.11.14-06.52.45:679][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.14-06.52.45:850][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.14-06.52.45:850][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.14-06.52.46:034][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.14-06.52.46:091][  0]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.14-06.52.46:131][  0]LogInit: FAudioDevice initialized.
+[2018.11.14-06.52.46:203][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/joono/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.14-06.52.46:225][  0]LogInit: Texture streaming: Enabled
+[2018.11.14-06.52.46:371][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.14-06.52.46:558][  0]LogInit: Transaction tracking system initialized
+[2018.11.14-06.52.47:015][  0]BlueprintLog: New page: 에디터 로드
+[2018.11.14-06.52.48:306][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.11.14-06.52.49:348][  0]LogConsoleResponse: Display: 
+[2018.11.14-06.52.49:522][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.14-06.52.49:522][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.14-06.52.49:522][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.14-06.52.50:263][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/' took 0.02s
+[2018.11.14-06.52.51:209][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.14-06.52.51:209][  0]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/GameGem.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-06.52.51:235][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.14-06.52.51:237][  0]LogSlate: Took 0.001935 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.11.14-06.52.56:880][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.11.14-06.52.56:884][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.14-06.52.56:947][  0]MapCheck: New page: 맵 체크
+[2018.11.14-06.52.56:947][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.14-06.52.56:960][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.14-06.52.56:961][  0]LoadErrors: New page: 새 맵
+[2018.11.14-06.52.57:033][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.11.14-06.52.57:108][  0]LogCollectionManager: Loaded 0 collections in 0.001845 seconds
+[2018.11.14-06.52.57:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Collections/' took 0.01s
+[2018.11.14-06.52.57:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/Developers/joono/Collections/' took 0.01s
+[2018.11.14-06.52.57:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/Collections/' took 0.01s
+[2018.11.14-06.52.57:211][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.14-06.52.57:217][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2363 classes and 519 folders.
+[2018.11.14-06.52.57:315][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.14-06.52.57:361][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.14-06.52.57:422][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.14-06.52.57:436][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.14-06.52.57:439][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.14-06.52.57:531][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.14-06.52.57:741][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.14-06.52.57:741][  0]LogLoad: (Engine Initialization) Total time: 27.50 seconds
+[2018.11.14-06.52.57:741][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.14-06.52.57:741][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.11.14-06.52.57:765][  0]LogAssetRegistry: Asset discovery search completed in 19.5087 seconds
+[2018.11.14-06.52.57:767][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.14-06.52.57:767][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2018.11.14-06.52.57:768][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.14-06.52.57:794][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.14-06.53.01:911][478]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.14-06.53.02:270][515]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.14-06.53.02:575][515]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.11.14-06.53.03:068][515]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.14-06.53.08:984][ 20]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.14-06.53.09:688][ 26]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GameGem
+[2018.11.14-06.53.09:688][ 26]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.11.14-06.53.09:688][ 26]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.11.14-06.53.09:688][ 26]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.11.14-06.53.09:688][ 26]LogTemp: BranchPath = DESKTOP-OCEV6JO/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-OCEV6JO/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.11.14-06.53.09:712][ 29]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\joono\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.14-06.53.29:404][349]LogAIModule: Creating AISystem for world Login
+[2018.11.14-06.53.29:431][349]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/Login.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-06.53.29:431][349]LightingResults: New page: 라이팅 빌드
+[2018.11.14-06.53.29:431][349]LoadErrors: New page: 맵 로드중: Login.umap
+[2018.11.14-06.53.29:431][349]MapCheck: New page: 맵 체크
+[2018.11.14-06.53.29:431][349]LightingResults: New page: 라이팅 빌드
+[2018.11.14-06.53.29:448][349]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-06.53.29:493][349]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-06.53.29:556][349]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 63.233ms.
+[2018.11.14-06.53.29:557][349]LogFileHelpers: Loading map 'Login' took 0.126
+[2018.11.14-06.53.30:605][473]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.14-06.53.30:655][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/PuzzleBP/Maps/Login.Login_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login'
+[2018.11.14-06.53.30:655][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.14-06.53.30:655][473]PIE: New page: PIE 세션: Login (2018. 11. 15. 오전 12:53:30)
+[2018.11.14-06.53.30:655][473]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_Login
+[2018.11.14-06.53.30:656][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000722s)
+[2018.11.14-06.53.30:656][473]LogAIModule: Creating AISystem for world Login
+[2018.11.14-06.53.30:656][473]LogPlayLevel: PIE: World Init took: (0.000439s)
+[2018.11.14-06.53.30:656][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/Login.Login to /Game/PuzzleBP/Maps/UEDPIE_0_Login.Login (0.001331s)
+[2018.11.14-06.53.30:722][473]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.14-06.53.30:737][473]LogInit: FAudioDevice initialized.
+[2018.11.14-06.53.30:806][473]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.14-06.53.30:808][473]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_Login.Login up for play (max tick rate 0) at 2018.11.14-15.53.30
+[2018.11.14-06.53.30:808][473]LogWorld: Bringing up level for play took: 0.000380
+[2018.11.14-06.53.30:869][473]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.11.14-06.53.30:874][473]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_Login 에 대한 에디터에서 플레이 시작 시간: 0.941
+[2018.11.14-06.53.30:874][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/PuzzleBP/Maps/Login.Login_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login'
+[2018.11.14-06.53.30:893][473]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.11.14-06.53.37:188][225]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/PuzzleBP/Maps/Login.Login_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login'
+[2018.11.14-06.53.37:239][225]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/PuzzleBP/Maps/Login.Login_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login'
+[2018.11.14-06.53.39:812][516]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.14-06.53.39:831][516]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-06.53.39:831][516]LightingResults: New page: 라이팅 빌드
+[2018.11.14-06.53.39:832][516]LoadErrors: New page: 맵 로드중: MainMenu.umap
+[2018.11.14-06.53.39:832][516]MapCheck: New page: 맵 체크
+[2018.11.14-06.53.39:832][516]LightingResults: New page: 라이팅 빌드
+[2018.11.14-06.53.39:850][516]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-06.53.39:895][516]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-06.53.39:960][516]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 64.864ms.
+[2018.11.14-06.53.39:960][516]LogFileHelpers: Loading map 'MainMenu' took 0.129
+[2018.11.14-06.53.41:323][633]LogAIModule: Creating AISystem for world MainGame
+[2018.11.14-06.53.41:355][633]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-06.53.41:355][633]LightingResults: New page: 라이팅 빌드
+[2018.11.14-06.53.41:356][633]LoadErrors: New page: 맵 로드중: MainGame.umap
+[2018.11.14-06.53.41:356][633]MapCheck: New page: 맵 체크
+[2018.11.14-06.53.41:356][633]LightingResults: New page: 라이팅 빌드
+[2018.11.14-06.53.41:376][633]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-06.53.41:422][633]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-06.53.41:494][633]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 71.84ms.
+[2018.11.14-06.53.41:494][633]LogFileHelpers: Loading map 'MainGame' took 0.139
+[2018.11.14-06.53.43:903][901]LogAIModule: Creating AISystem for world Login
+[2018.11.14-06.53.43:922][901]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/Login.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-06.53.43:922][901]LightingResults: New page: 라이팅 빌드
+[2018.11.14-06.53.43:923][901]LoadErrors: New page: 맵 로드중: Login.umap
+[2018.11.14-06.53.43:923][901]MapCheck: New page: 맵 체크
+[2018.11.14-06.53.43:923][901]LightingResults: New page: 라이팅 빌드
+[2018.11.14-06.53.43:942][901]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-06.53.43:988][901]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-06.53.44:060][901]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 71.774ms.
+[2018.11.14-06.53.44:060][901]LogFileHelpers: Loading map 'Login' took 0.138
+[2018.11.14-06.53.45:952][119]LogAIModule: Creating AISystem for world MainGame
+[2018.11.14-06.53.45:974][119]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-06.53.45:974][119]LightingResults: New page: 라이팅 빌드
+[2018.11.14-06.53.45:975][119]LoadErrors: New page: 맵 로드중: MainGame.umap
+[2018.11.14-06.53.45:975][119]MapCheck: New page: 맵 체크
+[2018.11.14-06.53.45:975][119]LightingResults: New page: 라이팅 빌드
+[2018.11.14-06.53.45:992][119]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-06.53.46:038][119]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-06.53.46:113][119]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 73.973ms.
+[2018.11.14-06.53.46:113][119]LogFileHelpers: Loading map 'MainGame' took 0.140
+[2018.11.14-06.53.55:735][157]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.14-06.54.44:727][152]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-06.54.45:279][153]LogSavePackage: Save=84.94ms
+[2018.11.14-06.54.45:279][153]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager761BC00449EA61C45BCF8AAF98EF9A58.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-06.54.45:281][153]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-06.54.58:048][345]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-06.54.58:589][391]LogSavePackage: Save=7.33ms
+[2018.11.14-06.54.58:589][391]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGameEB7AABF54FB0A4CBF44ED4A6FC283DDC.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-06.54.58:592][391]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-06.55.40:069][214]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.14-06.56.54:141][290]LogSavePackage: Save=275.15ms
+[2018.11.14-06.56.54:141][290]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MainGame2059CC9A40A622EDBCEE0DB38729B94D.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.14-06.56.54:145][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.14-06.57.06:234][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:234][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:234][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:234][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:234][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:234][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:아이디중복' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:234][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:새로운계정' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:234][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:비밀번호확인' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:234][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:비밀번호체크' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:234][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:다시로그인' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:234][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:User' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:234][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:PWFail' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:234][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:Password' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:IDFail' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:CheckPassword' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:Btn_입장' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:Btn_새로운계정' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:Btn_계정만들기' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI_C:ExecuteUbergraph_LoginUI' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:PreConstruct' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:Construct' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:Tick' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:BndEvt__Button_0_K2Node_ComponentBoundEvent_362_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:BndEvt__Button_1_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:BndEvt__Btn_계정만들기_K2Node_ComponentBoundEvent_734_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:아이디중복' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:새로운계정' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:비밀번호확인' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:비밀번호체크' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:다시로그인' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:User' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:PWFail' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:Password' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:IDFail' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:CheckPassword' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:Btn_입장' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:Btn_새로운계정' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:235][534]LogMetaData: Removing '/Game/PuzzleBP/Blueprints/UI/LoginUI.SKEL_LoginUI_C:Btn_계정만들기' ref from Metadata '/Game/PuzzleBP/Blueprints/LoginUI.PackageMetaData'
+[2018.11.14-06.57.06:363][534]LogSavePackage: Save=110.09ms
+[2018.11.14-06.57.06:363][534]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/LoginUIC2EE53914723F1937E3947BDD3D49614.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.14-06.57.06:366][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.14-06.57.06:369][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/LoginUI" FILE="../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/LoginUI.uasset" SILENT=true
+[2018.11.14-06.57.06:389][534]LogSavePackage: Save=3.98ms
+[2018.11.14-06.57.06:389][534]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/LoginUI7807AB56498809B8770800884F77D280.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/LoginUI.uasset'
+[2018.11.14-06.57.06:392][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/LoginUI.uasset
+[2018.11.14-06.58.37:190][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UserState" FILE="../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UserState.uasset" SILENT=true
+[2018.11.14-06.58.37:199][282]LogSavePackage: Save=6.65ms
+[2018.11.14-06.58.37:199][282]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/UserStateD7E0CC5C49F016344F6EC4A9E513A620.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UserState.uasset'
+[2018.11.14-06.58.37:202][282]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UserState.uasset
+[2018.11.14-06.59.25:608][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UserState" FILE="../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UserState.uasset" SILENT=true
+[2018.11.14-06.59.25:631][475]LogSavePackage: Save=6.62ms
+[2018.11.14-06.59.25:631][475]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/UserState26440D3C4CFFBD2FA9FA7286DDFA1D10.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UserState.uasset'
+[2018.11.14-06.59.25:634][475]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UserState.uasset
+[2018.11.14-06.59.51:803][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UserState" FILE="../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UserState.uasset" SILENT=true
+[2018.11.14-06.59.51:821][432]LogSavePackage: Save=6.48ms
+[2018.11.14-06.59.51:821][432]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/UserState6FAB243446C03496F8286C8134C3A22A.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UserState.uasset'
+[2018.11.14-06.59.51:822][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UserState.uasset
+[2018.11.14-07.00.25:746][859]LogSavePackage: Save=277.77ms
+[2018.11.14-07.00.25:746][859]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MainGame70E147A441C1485C2A09FFAA70A0F58C.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.14-07.00.25:749][859]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.14-07.00.34:714][873]LogSavePackage: Save=4.33ms
+[2018.11.14-07.00.34:714][873]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/UserDataTable967FAAA74610B711F28F8EA19A36CED1.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UserDataTable.uasset'
+[2018.11.14-07.00.34:717][873]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UserDataTable.uasset
+[2018.11.14-07.01.06:946][559]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-07.01.07:298][579]LogSavePackage: Save=7.92ms
+[2018.11.14-07.01.07:298][579]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGame8CA3EBE941753712EAF1869C7A7DF221.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-07.01.07:301][579]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-07.01.31:849][704]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-07.01.32:268][728]LogSavePackage: Save=8.19ms
+[2018.11.14-07.01.32:268][728]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGameEA80D5344A8CF7C34F885D9FD5B44196.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-07.01.32:271][728]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-07.05.00:194][ 29]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-07.05.00:810][ 72]LogSavePackage: Save=8.30ms
+[2018.11.14-07.05.00:810][ 72]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGameB9B711104BD6B5F3257BAB9406AE7362.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-07.05.00:813][ 72]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-07.08.50:732][510]LogSavePackage: Save=9.03ms
+[2018.11.14-07.08.50:732][510]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGameB441F04B4B2329E251760E974A360F1A.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-07.08.50:735][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-07.08.51:383][568]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-07.08.51:973][608]LogSavePackage: Save=8.40ms
+[2018.11.14-07.08.51:973][608]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGame0B1089A34774A6089BC5A0BE49D18A74.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-07.08.51:974][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-07.15.15:610][447]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.15.16:470][447]LogSavePackage: Save=85.46ms
+[2018.11.14-07.15.16:470][447]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManagerF829980F4597C66AC6B091A996773D36.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.15.16:473][447]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.16.09:549][638]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-07.16.10:017][639]LogSavePackage: Save=15.78ms
+[2018.11.14-07.16.10:017][639]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGame279A768F40D2453EEA20BEA338099530.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-07.16.10:020][639]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-07.17.02:776][177]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.17.03:995][189]LogSavePackage: Save=86.90ms
+[2018.11.14-07.17.03:995][189]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManagerCFF266F748913DE11402C5A404EE1FAC.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.17.03:998][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.18.07:805][483]BlueprintLog: New page: LoginUI 컴파일
+[2018.11.14-07.18.07:835][483]LogBlueprint: Error: [Compiler LoginUI] 이름이 NewParam 인  New Param  핀이 CurrentAccount 함수의 어느 파라미터에도 일치하지 않습니다.
+[2018.11.14-07.18.07:866][483]LogBlueprint: Warning: [Compiler LoginUI] [1537.63] LoginUI 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 60 ms] (/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI)
+[2018.11.14-07.18.08:508][508]LogSavePackage: Save=102.61ms
+[2018.11.14-07.18.08:508][508]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/LoginUI6AF7C20E4787EC23184064A6C16545EA.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.14-07.18.08:511][508]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.14-07.19.21:455][249]LogClass: Warning: Type mismatch in CurrentUser of SKEL_MySaveGame_C - Previous (StructProperty) Current(TextProperty) for package:  FObjectReader
+[2018.11.14-07.20.19:245][693]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-07.20.19:819][701]LogSavePackage: Save=15.11ms
+[2018.11.14-07.20.19:819][701]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGameE5410B5148275AD7978D63AB7760CEF0.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-07.20.19:822][701]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-07.20.50:190][723]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.20.50:720][723]LogBlueprint: Warning: [Compiler ScoreManager] 참조 반환되는 값이 없을 것입니다. 파라미터 'UserName'. 노드:  CurrentAccount
+[2018.11.14-07.20.50:726][723]LogBlueprint: Error: [Compiler LoginUI] In use pin  New Param  no longer exists on node  Current Account . Please refresh node or break links to remove pin.
+[2018.11.14-07.20.50:738][723]LogBlueprint: Error: [Compiler LoginUI] ' User Name ' 핀의 현재 값이 유효하지 않습니다: 'User Name' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2018.11.14-07.20.50:754][723]LogBlueprint: Warning: [Compiler LoginUI] [1700.52] LoginUI 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 551 ms] (/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI)
+[2018.11.14-07.20.51:377][723]LogBlueprint: Warning: [Compiler ScoreManager] [1701.14] ScoreManager 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 1,186 ms] (/Game/PuzzleBP/Blueprints/ScoreManager.ScoreManager)
+[2018.11.14-07.20.52:052][744]LogSavePackage: Save=90.91ms
+[2018.11.14-07.20.52:052][744]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager7F0A37CA46A13F066F6C42ABC7358E9C.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.20.52:055][744]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.21.35:722][876]BlueprintLog: New page: LoginUI 컴파일
+[2018.11.14-07.21.35:751][876]LogBlueprint: Error: [Compiler LoginUI] In use pin  New Param  no longer exists on node  Current Account . Please refresh node or break links to remove pin.
+[2018.11.14-07.21.35:752][876]LogBlueprint: Error: [Compiler LoginUI] ' User Name ' 핀의 현재 값이 유효하지 않습니다: 'User Name' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2018.11.14-07.21.35:780][876]LogBlueprint: Warning: [Compiler LoginUI] [1745.54] LoginUI 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 58 ms] (/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI)
+[2018.11.14-07.21.36:825][935]LogSavePackage: Save=101.18ms
+[2018.11.14-07.21.36:825][935]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/LoginUI98E2C0614F0934FB97277B92005FE842.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.14-07.21.36:828][935]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.14-07.24.00:417][463]LogSavePackage: Save=309.97ms
+[2018.11.14-07.24.00:417][463]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MainGame_Auto1A2A734774372B636E51176AF69659D08.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto1.umap'
+[2018.11.14-07.24.00:418][463]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto1.umap
+[2018.11.14-07.24.00:425][463]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/MainGame' took 0.370
+[2018.11.14-07.24.00:425][463]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.370
+[2018.11.14-07.24.00:433][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PuzzleBP/Blueprints/ScoreManager] ([1] browsable assets)...
+[2018.11.14-07.24.00:433][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBP/Blueprints/ScoreManager]
+[2018.11.14-07.24.00:540][463]LogSavePackage: Save=97.07ms
+[2018.11.14-07.24.00:540][463]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager_Auto1ACB4FFBF40F739714DD01BA90A649A30.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/ScoreManager_Auto1.uasset'
+[2018.11.14-07.24.00:542][463]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/ScoreManager_Auto1.uasset
+[2018.11.14-07.24.00:543][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PuzzleBP/Blueprints/MySaveGame] ([1] browsable assets)...
+[2018.11.14-07.24.00:543][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBP/Blueprints/MySaveGame]
+[2018.11.14-07.24.00:574][463]LogSavePackage: Save=15.89ms
+[2018.11.14-07.24.00:574][463]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGame_Auto1BF22ED0F48F5B4201815FB864DA4DECB.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/MySaveGame_Auto1.uasset'
+[2018.11.14-07.24.00:576][463]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/MySaveGame_Auto1.uasset
+[2018.11.14-07.24.00:577][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PuzzleBP/Blueprints/UI/LoginUI] ([1] browsable assets)...
+[2018.11.14-07.24.00:577][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBP/Blueprints/UI/LoginUI]
+[2018.11.14-07.24.00:703][463]LogSavePackage: Save=110.22ms
+[2018.11.14-07.24.00:703][463]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/LoginUI_Auto1BFA0FA834815CDE74BDF07BBF3C45F4F.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/UI/LoginUI_Auto1.uasset'
+[2018.11.14-07.24.00:704][463]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/UI/LoginUI_Auto1.uasset
+[2018.11.14-07.24.00:704][463]LogFileHelpers: Auto-saving content packages took 0.274
+[2018.11.14-07.29.45:473][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.11.14-07.31.47:534][255]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.31.48:439][255]LogBlueprint: Warning: [Compiler ScoreManager] 참조 반환되는 값이 없을 것입니다. 파라미터 'UserName'. 노드:  SaveGameEvent
+[2018.11.14-07.31.48:446][255]LogBlueprint: Error: [Compiler LoginUI] In use pin  New Param  no longer exists on node  Save Game Event . Please refresh node or break links to remove pin.
+[2018.11.14-07.31.48:458][255]LogBlueprint: Error: [Compiler LoginUI] ' User Name ' 핀의 현재 값이 유효하지 않습니다: 'User Name' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2018.11.14-07.31.48:474][255]LogBlueprint: Warning: [Compiler LoginUI] [2358.24] LoginUI 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 928 ms] (/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI)
+[2018.11.14-07.31.49:172][255]LogBlueprint: Warning: [Compiler ScoreManager] [2358.94] ScoreManager 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 1,637 ms] (/Game/PuzzleBP/Blueprints/ScoreManager.ScoreManager)
+[2018.11.14-07.32.56:906][248]BlueprintLog: New page: LoginUI 컴파일
+[2018.11.14-07.32.56:933][248]LogBlueprint: Error: [Compiler LoginUI] In use pin  New Param  no longer exists on node  Save Game Event . Please refresh node or break links to remove pin.
+[2018.11.14-07.32.56:934][248]LogBlueprint: Error: [Compiler LoginUI] ' User Name ' 핀의 현재 값이 유효하지 않습니다: 'User Name' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2018.11.14-07.32.56:960][248]LogBlueprint: Warning: [Compiler LoginUI] [2426.72] LoginUI 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 54 ms] (/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI)
+[2018.11.14-07.33.21:428][807]BlueprintLog: New page: LoginUI 컴파일
+[2018.11.14-07.33.22:086][831]LogSavePackage: Save=104.52ms
+[2018.11.14-07.33.22:086][831]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/LoginUI7C7003564334F65163A8E79E8643FD16.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.14-07.33.22:092][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.14-07.34.47:814][ 13]LogSavePackage: Save=291.85ms
+[2018.11.14-07.34.47:814][ 13]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MainGame_Auto2C876DF134210A6104AB871AE290D1BA3.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto2.umap'
+[2018.11.14-07.34.47:816][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto2.umap
+[2018.11.14-07.34.47:823][ 13]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/MainGame' took 0.346
+[2018.11.14-07.34.47:823][ 13]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.346
+[2018.11.14-07.34.47:829][ 13]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PuzzleBP/Blueprints/ScoreManager] ([1] browsable assets)...
+[2018.11.14-07.34.47:829][ 13]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBP/Blueprints/ScoreManager]
+[2018.11.14-07.34.47:932][ 13]LogSavePackage: Save=86.96ms
+[2018.11.14-07.34.47:932][ 13]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager_Auto27710B7EB4407B5C14FA117B379912E4F.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/ScoreManager_Auto2.uasset'
+[2018.11.14-07.34.47:934][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/ScoreManager_Auto2.uasset
+[2018.11.14-07.34.47:934][ 13]LogFileHelpers: Auto-saving content packages took 0.105
+[2018.11.14-07.35.33:355][832]BlueprintLog: New page: LoginUI 컴파일
+[2018.11.14-07.35.33:384][832]LogBlueprint: Error: [Compiler LoginUI] Save Game Event  에서 SaveGameEvent 의 UserName 파라미터에 대한 핀을 찾을 수 없습니다.
+[2018.11.14-07.35.33:414][832]LogBlueprint: Warning: [Compiler LoginUI] [2583.18] LoginUI 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 58 ms] (/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI)
+[2018.11.14-07.35.34:365][879]LogSavePackage: Save=102.47ms
+[2018.11.14-07.35.34:365][879]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/LoginUI2450543D497CCA6C4E066FA5F6D6B7EB.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.14-07.35.34:368][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.14-07.35.44:629][516]BlueprintLog: New page: LoginUI 컴파일
+[2018.11.14-07.35.45:262][539]LogSavePackage: Save=102.91ms
+[2018.11.14-07.35.45:262][539]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/LoginUI9E1A324943879EA25E83C294797767CF.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.14-07.35.45:265][539]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.14-07.35.56:797][219]BlueprintLog: New page: LoginUI 컴파일
+[2018.11.14-07.35.56:827][219]LogBlueprint: Error: [Compiler LoginUI] Save Game Event  에서 SaveGameEvent 의 UserName 파라미터에 대한 핀을 찾을 수 없습니다.
+[2018.11.14-07.35.56:853][219]LogBlueprint: Warning: [Compiler LoginUI] [2606.62] LoginUI 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 55 ms] (/Game/PuzzleBP/Blueprints/UI/LoginUI.LoginUI)
+[2018.11.14-07.35.57:777][264]LogSavePackage: Save=102.07ms
+[2018.11.14-07.35.57:777][264]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/LoginUIEE2B418A40AB33292BF53A86BFDC2BE7.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.14-07.35.57:780][264]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.14-07.36.20:101][678]BlueprintLog: New page: LoginUI 컴파일
+[2018.11.14-07.36.20:667][697]LogSavePackage: Save=104.54ms
+[2018.11.14-07.36.20:667][697]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/LoginUIDCD25A13485EF61582826A8019996A43.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.14-07.36.20:670][697]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.14-07.36.23:016][859]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.36.25:336][891]LogSavePackage: Save=83.25ms
+[2018.11.14-07.36.25:336][891]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManagerC35A632546E594324D9F978F7733CB3B.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.36.25:341][891]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.36.38:001][608]BlueprintLog: New page: LoginUI 컴파일
+[2018.11.14-07.36.38:620][630]LogSavePackage: Save=104.60ms
+[2018.11.14-07.36.38:620][630]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/LoginUIAEBF09A445D84692819ACA99D8413529.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.14-07.36.38:623][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.14-07.37.23:742][669]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.37.25:569][698]LogSavePackage: Save=85.30ms
+[2018.11.14-07.37.25:569][698]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager386D3517417512A500AEA18EFDDF466D.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.37.25:572][698]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.43.11:261][466]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.43.18:383][835]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.43.19:081][841]LogSavePackage: Save=90.74ms
+[2018.11.14-07.43.19:081][841]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager67623DE8463D8796D566198AA290CD23.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.43.19:084][841]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.45.12:276][110]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.45.13:255][132]LogSavePackage: Save=94.04ms
+[2018.11.14-07.45.13:255][132]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager32D7A3EC4CCDDB8DA737BE9C33946230.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.45.13:258][132]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.46.17:133][996]LogSavePackage: Save=295.13ms
+[2018.11.14-07.46.17:133][996]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MainGame_Auto341654C0241678BC76869B09EE4D5825B.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto3.umap'
+[2018.11.14-07.46.17:134][996]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto3.umap
+[2018.11.14-07.46.17:141][996]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/MainGame' took 0.347
+[2018.11.14-07.46.17:141][996]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.347
+[2018.11.14-07.46.17:148][996]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PuzzleBP/Blueprints/ScoreManager] ([1] browsable assets)...
+[2018.11.14-07.46.17:148][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBP/Blueprints/ScoreManager]
+[2018.11.14-07.46.17:255][996]LogSavePackage: Save=96.98ms
+[2018.11.14-07.46.17:255][996]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager_Auto3A227DB6D4B9FB798A86B5DA5537606F5.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/ScoreManager_Auto3.uasset'
+[2018.11.14-07.46.17:256][996]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/ScoreManager_Auto3.uasset
+[2018.11.14-07.46.17:257][996]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PuzzleBP/Blueprints/MySaveGame] ([1] browsable assets)...
+[2018.11.14-07.46.17:257][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBP/Blueprints/MySaveGame]
+[2018.11.14-07.46.17:288][996]LogSavePackage: Save=16.28ms
+[2018.11.14-07.46.17:288][996]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGame_Auto3031FCC6542726EEC891E759FA0339367.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/MySaveGame_Auto3.uasset'
+[2018.11.14-07.46.17:290][996]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/MySaveGame_Auto3.uasset
+[2018.11.14-07.46.17:290][996]LogFileHelpers: Auto-saving content packages took 0.144
+[2018.11.14-07.48.24:664][452]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.48.25:686][476]LogSavePackage: Save=99.27ms
+[2018.11.14-07.48.25:686][476]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager9DC05FE54E3C3CB95ED6759401A85FA6.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.48.25:692][476]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.49.00:185][678]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.49.01:104][701]LogSavePackage: Save=96.63ms
+[2018.11.14-07.49.01:104][701]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager5602CEDC4967DE21EDD544A134E2E07D.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.49.01:107][701]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.52.06:437][746]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.52.07:402][763]LogSavePackage: Save=105.99ms
+[2018.11.14-07.52.07:402][763]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager221AFE1B4C1D59D070D50E9CC2FEAE68.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.52.07:405][763]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.53.52:099][731]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.53.53:111][749]LogSavePackage: Save=105.08ms
+[2018.11.14-07.53.53:111][749]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManagerE2C121F0454108D82E6D429A601EB5E6.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.53.53:115][749]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.54.47:310][869]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.54.48:215][888]LogSavePackage: Save=106.68ms
+[2018.11.14-07.54.48:215][888]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager7BE66EC740F948859D5224BDB9270DEE.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.54.48:218][888]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.58.11:765][508]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.58.12:237][508]LogBlueprint: Error: [Compiler ScoreManager] ' Wrong Word ' 핀의 현재 값이 유효하지 않습니다: ('Wrong Word' 핀과 같은) 배열 입력에는 반드시 입력이 연결되어 있어야 합니다 (MakeArray 노드를 연결해 보십시오).
+[2018.11.14-07.58.12:363][508]LogBlueprint: Warning: [Compiler ScoreManager] [3942.13] ScoreManager 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 596 ms] (/Game/PuzzleBP/Blueprints/ScoreManager.ScoreManager)
+[2018.11.14-07.58.12:995][529]LogSavePackage: Save=109.60ms
+[2018.11.14-07.58.12:996][529]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager0349AAC34995D6490E573DB16EFF7FED.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.58.12:999][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.58.24:534][237]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.58.26:191][309]LogSavePackage: Save=111.97ms
+[2018.11.14-07.58.26:191][309]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManagerA26A8CF94ABD43900409A8882C805EE9.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.58.26:194][309]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.58.39:702][ 89]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-07.58.40:375][ 91]LogSavePackage: Save=110.69ms
+[2018.11.14-07.58.40:375][ 91]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManagerC258FDB243669B5307D031A77AA49F88.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.58.40:379][ 91]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.59.03:708][508]LogSavePackage: Save=110.41ms
+[2018.11.14-07.59.03:708][508]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager397304B94EE10BB2BA7B5799B7216B95.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-07.59.03:711][508]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-07.59.05:736][635]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-07.59.06:391][636]LogSavePackage: Save=8.91ms
+[2018.11.14-07.59.06:391][636]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGame43871A424B1FD54C8D3B52BFC1294AC5.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-07.59.06:396][636]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-08.00.02:921][835]LogSavePackage: Save=304.55ms
+[2018.11.14-08.00.02:921][835]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MainGame_Auto4094BEF634EB4ADDBB07670B838B30135.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto4.umap'
+[2018.11.14-08.00.02:922][835]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto4.umap
+[2018.11.14-08.00.02:931][835]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/MainGame' took 0.363
+[2018.11.14-08.00.02:931][835]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.363
+[2018.11.14-08.00.21:564][929]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-08.00.22:114][929]LogSavePackage: Save=7.69ms
+[2018.11.14-08.00.22:114][929]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGame17E418CF4C4B50EDA5D015B788741735.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-08.00.22:117][929]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-08.00.29:360][451]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-08.00.29:810][473]LogSavePackage: Save=7.17ms
+[2018.11.14-08.00.29:810][473]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGame4A411D4D4C984F3F69E512821AF191F4.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-08.00.29:813][473]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-08.00.32:996][689]LogClass: Warning: Type mismatch in NewVar_0 of SKEL_MySaveGame_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.11.14-08.00.34:029][753]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-08.00.34:032][753]LogClass: Warning: Type mismatch in NewVar_0 of MySaveGame_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.11.14-08.00.34:583][780]LogSavePackage: Save=7.27ms
+[2018.11.14-08.00.34:583][780]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGame313852FB49291207F631929B8BC76C25.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-08.00.34:586][780]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-08.00.43:378][418]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-08.00.43:911][447]LogSavePackage: Save=7.21ms
+[2018.11.14-08.00.43:911][447]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGameCF13927C463BE40821E7C6AB8AFDC5C2.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-08.00.43:914][447]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-08.01.05:249][970]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-08.01.05:768][997]LogSavePackage: Save=8.36ms
+[2018.11.14-08.01.05:768][997]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGame9D061BC74396F274EC1334809767D22A.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-08.01.05:771][997]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-08.02.14:065][928]LogClass: Warning: Type mismatch in UserStateList of SKEL_ScoreManager_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.11.14-08.02.21:743][299]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-08.02.22:714][320]LogSavePackage: Save=107.22ms
+[2018.11.14-08.02.22:714][320]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager8CA97E1245DC15FE7F6992870354BFEF.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.02.22:717][320]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-08.04.21:052][238]LogSavePackage: Save=7.73ms
+[2018.11.14-08.04.21:052][238]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MySaveGame50613E9B4A5FDBCF486F7F82917E67DE.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset'
+[2018.11.14-08.04.21:055][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/MySaveGame.uasset
+[2018.11.14-08.04.21:323][256]BlueprintLog: New page: MySaveGame 컴파일
+[2018.11.14-08.06.05:077][252]LogSavePackage: Save=97.07ms
+[2018.11.14-08.06.05:077][252]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager788C0B524F0E1F8B6F15568B072F3858.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.06.05:080][252]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-08.06.29:602][286]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-08.06.30:230][287]LogSavePackage: Save=98.00ms
+[2018.11.14-08.06.30:230][287]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManagerCACDF300406BEE50C2F124B590A5D226.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.06.30:233][287]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-08.06.30:579][295]LogSavePackage: Save=97.35ms
+[2018.11.14-08.06.30:579][295]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManagerBBE21C7A40EB5444BFCA94BC2A530D20.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.06.30:581][295]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-08.08.48:646][284]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-08.08.49:422][291]LogSavePackage: Save=105.17ms
+[2018.11.14-08.08.49:422][291]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager475122D1486B402599283D97321ABA64.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.08.49:425][291]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-08.09.38:509][832]LogSavePackage: Save=105.43ms
+[2018.11.14-08.09.38:509][832]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManagerFCAC2B1E44C5E50BDDB7158D1847CE61.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.09.38:510][832]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-08.09.42:563][ 39]LogSavePackage: Save=103.22ms
+[2018.11.14-08.09.42:563][ 39]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager18D15B40433181FBE5093CB4FB89B77D.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.09.42:566][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-08.11.39:893][759]LogClass: Warning: Type mismatch in CurrentUsername of SKEL_ScoreManager_C - Previous (StructProperty) Current(TextProperty) for package:  FObjectReader
+[2018.11.14-08.11.40:736][765]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-08.11.43:164][861]LogSavePackage: Save=108.99ms
+[2018.11.14-08.11.43:165][861]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager61E84D6C4B93C4A96369449E0104EB6D.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.11.43:168][861]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-08.15.15:984][620]LogEditorTransaction: Undo 핀 변수 대체
+[2018.11.14-08.15.54:310][820]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-08.15.55:030][821]LogSavePackage: Save=112.07ms
+[2018.11.14-08.15.55:030][821]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManagerC71189C443C985EAD2CABAB8C6CE2A2D.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.15.55:033][821]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-08.17.02:350][642]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-08.17.03:539][668]LogSavePackage: Save=113.53ms
+[2018.11.14-08.17.03:540][668]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager7516905B43A64C209FC0DAB810B0FDED.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.17.03:543][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-08.17.57:714][796]LogSavePackage: Save=113.13ms
+[2018.11.14-08.17.57:714][796]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager435A81B94B0F8BB099D384B6D5C42965.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.17.57:717][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-08.17.59:307][865]LogSavePackage: Save=303.76ms
+[2018.11.14-08.17.59:308][865]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/MainGame_Auto5611E7E93428007E8670E7A87059BE076.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto5.umap'
+[2018.11.14-08.17.59:309][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto5.umap
+[2018.11.14-08.17.59:316][865]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/MainGame' took 0.357
+[2018.11.14-08.17.59:317][865]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.357
+[2018.11.14-08.18.22:530][708]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-08.18.23:278][712]LogSavePackage: Save=114.67ms
+[2018.11.14-08.18.23:278][712]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManager389346A14EEEF2EE5C0AB3B16F3C27F0.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.18.23:281][712]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-08.19.34:518][666]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-08.19.35:232][667]LogSavePackage: Save=121.66ms
+[2018.11.14-08.19.35:232][667]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManagerDD58B76D455F7088F1073AB6B74B7E03.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.19.35:235][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
+[2018.11.14-08.20.02:011][252]BlueprintLog: New page: ScoreManager 컴파일
+[2018.11.14-08.20.02:911][258]LogSavePackage: Save=116.75ms
+[2018.11.14-08.20.02:911][258]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Saved/ScoreManagerDE45A0784BE354BDC7F3D6B2E9DB590A.tmp' to '../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset'
+[2018.11.14-08.20.02:914][258]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/문서/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/ScoreManager.uasset
