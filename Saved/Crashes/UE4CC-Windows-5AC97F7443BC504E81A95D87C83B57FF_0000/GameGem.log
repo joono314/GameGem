@@ -1,0 +1,977 @@
+﻿Log file open, 11/19/18 01:11:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameGem
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1538717663) SRandInit(-1538717663).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.234310
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/EpicGames/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.18-16.11.01:751][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.18-16.11.01:751][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.18-16.11.01:762][  0]LogInit: Computer: JUN-HYOENG-HOME
+[2018.11.18-16.11.01:762][  0]LogInit: User: user
+[2018.11.18-16.11.01:762][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.11.18-16.11.01:762][  0]LogInit: High frequency timer resolution =2.929692 MHz
+[2018.11.18-16.11.01:762][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.18-16.11.01:762][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.18-16.11.01:762][  0]LogMemory: Process Physical Memory: 273.50 MB used, 273.50 MB peak
+[2018.11.18-16.11.01:762][  0]LogMemory: Process Virtual Memory: 272.20 MB used, 272.20 MB peak
+[2018.11.18-16.11.01:762][  0]LogMemory: Physical Memory: 5396.01 MB used,  10901.97 MB free, 16297.98 MB total
+[2018.11.18-16.11.01:762][  0]LogMemory: Virtual Memory: 4785.59 MB used,  10901.97 MB free, 134217728.00 MB total
+[2018.11.18-16.11.01:897][  0]LogInit: Using OS detected language (ko-KR).
+[2018.11.18-16.11.01:897][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.11.18-16.11.01:901][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.11.18-16.11.02:043][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.18-16.11.02:418][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.18-16.11.02:484][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.11.18-16.11.02:484][  0]LogD3D11RHI:       6052/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.18-16.11.02:486][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.18-16.11.02:486][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.18-16.11.02:486][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.18-16.11.02:492][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.18-16.11.02:492][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.18-16.11.02:492][  0]LogWindows: EnumDisplayDevices:
+[2018.11.18-16.11.02:492][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.11.18-16.11.02:492][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.11.18-16.11.02:493][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.18-16.11.02:493][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.18-16.11.02:493][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.18-16.11.02:494][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.11.18-16.11.02:494][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.18-16.11.02:494][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.18-16.11.02:494][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.11.18-16.11.02:527][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.18-16.11.02:543][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.18-16.11.02:589][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../../GitHub/GameJam/GameGem/Intermediate/Shaders/WorkingDirectory/4704/).
+[2018.11.18-16.11.02:589][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/CD8C4CFC4823023AEEBB1DBE76887CFE/'.
+[2018.11.18-16.11.02:589][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.18-16.11.03:358][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.18-16.11.03:408][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.18-16.11.03:459][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.18-16.11.03:508][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.18-16.11.03:559][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.18-16.11.03:609][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.18-16.11.03:659][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.18-16.11.03:710][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.18-16.11.03:754][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.18-16.11.03:804][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.18-16.11.03:851][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.18-16.11.03:901][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.18-16.11.03:951][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.18-16.11.04:001][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.18-16.11.04:101][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.18-16.11.04:101][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.18-16.11.04:151][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-16.11.04:193][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.18-16.11.04:280][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.18-16.11.04:304][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.18-16.11.04:354][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.18-16.11.04:405][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.18-16.11.04:456][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.18-16.11.04:507][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.18-16.11.04:507][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.18-16.11.04:946][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.18-16.11.05:004][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.18-16.11.05:004][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.11.18-16.11.05:004][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/GameJam/GameGem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.18-16.11.05:004][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.18-16.11.05:004][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/GameJam/GameGem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.18-16.11.05:004][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.18-16.11.05:017][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.18-16.11.05:030][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.18-16.11.05:050][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.18-16.11.05:051][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.18-16.11.05:052][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.18-16.11.05:052][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.18-16.11.05:390][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.18-16.11.05:715][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.18-16.11.05:757][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.18-16.11.05:757][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.18-16.11.05:757][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.18-16.11.05:757][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.18-16.11.05:757][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.18-16.11.05:798][  0]LogNetVersion: GameGem , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 882068137)
+[2018.11.18-16.11.05:959][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2018.11.18-16.11.06:415][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.060849 seconds
+[2018.11.18-16.11.06:419][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.11.18-16.11.06:419][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.11.18-16.11.06:419][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.18-16.11.06:466][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.11.18-16.11.09:244][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.18-16.11.09:291][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.18-16.11.10:043][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.11.18-16.11.10:504][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.18-16.11.10:504][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.18-16.11.10:569][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.18-16.11.10:634][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.18-16.11.11:586][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.18-16.11.11:920][  0]LogOcInput: OculusInput pre-init called
+[2018.11.18-16.11.12:235][  0]LogEngine: Initializing Engine...
+[2018.11.18-16.11.12:238][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.18-16.11.12:409][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.18-16.11.12:409][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.18-16.11.12:536][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.18-16.11.12:558][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.18-16.11.12:586][  0]LogInit: FAudioDevice initialized.
+[2018.11.18-16.11.12:771][  0]LogDerivedDataCache: Saved boot cache 0.18s 78MB C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.18-16.11.12:792][  0]LogInit: Texture streaming: Enabled
+[2018.11.18-16.11.12:877][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.18-16.11.13:009][  0]LogInit: Transaction tracking system initialized
+[2018.11.18-16.11.13:323][  0]BlueprintLog: New page: 에디터 로드
+[2018.11.18-16.11.14:205][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.11.18-16.11.14:984][  0]LogConsoleResponse: Display: 
+[2018.11.18-16.11.15:138][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.18-16.11.15:138][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.18-16.11.15:138][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.18-16.11.15:201][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GameJam/GameGem/Content/' took 0.02s
+[2018.11.18-16.11.16:436][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.18-16.11.16:437][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.18-16.11.16:437][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.18-16.11.16:479][  0]MapCheck: New page: 맵 체크
+[2018.11.18-16.11.16:479][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.18-16.11.17:162][  0]LogAIModule: Creating AISystem for world MainGame
+[2018.11.18-16.11.17:168][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.18-16.11.17:183][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.18-16.11.17:263][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 79.483ms.
+[2018.11.18-16.11.17:263][  0]LogFileHelpers: Loading map 'MainGame' took 0.826
+[2018.11.18-16.11.17:434][  0]LogCollectionManager: Loaded 0 collections in 0.001148 seconds
+[2018.11.18-16.11.17:524][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GameJam/GameGem/Saved/Collections/' took 0.01s
+[2018.11.18-16.11.17:524][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GameJam/GameGem/Content/Developers/user/Collections/' took 0.01s
+[2018.11.18-16.11.17:524][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GameJam/GameGem/Content/Collections/' took 0.01s
+[2018.11.18-16.11.17:524][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.18-16.11.17:531][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2363 classes and 519 folders.
+[2018.11.18-16.11.17:594][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.18-16.11.17:657][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.18-16.11.17:701][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.18-16.11.17:758][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.18-16.11.17:761][  0]LogSlate: Took 0.002306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.11.18-16.11.17:762][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.18-16.11.17:765][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.18-16.11.17:846][  0]LogRenderer: Reallocating scene render targets to support 1312x604 Format 10 NumSamples 1 (Frame:1).
+[2018.11.18-16.11.17:994][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.18-16.11.17:994][  0]LogLoad: (Engine Initialization) Total time: 19.22 seconds
+[2018.11.18-16.11.17:994][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.18-16.11.17:994][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.11.18-16.11.18:353][  0]LogAssetRegistry: Asset discovery search completed in 12.4165 seconds
+[2018.11.18-16.11.18:355][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.18-16.11.18:355][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2018.11.18-16.11.18:355][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.18-16.11.18:381][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.18-16.13.38:403][111]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.18-16.13.55:596][117]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.18-16.13.57:226][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/갈색고유어/갈색고유어구조체" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색고유어/갈색고유어구조체.uasset" SILENT=true
+[2018.11.18-16.13.57:242][307]LogSavePackage: Save=8.11ms
+[2018.11.18-16.13.57:242][307]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/갈색고유어구조체9F99C0E94C4F29347820A780D611BCCC.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색고유어/갈색고유어구조체.uasset'
+[2018.11.18-16.13.57:245][307]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색고유어/갈색고유어구조체.uasset
+[2018.11.18-16.13.58:748][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/갈색고유어/갈색고유어데이터테이블" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색고유어/갈색고유어데이터테이블.uasset" SILENT=true
+[2018.11.18-16.13.58:761][485]LogSavePackage: Save=4.97ms
+[2018.11.18-16.13.58:761][485]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/갈색고유어데이터테이블399F5CA648872D11A30E48B75E645F63.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색고유어/갈색고유어데이터테이블.uasset'
+[2018.11.18-16.13.58:764][485]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색고유어/갈색고유어데이터테이블.uasset
+[2018.11.18-16.14.00:101][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/갈색외래어/갈색외래어데이터테이블" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색외래어/갈색외래어데이터테이블.uasset" SILENT=true
+[2018.11.18-16.14.00:113][643]LogSavePackage: Save=5.30ms
+[2018.11.18-16.14.00:113][643]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/갈색외래어데이터테이블A54DC30B4C0C4F28CA20918B4C69225E.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색외래어/갈색외래어데이터테이블.uasset'
+[2018.11.18-16.14.00:117][643]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색외래어/갈색외래어데이터테이블.uasset
+[2018.11.18-16.14.01:025][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/은색고유어/은색고유어데이터테이블" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/은색고유어/은색고유어데이터테이블.uasset" SILENT=true
+[2018.11.18-16.14.01:036][750]LogSavePackage: Save=4.82ms
+[2018.11.18-16.14.01:036][750]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/은색고유어데이터테이블0DDCB8DB467D35B9842D13849B3969EB.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/은색고유어/은색고유어데이터테이블.uasset'
+[2018.11.18-16.14.01:057][750]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/은색고유어/은색고유어데이터테이블.uasset
+[2018.11.18-16.14.01:876][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/은색외래어/은색외래어데이터테이블" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/은색외래어/은색외래어데이터테이블.uasset" SILENT=true
+[2018.11.18-16.14.01:888][846]LogSavePackage: Save=4.87ms
+[2018.11.18-16.14.01:888][846]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/은색외래어데이터테이블4FA3C0F34C0AA28F9CB445ACD382F650.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/은색외래어/은색외래어데이터테이블.uasset'
+[2018.11.18-16.14.01:891][846]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/은색외래어/은색외래어데이터테이블.uasset
+[2018.11.18-16.18.39:203][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/갈색고유어/갈색고유어데이터테이블" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색고유어/갈색고유어데이터테이블.uasset" SILENT=true
+[2018.11.18-16.18.39:213][961]LogSavePackage: Save=5.07ms
+[2018.11.18-16.18.39:213][961]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/갈색고유어데이터테이블C450D9D347329D833263B998E88C16F2.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색고유어/갈색고유어데이터테이블.uasset'
+[2018.11.18-16.18.39:217][961]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색고유어/갈색고유어데이터테이블.uasset
+[2018.11.18-16.20.38:983][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/갈색외래어/갈색외래어데이터테이블" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색외래어/갈색외래어데이터테이블.uasset" SILENT=true
+[2018.11.18-16.20.38:996][324]LogSavePackage: Save=5.42ms
+[2018.11.18-16.20.38:996][324]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/갈색외래어데이터테이블3DE78595460FF8AA65D855908816BFAA.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색외래어/갈색외래어데이터테이블.uasset'
+[2018.11.18-16.20.39:000][324]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/갈색외래어/갈색외래어데이터테이블.uasset
+[2018.11.18-16.20.39:665][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Brown" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset" SILENT=true
+[2018.11.18-16.20.39:736][398]LogSavePackage: Save=61.41ms
+[2018.11.18-16.20.39:737][398]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Brown55CE17DC406EC22B78539EB9B0E48D25.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset'
+[2018.11.18-16.20.39:740][398]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset
+[2018.11.18-16.20.39:761][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Brown_F" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset" SILENT=true
+[2018.11.18-16.20.39:828][398]LogSavePackage: Save=56.67ms
+[2018.11.18-16.20.39:828][398]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Brown_F00F1303C4DFE0178AD2D27BD0A6E2533.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset'
+[2018.11.18-16.20.39:831][398]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset
+[2018.11.18-16.20.39:851][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.20.39:954][398]LogSavePackage: Save=92.85ms
+[2018.11.18-16.20.39:955][398]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Silver42A6F6964F574B759C915D8C2D704A26.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.20.39:958][398]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.20.39:962][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/은색고유어/은색고유어데이터테이블" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/은색고유어/은색고유어데이터테이블.uasset" SILENT=true
+[2018.11.18-16.20.39:974][398]LogSavePackage: Save=4.70ms
+[2018.11.18-16.20.39:974][398]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/은색고유어데이터테이블4031F2CC421E52AF70935D854B936964.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/은색고유어/은색고유어데이터테이블.uasset'
+[2018.11.18-16.20.39:977][398]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/은색고유어/은색고유어데이터테이블.uasset
+[2018.11.18-16.20.39:982][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/은색외래어/은색외래어데이터테이블" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/은색외래어/은색외래어데이터테이블.uasset" SILENT=true
+[2018.11.18-16.20.39:994][398]LogSavePackage: Save=4.70ms
+[2018.11.18-16.20.39:994][398]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/은색외래어데이터테이블D2094D6F4A0A6D5F258080935683E993.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/은색외래어/은색외래어데이터테이블.uasset'
+[2018.11.18-16.20.39:997][398]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/은색외래어/은색외래어데이터테이블.uasset
+[2018.11.18-16.20.48:397][353]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.11.18-16.20.48:894][353]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.18-16.20.52:439][640]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.18-16.21.38:223][927]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.18-16.22.17:525][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset" SILENT=true
+[2018.11.18-16.22.17:564][507]LogSavePackage: Save=26.80ms
+[2018.11.18-16.22.17:564][507]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장틀린단어리스트828BE40D4967C7033FE7118C9D20BB29.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset'
+[2018.11.18-16.22.17:567][507]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset
+[2018.11.18-16.22.26:996][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset" SILENT=true
+[2018.11.18-16.22.27:020][613]LogSavePackage: Save=18.96ms
+[2018.11.18-16.22.27:021][613]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장틀린단어리스트54476AF3489A36DC02A3F48AB9DC42D6.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset'
+[2018.11.18-16.22.27:024][613]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset
+[2018.11.18-16.23.06:856][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.23.06:926][246]LogSavePackage: Save=58.71ms
+[2018.11.18-16.23.06:926][246]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장9F8708A3473063E17EDA44A0AFACBC3E.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.23.06:929][246]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.23.09:311][527]BlueprintLog: New page: 학습장 컴파일
+[2018.11.18-16.23.23:767][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.23.23:833][730]LogSavePackage: Save=59.44ms
+[2018.11.18-16.23.23:833][730]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장8B74B69949B05604B248808E80E9434B.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.23.23:836][730]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.26.57:218][ 73]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/MainGame' took 0.019
+[2018.11.18-16.26.57:219][ 73]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PuzzleBP/Blueprints/UI/학습장] ([1] browsable assets)...
+[2018.11.18-16.26.57:219][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBP/Blueprints/UI/학습장]
+[2018.11.18-16.26.57:219][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/UI/학습장_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.18-16.26.57:284][ 73]LogSavePackage: Save=59.13ms
+[2018.11.18-16.26.57:284][ 73]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장_Auto1BBB026B74BEC49D666CB9888604887C8.tmp' to '../../../../../GitHub/GameJam/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/UI/학습장_Auto1.uasset'
+[2018.11.18-16.26.57:285][ 73]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/UI/학습장_Auto1.uasset
+[2018.11.18-16.26.57:285][ 73]LogFileHelpers: Auto-saving content packages took 0.067
+[2018.11.18-16.28.53:855][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.28.54:073][594]LogSavePackage: Save=207.56ms
+[2018.11.18-16.28.54:073][594]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저4980D8394A82A17089F2C791FC853F3C.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.28.54:077][594]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.28.54:079][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.28.54:149][594]LogSavePackage: Save=59.66ms
+[2018.11.18-16.28.54:149][594]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장75984BA441C25CDBCB460AAC87D06B40.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.28.54:152][594]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.30.02:056][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.30.02:274][514]LogSavePackage: Save=211.69ms
+[2018.11.18-16.30.02:274][514]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저2AFF0A0148805A8589C24BA2C9A2CE6F.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.30.02:277][514]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.30.02:705][565]BlueprintLog: New page: 스코어매니저 컴파일
+[2018.11.18-16.30.02:939][565]LogBlueprint: Error: [Compiler Block_Silver] In use pin  New Param  no longer exists on node  고유어 Wrong Word Event . Please refresh node or break links to remove pin.
+[2018.11.18-16.30.02:939][565]LogBlueprint: Error: [Compiler Block_Silver] In use pin  New Param  no longer exists on node  고유어 Wrong Word Event . Please refresh node or break links to remove pin.
+[2018.11.18-16.30.02:995][565]LogBlueprint: Warning: [Compiler Block_Silver] [1144.22] Block_Silver 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 251 ms] (/Game/PuzzleBP/Blueprints/Block_Silver.Block_Silver)
+[2018.11.18-16.30.05:227][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Maps/MainGame" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.18-16.30.05:661][759]LogSavePackage: Save=373.25ms
+[2018.11.18-16.30.05:661][759]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/MainGame214F5E4042E87B0E8F83039B514496D3.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.18-16.30.05:665][759]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.18-16.30.05:697][759]LogFileHelpers: Saving map 'MainGame' took 0.570
+[2018.11.18-16.30.05:699][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.30.05:915][759]LogSavePackage: Save=210.21ms
+[2018.11.18-16.30.05:915][759]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저93B856274BA4F6780566B9AE86C80FCE.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.30.05:919][759]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.30.16:696][931]BlueprintLog: New page: Block_Silver 컴파일
+[2018.11.18-16.30.16:728][931]LogBlueprint: Error: [Compiler Block_Silver] In use pin  New Param  no longer exists on node  고유어 Wrong Word Event . Please refresh node or break links to remove pin.
+[2018.11.18-16.30.16:728][931]LogBlueprint: Error: [Compiler Block_Silver] In use pin  New Param  no longer exists on node  고유어 Wrong Word Event . Please refresh node or break links to remove pin.
+[2018.11.18-16.30.16:836][931]LogBlueprint: Warning: [Compiler Block_Silver] [1158.06] Block_Silver 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 139 ms] (/Game/PuzzleBP/Blueprints/Block_Silver.Block_Silver)
+[2018.11.18-16.30.26:006][985]BlueprintLog: New page: Block_Silver 컴파일
+[2018.11.18-16.30.26:383][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.30.26:486][  9]LogSavePackage: Save=94.24ms
+[2018.11.18-16.30.26:486][  9]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Silver3193880C40872E055C1C359AD413B197.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.30.26:490][  9]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.31.05:209][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.31.05:309][587]LogSavePackage: Save=93.68ms
+[2018.11.18-16.31.05:309][587]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Silver71E87ED6426C5EBA7552839C14026059.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.31.05:312][587]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.31.07:377][831]BlueprintLog: New page: Block_Silver 컴파일
+[2018.11.18-16.31.07:765][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.31.07:867][835]LogSavePackage: Save=95.73ms
+[2018.11.18-16.31.07:867][835]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Silver99881628414F029EA5E4538F0DC3350F.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.31.07:868][835]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.31.55:651][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Brown" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset" SILENT=true
+[2018.11.18-16.31.55:722][444]LogSavePackage: Save=61.97ms
+[2018.11.18-16.31.55:723][444]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Brown4D0D993E474306603CB6C7ABAEF4065B.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset'
+[2018.11.18-16.31.55:726][444]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset
+[2018.11.18-16.31.55:741][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Brown_F" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset" SILENT=true
+[2018.11.18-16.31.55:809][444]LogSavePackage: Save=57.92ms
+[2018.11.18-16.31.55:809][444]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Brown_F9E3102E04902DBE0F71DD2A50F526AE5.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset'
+[2018.11.18-16.31.55:812][444]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset
+[2018.11.18-16.32.33:101][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.32.33:318][861]LogSavePackage: Save=211.14ms
+[2018.11.18-16.32.33:318][861]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저76C1D32645FE4F07F821EBA189BCE602.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.32.33:322][861]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.32.33:783][916]BlueprintLog: New page: 스코어매니저 컴파일
+[2018.11.18-16.32.34:097][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.32.34:314][930]LogSavePackage: Save=210.72ms
+[2018.11.18-16.32.34:314][930]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저8E95F23A4A37BF8D36CC8FBC7A75D4AB.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.32.34:315][930]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.37.33:232][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Brown" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset" SILENT=true
+[2018.11.18-16.37.33:306][823]LogSavePackage: Save=61.93ms
+[2018.11.18-16.37.33:306][823]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Brown802B994B48A0B1D8C346FABFC26365CA.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset'
+[2018.11.18-16.37.33:309][823]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset
+[2018.11.18-16.37.33:311][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.37.33:532][823]LogSavePackage: Save=210.97ms
+[2018.11.18-16.37.33:532][823]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저D11B4F75469AA08327345780E1FEE5AF.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.37.33:535][823]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.37.33:537][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.37.33:636][823]LogSavePackage: Save=88.61ms
+[2018.11.18-16.37.33:636][823]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_SilverCC80E09A4397017BDD02DEB33566EEED.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.37.33:640][823]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.37.33:642][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.37.33:714][823]LogSavePackage: Save=63.41ms
+[2018.11.18-16.37.33:714][823]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장7BC0F97F43042B1BB415A5AB19532788.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.37.33:718][823]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.38.17:062][421]BlueprintLog: New page: 스코어매니저 컴파일
+[2018.11.18-16.38.17:473][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.38.17:691][446]LogSavePackage: Save=212.45ms
+[2018.11.18-16.38.17:691][446]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저E2EFAE41412D5CC6626A0DA6C1828500.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.38.17:693][446]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.38.23:028][ 83]BlueprintLog: New page: 학습장틀린단어리스트 컴파일
+[2018.11.18-16.38.23:563][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset" SILENT=true
+[2018.11.18-16.38.23:593][141]LogSavePackage: Save=19.56ms
+[2018.11.18-16.38.23:593][141]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장틀린단어리스트A2C754054AA9BC28806518A93BE68A04.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset'
+[2018.11.18-16.38.23:595][141]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset
+[2018.11.18-16.40.18:531][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Brown" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset" SILENT=true
+[2018.11.18-16.40.18:605][824]LogSavePackage: Save=67.77ms
+[2018.11.18-16.40.18:605][824]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_BrownA17363054F9FAF20C097E4A73869552A.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset'
+[2018.11.18-16.40.18:609][824]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset
+[2018.11.18-16.40.18:611][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.40.18:828][824]LogSavePackage: Save=210.13ms
+[2018.11.18-16.40.18:828][824]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저5A77FA3841D070DD8174A3BC5462E103.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.40.18:831][824]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.40.18:860][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Brown_F" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset" SILENT=true
+[2018.11.18-16.40.18:933][824]LogSavePackage: Save=57.41ms
+[2018.11.18-16.40.18:933][824]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Brown_F98F0D7B04FBE188090BCCCB16112F8EC.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset'
+[2018.11.18-16.40.18:937][824]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset
+[2018.11.18-16.40.18:940][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.40.19:035][824]LogSavePackage: Save=89.61ms
+[2018.11.18-16.40.19:035][824]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Silver9952342C494610AD0D60EF8DC45DA1A5.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.40.19:039][824]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.40.19:042][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.40.19:109][824]LogSavePackage: Save=61.25ms
+[2018.11.18-16.40.19:109][824]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장1CCDFB3C463A3E2892D860ACACDBA64B.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.40.19:112][824]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.40.38:077][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.40.38:295][948]LogSavePackage: Save=212.52ms
+[2018.11.18-16.40.38:295][948]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저9AA071824CE46EE6CF7167B2C61E4E13.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.40.38:299][948]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.41.12:144][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.41.12:365][786]LogSavePackage: Save=215.46ms
+[2018.11.18-16.41.12:365][786]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저7092B330491C8AFB2C0CC99E5B7A6B98.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.41.12:368][786]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.41.15:715][187]BlueprintLog: New page: 스코어매니저 컴파일
+[2018.11.18-16.41.16:513][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.41.16:737][187]LogSavePackage: Save=218.45ms
+[2018.11.18-16.41.16:737][187]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저56EC995A4C8EF86A9454F7833DB48451.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.41.16:738][187]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.41.52:771][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Maps/MainGame" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.18-16.41.53:230][398]LogSavePackage: Save=394.03ms
+[2018.11.18-16.41.53:230][398]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/MainGame595685A7468B81E959E4DBAFFA031C6E.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.18-16.41.53:235][398]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.18-16.41.53:265][398]LogFileHelpers: Saving map 'MainGame' took 0.576
+[2018.11.18-16.41.53:296][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.41.53:396][398]LogSavePackage: Save=94.57ms
+[2018.11.18-16.41.53:396][398]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_SilverF18253334CD51223D22D6FA9C6F05B6F.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.41.53:400][398]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.42.02:647][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.42.02:749][484]LogSavePackage: Save=96.83ms
+[2018.11.18-16.42.02:749][484]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_SilverE09DE802484F3E7692C4FD99597822AB.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.42.02:753][484]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.42.03:330][553]BlueprintLog: New page: Block_Silver 컴파일
+[2018.11.18-16.42.03:750][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.42.03:850][562]LogSavePackage: Save=95.36ms
+[2018.11.18-16.42.03:850][562]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Silver55F23AA840DC0C1F02C8BC8D9D996E9E.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.42.03:851][562]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.42.10:904][399]BlueprintLog: New page: Block_Silver 컴파일
+[2018.11.18-16.42.11:267][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.42.11:368][400]LogSavePackage: Save=95.42ms
+[2018.11.18-16.42.11:369][400]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_SilverCC9A19FB429BE5B53B181F9FDACE09C5.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.42.11:370][400]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.42.34:813][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Maps/MainGame" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.18-16.42.35:215][138]LogSavePackage: Save=375.06ms
+[2018.11.18-16.42.35:215][138]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/MainGame280F92734B675153C476F19989F40A17.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.18-16.42.35:220][138]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.18-16.42.35:249][138]LogFileHelpers: Saving map 'MainGame' took 0.517
+[2018.11.18-16.42.35:277][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.42.35:387][138]LogSavePackage: Save=99.66ms
+[2018.11.18-16.42.35:387][138]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_SilverA15CCBBA4D0096C448103FB715E2BE60.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.42.35:391][138]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.42.46:546][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.42.46:652][455]LogSavePackage: Save=99.34ms
+[2018.11.18-16.42.46:652][455]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_SilverDA95BF0A4F62B33D58FA418A4462029E.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.42.46:655][455]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.42.56:133][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Brown_F" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset" SILENT=true
+[2018.11.18-16.42.56:198][562]LogSavePackage: Save=58.61ms
+[2018.11.18-16.42.56:198][562]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Brown_F7E717DBC47CEA0CEFF9329B813C253F9.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset'
+[2018.11.18-16.42.56:201][562]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset
+[2018.11.18-16.43.04:336][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Brown" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset" SILENT=true
+[2018.11.18-16.43.04:408][520]LogSavePackage: Save=61.88ms
+[2018.11.18-16.43.04:408][520]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Brown28C6DE8B4062FEE87DBA1384C7ACCC42.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset'
+[2018.11.18-16.43.04:412][520]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset
+[2018.11.18-16.43.26:532][171]BlueprintLog: New page: Block_Brown 컴파일
+[2018.11.18-16.43.26:929][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Brown" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset" SILENT=true
+[2018.11.18-16.43.27:002][177]LogSavePackage: Save=66.25ms
+[2018.11.18-16.43.27:002][177]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Brown2946DE4D4EE7BE07B1A4A5AFACC5E3BF.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset'
+[2018.11.18-16.43.27:003][177]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown.uasset
+[2018.11.18-16.43.27:879][280]BlueprintLog: New page: Block_Brown_F 컴파일
+[2018.11.18-16.43.28:285][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Brown_F" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset" SILENT=true
+[2018.11.18-16.43.28:348][286]LogSavePackage: Save=57.62ms
+[2018.11.18-16.43.28:348][286]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Brown_FBB4A8B42432F908336D2078D73BABA1F.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset'
+[2018.11.18-16.43.28:349][286]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Brown_F.uasset
+[2018.11.18-16.43.29:321][401]BlueprintLog: New page: Block_Silver 컴파일
+[2018.11.18-16.43.29:829][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.43.29:944][414]LogSavePackage: Save=103.67ms
+[2018.11.18-16.43.29:944][414]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_SilverB613E86C45E377F4029C118F1B74C16B.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.43.29:945][414]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.43.31:363][575]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.18-16.43.32:550][709]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.18-16.44.00:425][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.44.00:500][  7]LogSavePackage: Save=64.40ms
+[2018.11.18-16.44.00:500][  7]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장5E08C9A241FEEFD738E41FB20A86ECB4.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.44.00:503][  7]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.46.02:647][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.46.02:875][838]LogSavePackage: Save=217.07ms
+[2018.11.18-16.46.02:875][838]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저D475BD1B4D2A16F162334CA250EAA23B.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.46.02:878][838]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.46.02:881][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.46.02:947][838]LogSavePackage: Save=60.59ms
+[2018.11.18-16.46.02:947][838]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장7BD754B4446273362A82A7BBDAF54B9B.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.46.02:951][838]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.46.26:197][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.46.26:421][484]LogSavePackage: Save=218.18ms
+[2018.11.18-16.46.26:421][484]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저4661C6B540152F8FA6BA14ADE2883E82.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.46.26:425][484]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.46.41:232][194]LogBlueprint: Warning: [Compiler ] 붙여넣은  CustomEvent  노드가  은색오답목록  노드와 충돌되어 커스텀 이벤트로 대체했습니다!
+[2018.11.18-16.47.16:982][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.47.17:208][284]LogSavePackage: Save=220.27ms
+[2018.11.18-16.47.17:208][284]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저9848A9014E7305C5E0A63E9374542236.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.47.17:212][284]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.47.33:283][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.47.33:514][105]LogSavePackage: Save=224.70ms
+[2018.11.18-16.47.33:514][105]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저02CA6C2542AA889C1C1373AD3E266A9C.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.47.33:518][105]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.47.34:934][271]BlueprintLog: New page: 스코어매니저 컴파일
+[2018.11.18-16.47.35:291][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.47.35:522][291]LogSavePackage: Save=225.89ms
+[2018.11.18-16.47.35:522][291]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저18D1C3BC42AA3F49AB24A88CA61B35A1.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.47.35:523][291]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.48.09:802][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
+[2018.11.18-16.48.10:032][197]LogSavePackage: Save=223.73ms
+[2018.11.18-16.48.10:032][197]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/스코어매니저05D943364B52020F97E784B6C2E1CF11.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.18-16.48.10:035][197]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.18-16.48.10:048][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.48.10:160][197]LogSavePackage: Save=102.03ms
+[2018.11.18-16.48.10:160][197]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Silver34D16EB64C3557CC5D6C2A9CAE553695.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.48.10:163][197]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.48.11:823][392]BlueprintLog: New page: 스코어매니저 컴파일
+[2018.11.18-16.48.20:111][256]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2018.11.18-16.48.26:229][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Maps/MainGame" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.18-16.48.26:678][954]LogSavePackage: Save=358.32ms
+[2018.11.18-16.48.26:679][954]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/MainGame0688D00E459E876CB49E9E8EE6F2001A.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.18-16.48.26:683][954]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.18-16.48.26:712][954]LogFileHelpers: Saving map 'MainGame' took 0.568
+[2018.11.18-16.48.26:724][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.48.26:831][954]LogSavePackage: Save=101.65ms
+[2018.11.18-16.48.26:831][954]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Silver35B3594D45EB362643DC38A7FCFD0428.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.48.26:834][954]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.48.42:544][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.48.42:650][792]LogSavePackage: Save=100.08ms
+[2018.11.18-16.48.42:650][792]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_SilverDCCA04B94D8AF0DE27026B9300DFB4DC.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.48.42:654][792]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.48.43:257][864]BlueprintLog: New page: Block_Silver 컴파일
+[2018.11.18-16.48.43:639][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Block_Silver" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset" SILENT=true
+[2018.11.18-16.48.43:744][872]LogSavePackage: Save=100.11ms
+[2018.11.18-16.48.43:744][872]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/Block_Silver12BDC80644FD7942E72D649792D8B010.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset'
+[2018.11.18-16.48.43:746][872]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/Block_Silver.uasset
+[2018.11.18-16.49.22:984][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.49.23:063][546]LogSavePackage: Save=67.93ms
+[2018.11.18-16.49.23:063][546]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장E872A4434264646F7EC893840F4CD048.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.49.23:067][546]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.49.23:378][583]BlueprintLog: New page: 학습장 컴파일
+[2018.11.18-16.49.23:713][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.49.23:788][615]LogSavePackage: Save=69.10ms
+[2018.11.18-16.49.23:788][615]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장FC0EDBAC48A984BE43601ABAD08D6E80.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.49.23:789][615]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.49.47:301][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.49.47:369][384]LogSavePackage: Save=63.06ms
+[2018.11.18-16.49.47:369][384]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장E780A0A34B370140D4939DAAC00B9E0E.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.49.47:373][384]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.52.45:522][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.52.45:604][573]LogSavePackage: Save=75.44ms
+[2018.11.18-16.52.45:604][573]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장C1C5247B48FA871B38602ABD84C147F7.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.52.45:608][573]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.54.08:106][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.54.08:184][599]LogSavePackage: Save=72.81ms
+[2018.11.18-16.54.08:184][599]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장54C1E38B4D51F3E65751B7B815D424A8.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.54.08:188][599]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.54.15:074][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.54.15:154][400]LogSavePackage: Save=73.69ms
+[2018.11.18-16.54.15:154][400]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장F497225A414DF288A3BFA7822A92150D.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.54.15:157][400]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.54.57:778][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.54.57:891][466]LogSavePackage: Save=93.57ms
+[2018.11.18-16.54.57:891][466]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장B52D8D044C796560B7D0DCA1CB553A8B.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.54.57:894][466]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.55.04:151][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.55.04:252][211]LogSavePackage: Save=94.34ms
+[2018.11.18-16.55.04:252][211]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장0DFA6B374CF5D062D4F45F9CDC4874EA.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.55.04:255][211]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.56.48:665][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.56.48:763][607]LogSavePackage: Save=92.08ms
+[2018.11.18-16.56.48:763][607]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장4253FDC34D2680B3395C769E277193C3.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.56.48:766][607]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.57.30:016][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.57.30:117][495]LogSavePackage: Save=95.11ms
+[2018.11.18-16.57.30:117][495]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장FB6777FC4F245B1D4B2A0386B05338D8.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.57.30:121][495]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-16.57.33:797][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-16.57.33:896][931]LogSavePackage: Save=92.91ms
+[2018.11.18-16.57.33:896][931]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장4A0622114B236E168E45E1868BD1A25D.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-16.57.33:899][931]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.01.01:806][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-17.01.01:919][663]LogSavePackage: Save=101.86ms
+[2018.11.18-17.01.01:919][663]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장EBCC6D1C4F14D4316DE6BA814DE96964.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-17.01.01:923][663]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.01.37:218][869]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/MainGame' took 0.023
+[2018.11.18-17.01.37:220][869]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PuzzleBP/Blueprints/UI/학습장] ([1] browsable assets)...
+[2018.11.18-17.01.37:220][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBP/Blueprints/UI/학습장]
+[2018.11.18-17.01.37:220][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/UI/학습장_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.18-17.01.37:324][869]LogSavePackage: Save=97.48ms
+[2018.11.18-17.01.37:324][869]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장_Auto2F225D8C645CF3F6A937A5892DF0D3D7C.tmp' to '../../../../../GitHub/GameJam/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/UI/학습장_Auto2.uasset'
+[2018.11.18-17.01.37:325][869]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/UI/학습장_Auto2.uasset
+[2018.11.18-17.01.37:326][869]LogFileHelpers: Auto-saving content packages took 0.106
+[2018.11.18-17.02.12:648][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-17.02.12:751][ 37]LogSavePackage: Save=97.27ms
+[2018.11.18-17.02.12:751][ 37]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장0C0A234845BED0F844F22693851BEA17.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-17.02.12:755][ 37]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.04.01:281][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset" SILENT=true
+[2018.11.18-17.04.01:313][922]LogSavePackage: Save=21.12ms
+[2018.11.18-17.04.01:313][922]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장틀린단어리스트82EA989D4BF0E8B220379190A26B47B9.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset'
+[2018.11.18-17.04.01:316][922]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset
+[2018.11.18-17.04.01:319][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-17.04.01:423][922]LogSavePackage: Save=99.36ms
+[2018.11.18-17.04.01:423][922]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장6C3C5A6C442A9115DE9D68BA4D54552C.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-17.04.01:427][922]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.04.22:439][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset" SILENT=true
+[2018.11.18-17.04.22:468][408]LogSavePackage: Save=22.41ms
+[2018.11.18-17.04.22:468][408]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장틀린단어리스트84D540A64F9A3525A8CB1FACC7731CB9.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset'
+[2018.11.18-17.04.22:471][408]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.uasset
+[2018.11.18-17.05.23:412][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-17.05.23:519][623]LogSavePackage: Save=100.71ms
+[2018.11.18-17.05.23:519][623]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장A67D379E4CBCA963223C31B7227102AE.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-17.05.23:523][623]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.05.27:473][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-17.05.27:580][ 91]LogSavePackage: Save=100.98ms
+[2018.11.18-17.05.27:580][ 91]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장DCBABABD478CF53558D6D1819BDD4557.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-17.05.27:584][ 91]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.06.11:167][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-17.06.11:287][289]LogSavePackage: Save=109.21ms
+[2018.11.18-17.06.11:287][289]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장26553CE645D97815325A77A5AD714FEE.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-17.06.11:291][289]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.06.56:096][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-17.06.56:239][609]LogSavePackage: Save=136.52ms
+[2018.11.18-17.06.56:239][609]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장0F738F2C4C520D18D9B885A0842BEFAD.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-17.06.56:242][609]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.07.08:127][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-17.07.08:268][ 12]LogSavePackage: Save=136.23ms
+[2018.11.18-17.07.08:268][ 12]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장375B12084A838A58F236568B16E133C9.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-17.07.08:272][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.07.15:776][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-17.07.15:918][899]LogSavePackage: Save=135.76ms
+[2018.11.18-17.07.15:918][899]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장D31362184A667B1A0E3E1595197E20E7.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-17.07.15:922][899]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.08.53:596][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-17.08.53:740][732]LogSavePackage: Save=138.38ms
+[2018.11.18-17.08.53:740][732]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장0B65C68A4AABBEE20C702FBB47683A94.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-17.08.53:744][732]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.09.50:998][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-17.09.51:167][224]LogSavePackage: Save=162.44ms
+[2018.11.18-17.09.51:167][224]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장3493D3424CE33BEDEA9584B4458BF46F.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-17.09.51:170][224]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.09.53:287][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-17.09.53:457][473]LogSavePackage: Save=163.50ms
+[2018.11.18-17.09.53:457][473]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장F3BBC65D4CAB7ACA728C9698D15247E7.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-17.09.53:460][473]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.10.05:939][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/학습장" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset" SILENT=true
+[2018.11.18-17.10.06:108][958]LogSavePackage: Save=162.75ms
+[2018.11.18-17.10.06:108][958]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/학습장24C050E24D39417AF08E62BDB9465545.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset'
+[2018.11.18-17.10.06:112][958]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/학습장.uasset
+[2018.11.18-17.10.14:158][923]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.18-17.10.14:295][923]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.18-17.10.14:295][923]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.18-17.10.14:304][923]LogPlayLevel: [PlayLevel] Compiling 학습장틀린단어리스트 before play...
+[2018.11.18-17.10.14:413][923]LogPlayLevel: [PlayLevel] Compiling 학습장 before play...
+[2018.11.18-17.10.14:545][923]LogPlayLevel: PlayLevel: Blueprint regeneration took 249 ms (2 blueprints)
+[2018.11.18-17.10.14:546][923]PIE: New page: PIE 세션: MainGame (2018. 11. 19. 오전 11:10:14)
+[2018.11.18-17.10.14:549][923]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.18-17.10.14:564][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014668s)
+[2018.11.18-17.10.14:565][923]LogAIModule: Creating AISystem for world MainGame
+[2018.11.18-17.10.14:565][923]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2018.11.18-17.10.14:565][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.015523s)
+[2018.11.18-17.10.14:601][923]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.18-17.10.14:622][923]LogInit: FAudioDevice initialized.
+[2018.11.18-17.10.14:699][923]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.18-17.10.14:700][923]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-02.10.14
+[2018.11.18-17.10.14:701][923]LogWorld: Bringing up level for play took: 0.000824
+[2018.11.18-17.10.14:701][923]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.18-17.10.14:748][923]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.11.18-17.10.14:750][923]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.807
+[2018.11.18-17.10.14:751][923]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.18-17.10.14:793][923]LogRenderer: Reallocating scene render targets to support 1312x756 Format 10 NumSamples 1 (Frame:1).
+[2018.11.18-17.10.15:740][ 32]LogBlueprintUserMessages: [Block_Silver_C_0] Fever 0%
+[2018.11.18-17.10.15:741][ 32]LogBlueprintUserMessages: [Block_Silver_C_0] 0 Combo!
+[2018.11.18-17.10.15:741][ 32]LogBlueprintUserMessages: [Block_Silver_C_0] Score 0
+[2018.11.18-17.10.16:257][ 94]LogBlueprintUserMessages: [Block_Brown_F_C_0] Fever 0%
+[2018.11.18-17.10.16:257][ 94]LogBlueprintUserMessages: [Block_Brown_F_C_0] 0 Combo!
+[2018.11.18-17.10.16:257][ 94]LogBlueprintUserMessages: [Block_Brown_F_C_0] Score 0
+[2018.11.18-17.10.18:182][325]LogBlueprintUserMessages: [Block_Silver_C_1] Fever 5%
+[2018.11.18-17.10.18:182][325]LogBlueprintUserMessages: [Block_Silver_C_1] 1 Combo!
+[2018.11.18-17.10.18:182][325]LogBlueprintUserMessages: [Block_Silver_C_1] Score 300
+[2018.11.18-17.10.19:391][470]LogBlueprintUserMessages: [Block_Brown_C_0] Fever 10%
+[2018.11.18-17.10.19:391][470]LogBlueprintUserMessages: [Block_Brown_C_0] 2 Combo!
+[2018.11.18-17.10.19:391][470]LogBlueprintUserMessages: [Block_Brown_C_0] Score 554
+[2018.11.18-17.10.21:075][672]LogBlueprintUserMessages: [Block_Brown_F_C_1] Fever 9%
+[2018.11.18-17.10.21:075][672]LogBlueprintUserMessages: [Block_Brown_F_C_1] 0 Combo!
+[2018.11.18-17.10.21:075][672]LogBlueprintUserMessages: [Block_Brown_F_C_1] Score 554
+[2018.11.18-17.10.22:934][895]LogBlueprintUserMessages: [Block_Brown_C_1] Fever 14%
+[2018.11.18-17.10.22:934][895]LogBlueprintUserMessages: [Block_Brown_C_1] 1 Combo!
+[2018.11.18-17.10.22:934][895]LogBlueprintUserMessages: [Block_Brown_C_1] Score 754
+[2018.11.18-17.10.23:434][955]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_Brown_C]
+[2018.11.18-17.10.26:450][317]LogBlueprintUserMessages: [Block_Silver_C_2] Fever 19%
+[2018.11.18-17.10.26:450][317]LogBlueprintUserMessages: [Block_Silver_C_2] 2 Combo!
+[2018.11.18-17.10.26:450][317]LogBlueprintUserMessages: [Block_Silver_C_2] Score 1,054
+[2018.11.18-17.10.30:184][765]LogBlueprintUserMessages: [Block_Brown_C_3] Fever 23%
+[2018.11.18-17.10.30:184][765]LogBlueprintUserMessages: [Block_Brown_C_3] 1 Combo!
+[2018.11.18-17.10.30:184][765]LogBlueprintUserMessages: [Block_Brown_C_3] Score 1,129
+[2018.11.18-17.10.30:575][812]LogBlueprintUserMessages: [Block_Brown_C_4] Fever 28%
+[2018.11.18-17.10.30:575][812]LogBlueprintUserMessages: [Block_Brown_C_4] 2 Combo!
+[2018.11.18-17.10.30:575][812]LogBlueprintUserMessages: [Block_Brown_C_4] Score 1,315
+[2018.11.18-17.10.31:718][949]LogBlueprintUserMessages: [Block_Brown_C_5] Fever 33%
+[2018.11.18-17.10.31:718][949]LogBlueprintUserMessages: [Block_Brown_C_5] 3 Combo!
+[2018.11.18-17.10.31:718][949]LogBlueprintUserMessages: [Block_Brown_C_5] Score 1,537
+[2018.11.18-17.10.35:584][413]LogBlueprintUserMessages: [Block_Silver_C_4] Fever 43%
+[2018.11.18-17.10.35:584][413]LogBlueprintUserMessages: [Block_Silver_C_4] 5 Combo!
+[2018.11.18-17.10.35:584][413]LogBlueprintUserMessages: [Block_Silver_C_4] Score 2,037
+[2018.11.18-17.10.37:077][592]LogBlueprintUserMessages: [Block_Silver_C_5] Fever 48%
+[2018.11.18-17.10.37:077][592]LogBlueprintUserMessages: [Block_Silver_C_5] 6 Combo!
+[2018.11.18-17.10.37:077][592]LogBlueprintUserMessages: [Block_Silver_C_5] Score 2,337
+[2018.11.18-17.10.38:401][751]LogBlueprintUserMessages: [Block_Silver_C_6] Fever 53%
+[2018.11.18-17.10.38:401][751]LogBlueprintUserMessages: [Block_Silver_C_6] 7 Combo!
+[2018.11.18-17.10.38:401][751]LogBlueprintUserMessages: [Block_Silver_C_6] Score 2,637
+[2018.11.18-17.10.41:326][102]LogBlueprintUserMessages: [Block_Silver_C_7] Fever 58%
+[2018.11.18-17.10.41:326][102]LogBlueprintUserMessages: [Block_Silver_C_7] 8 Combo!
+[2018.11.18-17.10.41:326][102]LogBlueprintUserMessages: [Block_Silver_C_7] Score 2,937
+[2018.11.18-17.10.41:885][169]LogBlueprintUserMessages: [Block_Brown_C_6] Fever 63%
+[2018.11.18-17.10.41:885][169]LogBlueprintUserMessages: [Block_Brown_C_6] 9 Combo!
+[2018.11.18-17.10.41:885][169]LogBlueprintUserMessages: [Block_Brown_C_6] Score 3,042
+[2018.11.18-17.10.44:161][438]LogBlueprintUserMessages: [Block_Gold_C_0] Fever 68%
+[2018.11.18-17.10.44:161][438]LogBlueprintUserMessages: [Block_Gold_C_0] 10 Combo!
+[2018.11.18-17.10.44:161][438]LogBlueprintUserMessages: [Block_Gold_C_0] Score 3,797
+[2018.11.18-17.10.45:202][563]LogBlueprintUserMessages: [Block_Brown_C_7] Fever 78%
+[2018.11.18-17.10.45:202][563]LogBlueprintUserMessages: [Block_Brown_C_7] 12 Combo!
+[2018.11.18-17.10.45:202][563]LogBlueprintUserMessages: [Block_Brown_C_7] Score 4,210
+[2018.11.18-17.10.47:844][880]LogBlueprintUserMessages: [Block_Silver_C_8] Fever 83%
+[2018.11.18-17.10.47:844][880]LogBlueprintUserMessages: [Block_Silver_C_8] 13 Combo!
+[2018.11.18-17.10.47:844][880]LogBlueprintUserMessages: [Block_Silver_C_8] Score 4,510
+[2018.11.18-17.10.48:536][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_Brown_C]
+[2018.11.18-17.10.51:519][321]LogBlueprintUserMessages: [Block_Brown_C_9] Fever 93%
+[2018.11.18-17.10.51:519][321]LogBlueprintUserMessages: [Block_Brown_C_9] 15 Combo!
+[2018.11.18-17.10.51:519][321]LogBlueprintUserMessages: [Block_Brown_C_9] Score 4,852
+[2018.11.18-17.10.56:745][948]LogBlueprintUserMessages: [Block_Silver_C_9] Fever 100%
+[2018.11.18-17.10.56:745][948]LogBlueprintUserMessages: [Block_Silver_C_9] 18 Combo!
+[2018.11.18-17.10.56:745][948]LogBlueprintUserMessages: [Block_Silver_C_9] Score 5,552
+[2018.11.18-17.10.57:345][ 20]LogBlueprintUserMessages: [Block_Silver_C_10] Fever 100%
+[2018.11.18-17.10.57:345][ 20]LogBlueprintUserMessages: [Block_Silver_C_10] 19 Combo!
+[2018.11.18-17.10.57:345][ 20]LogBlueprintUserMessages: [Block_Silver_C_10] Score 5,852
+[2018.11.18-17.10.58:538][163]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.18-17.10.58:545][164]LogBlueprintUserMessages: [Block_Gold_C_1] Fever 100%
+[2018.11.18-17.10.58:545][164]LogBlueprintUserMessages: [Block_Gold_C_1] 20 Combo!
+[2018.11.18-17.10.58:545][164]LogBlueprintUserMessages: [Block_Gold_C_1] Score 6,530
+[2018.11.18-17.10.59:063][226]LogBlueprintUserMessages: [Block_RainBow_C_0] Fever 100%
+[2018.11.18-17.10.59:063][226]LogBlueprintUserMessages: [Block_RainBow_C_0] 21 Combo!
+[2018.11.18-17.10.59:063][226]LogBlueprintUserMessages: [Block_RainBow_C_0] Score 6,680
+[2018.11.18-17.10.59:371][263]LogBlueprintUserMessages: [Block_RainBow_C_2] Fever 100%
+[2018.11.18-17.10.59:371][263]LogBlueprintUserMessages: [Block_RainBow_C_2] 22 Combo!
+[2018.11.18-17.10.59:371][263]LogBlueprintUserMessages: [Block_RainBow_C_2] Score 6,830
+[2018.11.18-17.10.59:671][299]LogBlueprintUserMessages: [Block_RainBow_C_3] Fever 100%
+[2018.11.18-17.10.59:671][299]LogBlueprintUserMessages: [Block_RainBow_C_3] 23 Combo!
+[2018.11.18-17.10.59:672][299]LogBlueprintUserMessages: [Block_RainBow_C_3] Score 6,980
+[2018.11.18-17.10.59:871][323]LogBlueprintUserMessages: [Block_RainBow_C_5] Fever 100%
+[2018.11.18-17.10.59:871][323]LogBlueprintUserMessages: [Block_RainBow_C_5] 24 Combo!
+[2018.11.18-17.10.59:871][323]LogBlueprintUserMessages: [Block_RainBow_C_5] Score 7,130
+[2018.11.18-17.11.00:154][357]LogBlueprintUserMessages: [Block_RainBow_C_7] Fever 100%
+[2018.11.18-17.11.00:154][357]LogBlueprintUserMessages: [Block_RainBow_C_7] 25 Combo!
+[2018.11.18-17.11.00:154][357]LogBlueprintUserMessages: [Block_RainBow_C_7] Score 7,280
+[2018.11.18-17.11.00:396][386]LogBlueprintUserMessages: [Block_RainBow_C_4] Fever 100%
+[2018.11.18-17.11.00:396][386]LogBlueprintUserMessages: [Block_RainBow_C_4] 26 Combo!
+[2018.11.18-17.11.00:396][386]LogBlueprintUserMessages: [Block_RainBow_C_4] Score 7,430
+[2018.11.18-17.11.00:539][403]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.18-17.11.00:580][408]LogBlueprintUserMessages: [Block_RainBow_C_6] Fever 100%
+[2018.11.18-17.11.00:580][408]LogBlueprintUserMessages: [Block_RainBow_C_6] 27 Combo!
+[2018.11.18-17.11.00:580][408]LogBlueprintUserMessages: [Block_RainBow_C_6] Score 7,580
+[2018.11.18-17.11.00:755][429]LogBlueprintUserMessages: [Block_RainBow_C_9] Fever 100%
+[2018.11.18-17.11.00:755][429]LogBlueprintUserMessages: [Block_RainBow_C_9] 28 Combo!
+[2018.11.18-17.11.00:755][429]LogBlueprintUserMessages: [Block_RainBow_C_9] Score 7,730
+[2018.11.18-17.11.00:979][456]LogBlueprintUserMessages: [Block_RainBow_C_10] Fever 100%
+[2018.11.18-17.11.00:979][456]LogBlueprintUserMessages: [Block_RainBow_C_10] 29 Combo!
+[2018.11.18-17.11.00:979][456]LogBlueprintUserMessages: [Block_RainBow_C_10] Score 7,880
+[2018.11.18-17.11.01:230][486]LogBlueprintUserMessages: [Block_RainBow_C_12] Fever 100%
+[2018.11.18-17.11.01:230][486]LogBlueprintUserMessages: [Block_RainBow_C_12] 30 Combo!
+[2018.11.18-17.11.01:230][486]LogBlueprintUserMessages: [Block_RainBow_C_12] Score 8,030
+[2018.11.18-17.11.01:539][523]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.18-17.11.01:547][524]LogBlueprintUserMessages: [Block_RainBow_C_13] Fever 100%
+[2018.11.18-17.11.01:547][524]LogBlueprintUserMessages: [Block_RainBow_C_13] 31 Combo!
+[2018.11.18-17.11.01:547][524]LogBlueprintUserMessages: [Block_RainBow_C_13] Score 8,180
+[2018.11.18-17.11.01:788][553]LogBlueprintUserMessages: [Block_RainBow_C_8] Fever 0%
+[2018.11.18-17.11.01:788][553]LogBlueprintUserMessages: [Block_RainBow_C_8] 32 Combo!
+[2018.11.18-17.11.01:788][553]LogBlueprintUserMessages: [Block_RainBow_C_8] Score 8,330
+[2018.11.18-17.11.01:963][574]LogBlueprintUserMessages: [Block_RainBow_C_14] Fever 0%
+[2018.11.18-17.11.01:963][574]LogBlueprintUserMessages: [Block_RainBow_C_14] 33 Combo!
+[2018.11.18-17.11.01:963][574]LogBlueprintUserMessages: [Block_RainBow_C_14] Score 8,480
+[2018.11.18-17.11.02:239][607]LogBlueprintUserMessages: [Block_RainBow_C_15] Fever 0%
+[2018.11.18-17.11.02:240][607]LogBlueprintUserMessages: [Block_RainBow_C_15] 34 Combo!
+[2018.11.18-17.11.02:240][607]LogBlueprintUserMessages: [Block_RainBow_C_15] Score 8,630
+[2018.11.18-17.11.02:548][644]LogBlueprintUserMessages: [Block_RainBow_C_18] Fever 0%
+[2018.11.18-17.11.02:548][644]LogBlueprintUserMessages: [Block_RainBow_C_18] 35 Combo!
+[2018.11.18-17.11.02:548][644]LogBlueprintUserMessages: [Block_RainBow_C_18] Score 8,780
+[2018.11.18-17.11.02:740][667]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.18-17.11.02:789][673]LogBlueprintUserMessages: [Block_RainBow_C_17] Fever 0%
+[2018.11.18-17.11.02:789][673]LogBlueprintUserMessages: [Block_RainBow_C_17] 36 Combo!
+[2018.11.18-17.11.02:789][673]LogBlueprintUserMessages: [Block_RainBow_C_17] Score 8,930
+[2018.11.18-17.11.03:139][715]LogBlueprintUserMessages: [Block_RainBow_C_19] Fever 0%
+[2018.11.18-17.11.03:139][715]LogBlueprintUserMessages: [Block_RainBow_C_19] 37 Combo!
+[2018.11.18-17.11.03:139][715]LogBlueprintUserMessages: [Block_RainBow_C_19] Score 9,080
+[2018.11.18-17.11.03:430][750]LogBlueprintUserMessages: [Block_RainBow_C_21] Fever 0%
+[2018.11.18-17.11.03:430][750]LogBlueprintUserMessages: [Block_RainBow_C_21] 38 Combo!
+[2018.11.18-17.11.03:430][750]LogBlueprintUserMessages: [Block_RainBow_C_21] Score 9,230
+[2018.11.18-17.11.03:665][778]LogBlueprintUserMessages: [Block_RainBow_C_20] Fever 0%
+[2018.11.18-17.11.03:665][778]LogBlueprintUserMessages: [Block_RainBow_C_20] 39 Combo!
+[2018.11.18-17.11.03:665][778]LogBlueprintUserMessages: [Block_RainBow_C_20] Score 9,380
+[2018.11.18-17.11.03:855][801]LogBlueprintUserMessages: [Block_RainBow_C_24] Fever 0%
+[2018.11.18-17.11.03:855][801]LogBlueprintUserMessages: [Block_RainBow_C_24] 40 Combo!
+[2018.11.18-17.11.03:856][801]LogBlueprintUserMessages: [Block_RainBow_C_24] Score 9,530
+[2018.11.18-17.11.04:106][831]LogBlueprintUserMessages: [Block_RainBow_C_23] Fever 0%
+[2018.11.18-17.11.04:106][831]LogBlueprintUserMessages: [Block_RainBow_C_23] 41 Combo!
+[2018.11.18-17.11.04:106][831]LogBlueprintUserMessages: [Block_RainBow_C_23] Score 9,680
+[2018.11.18-17.11.05:914][ 48]LogBlueprintUserMessages: [Block_Gold_C_2] Fever 5%
+[2018.11.18-17.11.05:914][ 48]LogBlueprintUserMessages: [Block_Gold_C_2] 42 Combo!
+[2018.11.18-17.11.05:914][ 48]LogBlueprintUserMessages: [Block_Gold_C_2] Score 10,445
+[2018.11.18-17.11.07:572][247]LogBlueprintUserMessages: [Block_Silver_C_11] Fever 10%
+[2018.11.18-17.11.07:572][247]LogBlueprintUserMessages: [Block_Silver_C_11] 43 Combo!
+[2018.11.18-17.11.07:572][247]LogBlueprintUserMessages: [Block_Silver_C_11] Score 10,745
+[2018.11.18-17.11.09:741][507]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_Brown_C]
+[2018.11.18-17.11.11:806][755]LogBlueprintUserMessages: [Block_Gold_C_3] Fever 30%
+[2018.11.18-17.11.11:806][755]LogBlueprintUserMessages: [Block_Gold_C_3] 47 Combo!
+[2018.11.18-17.11.11:806][755]LogBlueprintUserMessages: [Block_Gold_C_3] Score 12,131
+[2018.11.18-17.11.12:582][848]LogNet: Browse: /Game/PuzzleBP/Maps/MainMenu
+[2018.11.18-17.11.12:582][848]LogLoad: LoadMap: /Game/PuzzleBP/Maps/MainMenu
+[2018.11.18-17.11.13:359][848]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.616 s
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: 
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: 
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: Stack: 
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000F9AE2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000F988123A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000F989B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000D8000199 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000D7FCEF4D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000F9FE6C17 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000FA2FDED6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000FA315259 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000FA314774 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000DB19FB28 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000DB153FA8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000DB1C539D UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000F7B161B1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x00000000F83C4AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x0000000073D25A26 UE4Editor.exe!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x0000000073D35430 UE4Editor.exe!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x0000000073D354AA UE4Editor.exe!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x0000000073D42379 UE4Editor.exe!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x0000000073D43D57 UE4Editor.exe!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x000000002B9B3034 KERNEL32.DLL!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: [Callstack] 0x000000002BB01471 ntdll.dll!UnknownFunction []
+[2018.11.18-17.11.13:359][848]LogOutputDevice: Error: 
+[2018.11.18-17.11.13:370][848]LogStats:                SubmitErrorReport -  0.000 s
