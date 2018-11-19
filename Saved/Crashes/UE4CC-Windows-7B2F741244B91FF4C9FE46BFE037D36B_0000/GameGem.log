@@ -1,0 +1,1079 @@
+﻿Log file open, 11/19/18 22:01:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameGem
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-189755880) SRandInit(-189755880).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.771763
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.19-13.02.05:205][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.19-13.02.05:205][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.19-13.02.05:291][  0]LogInit: Computer: DESKTOP-5M17SR4
+[2018.11.19-13.02.05:291][  0]LogInit: User: maros
+[2018.11.19-13.02.05:291][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.19-13.02.05:291][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2018.11.19-13.02.05:292][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.19-13.02.05:292][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.19-13.02.05:292][  0]LogMemory: Process Physical Memory: 274.71 MB used, 274.71 MB peak
+[2018.11.19-13.02.05:293][  0]LogMemory: Process Virtual Memory: 269.91 MB used, 269.91 MB peak
+[2018.11.19-13.02.05:293][  0]LogMemory: Physical Memory: 5173.81 MB used,  2906.80 MB free, 8080.61 MB total
+[2018.11.19-13.02.05:293][  0]LogMemory: Virtual Memory: 4779.53 MB used,  2906.80 MB free, 134217728.00 MB total
+[2018.11.19-13.02.06:523][  0]LogInit: Using OS detected language (ko-KR).
+[2018.11.19-13.02.06:523][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.11.19-13.02.06:538][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.11.19-13.02.07:078][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.19-13.02.16:434][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.19-13.02.16:654][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.11.19-13.02.16:654][  0]LogD3D11RHI:       4050/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.19-13.02.16:718][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.11.19-13.02.16:718][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.19-13.02.16:729][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.19-13.02.16:730][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.19-13.02.16:730][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.19-13.02.16:814][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.19-13.02.16:815][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2018.11.19-13.02.16:815][  0]LogWindows: EnumDisplayDevices:
+[2018.11.19-13.02.16:815][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.11.19-13.02.16:817][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.19-13.02.16:818][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.19-13.02.16:820][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.11.19-13.02.16:821][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.11.19-13.02.16:824][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.11.19-13.02.16:826][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.11.19-13.02.16:827][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.19-13.02.16:827][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.11.19-13.02.16:827][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.19-13.02.16:827][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.19-13.02.16:827][  0]LogRHI: Texture pool is 2835 MB (70% of 4050 MB)
+[2018.11.19-13.02.16:919][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.19-13.02.16:944][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.19-13.02.16:951][  0]LogShaderCompilers: Guid format shader working directory is 22 characters bigger than the processId version (D:/상명대학교/GitHub/GameGem/Intermediate/Shaders/WorkingDirectory/29620/).
+[2018.11.19-13.02.16:951][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/maros/AppData/Local/Temp/UnrealShaderWorkingDir/B5D677B54545B2A1ED26F6B54362E76A/'.
+[2018.11.19-13.02.16:951][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.19-13.02.20:911][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.19-13.02.21:294][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.19-13.02.21:805][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.19-13.02.22:172][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.19-13.02.22:524][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.19-13.02.23:042][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.19-13.02.23:362][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.19-13.02.23:781][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.19-13.02.24:051][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.19-13.02.24:382][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.19-13.02.24:741][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.19-13.02.25:154][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.19-13.02.25:560][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.19-13.02.25:919][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.19-13.02.26:723][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.19-13.02.26:723][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.19-13.02.27:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-13.02.27:515][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.19-13.02.28:141][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.19-13.02.28:317][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.19-13.02.28:655][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.19-13.02.29:013][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.19-13.02.29:409][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.19-13.02.29:832][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.19-13.02.29:832][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.19-13.02.34:045][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.19-13.02.34:878][  0]LogDerivedDataCache: Loaded boot cache 0.83s 78MB C:/Users/maros/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.19-13.02.34:878][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/maros/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.11.19-13.02.34:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/상명대학교/GitHub/GameGem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.19-13.02.34:878][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.19-13.02.34:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/상명대학교/GitHub/GameGem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.19-13.02.34:878][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.19-13.02.34:942][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.19-13.02.34:960][  0]LogDerivedDataCache: Using Local data cache path C:/Users/maros/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.19-13.02.34:994][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.19-13.02.34:997][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.19-13.02.35:022][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.19-13.02.35:023][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.19-13.02.37:721][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.19-13.02.40:256][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.19-13.02.40:535][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.19-13.02.40:535][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.19-13.02.40:535][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.19-13.02.40:535][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.19-13.02.40:535][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.19-13.02.40:731][  0]LogNetVersion: GameGem , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 882068137)
+[2018.11.19-13.02.41:622][  0]LogAssetRegistry: FAssetRegistry took 0.0352 seconds to start up
+[2018.11.19-13.02.43:743][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.119841 seconds
+[2018.11.19-13.02.43:754][  0]LogUObjectArray: 35871 objects as part of root set at end of initial load.
+[2018.11.19-13.02.43:754][  0]LogUObjectAllocator: 7363928 out of 0 bytes used by permanent object pool.
+[2018.11.19-13.02.43:754][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.19-13.02.44:120][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.11.19-13.03.08:194][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.19-13.03.08:459][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.19-13.03.13:559][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.11.19-13.03.16:825][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.19-13.03.16:825][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.19-13.03.17:351][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.19-13.03.17:780][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.19-13.03.24:613][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.19-13.03.26:863][  0]LogOcInput: OculusInput pre-init called
+[2018.11.19-13.03.29:172][  0]LogEngine: Initializing Engine...
+[2018.11.19-13.03.29:186][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.19-13.03.29:954][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.19-13.03.29:954][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.19-13.03.31:033][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.19-13.03.31:101][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.03.31:515][  0]LogInit: FAudioDevice initialized.
+[2018.11.19-13.03.31:659][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/maros/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.19-13.03.31:704][  0]LogInit: Texture streaming: Enabled
+[2018.11.19-13.03.32:551][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.19-13.03.33:432][  0]LogInit: Transaction tracking system initialized
+[2018.11.19-13.03.36:371][  0]BlueprintLog: New page: 에디터 로드
+[2018.11.19-13.03.43:798][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.11.19-13.03.49:921][  0]LogConsoleResponse: Display: 
+[2018.11.19-13.03.51:087][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.19-13.03.51:087][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.19-13.03.51:087][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.19-13.03.52:251][  0]LogFileCache: Scanning file cache for directory 'D:/상명대학교/GitHub/GameGem/Content/' took 0.03s
+[2018.11.19-13.03.58:219][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.19-13.03.58:220][  0]Cmd: MAP LOAD FILE="D:/상명대학교/GitHub/GameGem/Content/PuzzleBP/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.19-13.03.58:221][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.19-13.03.58:358][  0]MapCheck: New page: 맵 체크
+[2018.11.19-13.03.58:358][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.19-13.03.58:626][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/PuzzleBP/Blueprints/Block_Brown_F.Block_Brown_F_C:ExecuteUbergraph_Block_Brown_F.CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2018.11.19-13.03.59:887][  0]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.03.59:900][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.19-13.03.59:916][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.19-13.04.00:065][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 148.536ms.
+[2018.11.19-13.04.00:065][  0]LogFileHelpers: Loading map 'MainGame' took 1.846
+[2018.11.19-13.04.00:399][  0]LogCollectionManager: Loaded 0 collections in 0.003152 seconds
+[2018.11.19-13.04.00:589][  0]LogFileCache: Scanning file cache for directory 'D:/상명대학교/GitHub/GameGem/Saved/Collections/' took 0.01s
+[2018.11.19-13.04.00:589][  0]LogFileCache: Scanning file cache for directory 'D:/상명대학교/GitHub/GameGem/Content/Developers/maros/Collections/' took 0.01s
+[2018.11.19-13.04.00:589][  0]LogFileCache: Scanning file cache for directory 'D:/상명대학교/GitHub/GameGem/Content/Collections/' took 0.01s
+[2018.11.19-13.04.00:589][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.19-13.04.00:599][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2363 classes and 519 folders.
+[2018.11.19-13.04.00:840][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.19-13.04.01:446][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.19-13.04.01:595][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.19-13.04.01:731][  0]LogSlate: Took 0.014817 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.19-13.04.01:761][  0]LogSlate: Took 0.028831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.11.19-13.04.01:769][  0]LogSlate: Took 0.007135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.19-13.04.01:783][  0]LogSlate: Took 0.008128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.19-13.04.02:040][  0]LogRenderer: Reallocating scene render targets to support 936x444 Format 10 NumSamples 1 (Frame:1).
+[2018.11.19-13.04.02:432][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.19-13.04.02:432][  0]LogLoad: (Engine Initialization) Total time: 137.93 seconds
+[2018.11.19-13.04.02:432][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.19-13.04.02:433][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.11.19-13.04.02:473][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.11.19-13.04.02:501][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.19-13.04.02:553][  0]LogSlate: Took 0.007538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.19-13.04.02:594][  1]LogAssetRegistry: Asset discovery search completed in 80.9973 seconds
+[2018.11.19-13.04.02:596][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.19-13.04.02:596][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2018.11.19-13.04.03:475][ 66]LogSlate: Took 0.000877 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.19-13.04.03:917][ 66]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.19-13.04.05:812][ 66]LogSlate: Took 0.006777 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.19-13.04.06:137][ 67]LogSlate: Took 0.008770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.19-13.04.09:091][299]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.19-13.08.23:121][858]LogLinker: '/Game/ThirdPersonCPP/Blueprints/LootPickUP' 파일을 찾을 수 없습니다.
+[2018.11.19-13.08.23:121][858]LogLinker: '/Game/ThirdPersonCPP/Blueprints/LootPickUP' 파일을 찾을 수 없습니다.
+[2018.11.19-13.11.14:037][161]LogEditorTransaction: Undo 벡터 핀 값 변경
+[2018.11.19-13.11.14:531][192]LogEditorTransaction: Undo 노드 이동
+[2018.11.19-13.11.19:402][593]LogRenderer: Reallocating scene render targets to support 936x524 Format 10 NumSamples 1 (Frame:1).
+[2018.11.19-13.12.28:057][303]BlueprintLog: New page: 콤보 컴파일
+[2018.11.19-13.12.29:542][420]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.12.35:918][420]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.12.35:919][420]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.19-13.12.36:148][420]LogPlayLevel: [PlayLevel] Compiling Block_Brown before play...
+[2018.11.19-13.12.36:444][420]LogPlayLevel: PlayLevel: Blueprint regeneration took 525 ms (1 blueprints)
+[2018.11.19-13.12.36:458][420]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:12:36)
+[2018.11.19-13.12.36:459][420]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.12.36:495][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035683s)
+[2018.11.19-13.12.36:498][420]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.12.36:499][420]LogPlayLevel: PIE: World Init took: (0.003567s)
+[2018.11.19-13.12.36:499][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.040123s)
+[2018.11.19-13.12.36:537][420]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.12.36:596][420]LogInit: FAudioDevice initialized.
+[2018.11.19-13.12.36:775][420]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.12.36:779][420]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.12.36
+[2018.11.19-13.12.36:781][420]LogWorld: Bringing up level for play took: 0.003586
+[2018.11.19-13.12.36:785][420]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.12.37:243][420]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.11.19-13.12.37:286][420]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 2.226
+[2018.11.19-13.12.37:287][420]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.12.37:350][420]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.19-13.12.38:499][539]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_Brown_C]
+[2018.11.19-13.12.43:568][732]LogBlueprintUserMessages: [Block_Brown_F_C_2] Fever 9%
+[2018.11.19-13.12.43:568][732]LogBlueprintUserMessages: [Block_Brown_F_C_2] 0 Combo!
+[2018.11.19-13.12.43:568][732]LogBlueprintUserMessages: [Block_Brown_F_C_2] Score 400
+[2018.11.19-13.12.44:303][786]LogBlueprintUserMessages: [Block_Brown_C_1] Fever 14%
+[2018.11.19-13.12.44:303][786]LogBlueprintUserMessages: [Block_Brown_C_1] 1 Combo!
+[2018.11.19-13.12.44:303][786]LogBlueprintUserMessages: [Block_Brown_C_1] Score 620
+[2018.11.19-13.12.45:618][884]LogBlueprintUserMessages: [Block_Brown_F_C_3] Fever 13%
+[2018.11.19-13.12.45:618][884]LogBlueprintUserMessages: [Block_Brown_F_C_3] 0 Combo!
+[2018.11.19-13.12.45:618][884]LogBlueprintUserMessages: [Block_Brown_F_C_3] Score 620
+[2018.11.19-13.12.47:062][990]LogBlueprintUserMessages: [Block_Brown_C_2] Fever 18%
+[2018.11.19-13.12.47:062][990]LogBlueprintUserMessages: [Block_Brown_C_2] 1 Combo!
+[2018.11.19-13.12.47:062][990]LogBlueprintUserMessages: [Block_Brown_C_2] Score 864
+[2018.11.19-13.12.48:648][109]LogBlueprintUserMessages: [Block_Silver_C_0] Fever 17%
+[2018.11.19-13.12.48:648][109]LogBlueprintUserMessages: [Block_Silver_C_0] 0 Combo!
+[2018.11.19-13.12.48:648][109]LogBlueprintUserMessages: [Block_Silver_C_0] Score 864
+[2018.11.19-13.12.50:094][212]LogBlueprintUserMessages: [Block_Brown_C_3] Fever 22%
+[2018.11.19-13.12.50:094][212]LogBlueprintUserMessages: [Block_Brown_C_3] 1 Combo!
+[2018.11.19-13.12.50:095][212]LogBlueprintUserMessages: [Block_Brown_C_3] Score 1,107
+[2018.11.19-13.12.51:868][339]LogBlueprintUserMessages: [Block_Brown_C_4] Fever 27%
+[2018.11.19-13.12.51:868][339]LogBlueprintUserMessages: [Block_Brown_C_4] 2 Combo!
+[2018.11.19-13.12.51:868][339]LogBlueprintUserMessages: [Block_Brown_C_4] Score 1,324
+[2018.11.19-13.12.52:544][387]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_Silver_C]
+[2018.11.19-13.12.53:978][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.12.54:063][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.14.11:425][314]BlueprintLog: New page: Block_Brown 컴파일
+[2018.11.19-13.14.12:314][349]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.14.12:360][349]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.14.12:360][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-13.14.12:360][349]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:14:12)
+[2018.11.19-13.14.12:361][349]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.14.12:382][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021486s)
+[2018.11.19-13.14.12:383][349]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.14.12:383][349]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2018.11.19-13.14.12:383][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.022756s)
+[2018.11.19-13.14.12:470][349]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.14.12:521][349]LogInit: FAudioDevice initialized.
+[2018.11.19-13.14.12:661][349]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.14.12:663][349]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.14.12
+[2018.11.19-13.14.12:663][349]LogWorld: Bringing up level for play took: 0.000886
+[2018.11.19-13.14.12:664][349]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.14.12:668][349]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: -0.391
+[2018.11.19-13.14.12:669][349]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.14.13:545][399]LogBlueprintUserMessages: [Block_Silver_C_0] Fever 5%
+[2018.11.19-13.14.13:545][399]LogBlueprintUserMessages: [Block_Silver_C_0] 1 Combo!
+[2018.11.19-13.14.13:545][399]LogBlueprintUserMessages: [Block_Silver_C_0] Score 300
+[2018.11.19-13.14.15:821][555]LogBlueprintUserMessages: [Block_Silver_C_1] Fever 10%
+[2018.11.19-13.14.15:821][555]LogBlueprintUserMessages: [Block_Silver_C_1] 2 Combo!
+[2018.11.19-13.14.15:821][555]LogBlueprintUserMessages: [Block_Silver_C_1] Score 600
+[2018.11.19-13.14.16:522][603]LogBlueprintUserMessages: [Block_Silver_C_2] Fever 15%
+[2018.11.19-13.14.16:522][603]LogBlueprintUserMessages: [Block_Silver_C_2] 3 Combo!
+[2018.11.19-13.14.16:522][603]LogBlueprintUserMessages: [Block_Silver_C_2] Score 900
+[2018.11.19-13.14.17:947][694]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.14.17:987][694]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.14.27:535][626]LogEditorViewport: Clicking on Actor (LMB): 콤보_C (콤보)
+[2018.11.19-13.14.29:401][827]Cmd: DELETE
+[2018.11.19-13.14.29:401][827]Cmd: ACTOR DELETE
+[2018.11.19-13.14.29:424][827]LogEditorActor: Deleted Actor: 콤보_C
+[2018.11.19-13.14.29:447][827]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.11.19-13.14.30:839][972]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.14.30:873][972]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.14.30:874][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-13.14.30:874][972]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:14:30)
+[2018.11.19-13.14.30:874][972]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.14.30:897][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023425s)
+[2018.11.19-13.14.30:897][972]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.14.30:898][972]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2018.11.19-13.14.30:898][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.024649s)
+[2018.11.19-13.14.30:927][972]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.14.30:985][972]LogInit: FAudioDevice initialized.
+[2018.11.19-13.14.31:138][972]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.14.31:140][972]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.14.31
+[2018.11.19-13.14.31:140][972]LogWorld: Bringing up level for play took: 0.000975
+[2018.11.19-13.14.31:146][972]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.087
+[2018.11.19-13.14.31:147][972]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.14.31:877][ 20]LogBlueprintUserMessages: [Block_Silver_C_0] Fever 0%
+[2018.11.19-13.14.31:877][ 20]LogBlueprintUserMessages: [Block_Silver_C_0] 0 Combo!
+[2018.11.19-13.14.31:877][ 20]LogBlueprintUserMessages: [Block_Silver_C_0] Score 0
+[2018.11.19-13.14.33:045][108]LogBlueprintUserMessages: [Block_Silver_C_1] Fever 5%
+[2018.11.19-13.14.33:045][108]LogBlueprintUserMessages: [Block_Silver_C_1] 1 Combo!
+[2018.11.19-13.14.33:045][108]LogBlueprintUserMessages: [Block_Silver_C_1] Score 300
+[2018.11.19-13.14.34:922][242]LogBlueprintUserMessages: [Block_Brown_C_0] Fever 10%
+[2018.11.19-13.14.34:922][242]LogBlueprintUserMessages: [Block_Brown_C_0] 2 Combo!
+[2018.11.19-13.14.34:922][242]LogBlueprintUserMessages: [Block_Brown_C_0] Score 492
+[2018.11.19-13.14.35:946][316]LogBlueprintUserMessages: [Block_Brown_F_C_0] Fever 9%
+[2018.11.19-13.14.35:946][316]LogBlueprintUserMessages: [Block_Brown_F_C_0] 0 Combo!
+[2018.11.19-13.14.35:946][316]LogBlueprintUserMessages: [Block_Brown_F_C_0] Score 492
+[2018.11.19-13.14.37:371][421]LogBlueprintUserMessages: [Block_Brown_C_1] Fever 14%
+[2018.11.19-13.14.37:372][421]LogBlueprintUserMessages: [Block_Brown_C_1] 1 Combo!
+[2018.11.19-13.14.37:372][421]LogBlueprintUserMessages: [Block_Brown_C_1] Score 740
+[2018.11.19-13.14.38:850][532]LogBlueprintUserMessages: [Block_Brown_C_2] Fever 19%
+[2018.11.19-13.14.38:850][532]LogBlueprintUserMessages: [Block_Brown_C_2] 2 Combo!
+[2018.11.19-13.14.38:851][532]LogBlueprintUserMessages: [Block_Brown_C_2] Score 990
+[2018.11.19-13.14.41:109][694]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.14.41:139][694]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.14.54:263][ 13]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.14.54:297][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.14.54:297][ 13]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.19-13.14.54:312][ 13]LogPlayLevel: [PlayLevel] Compiling Block_Brown before play...
+[2018.11.19-13.14.54:621][ 13]LogPlayLevel: PlayLevel: Blueprint regeneration took 323 ms (1 blueprints)
+[2018.11.19-13.14.54:621][ 13]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:14:54)
+[2018.11.19-13.14.54:621][ 13]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.14.54:644][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022315s)
+[2018.11.19-13.14.54:645][ 13]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.14.54:645][ 13]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2018.11.19-13.14.54:645][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.023534s)
+[2018.11.19-13.14.54:676][ 13]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.14.54:743][ 13]LogInit: FAudioDevice initialized.
+[2018.11.19-13.14.54:921][ 13]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.14.54:922][ 13]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.14.54
+[2018.11.19-13.14.54:923][ 13]LogWorld: Bringing up level for play took: 0.000819
+[2018.11.19-13.14.54:923][ 13]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.14.54:929][ 13]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: -0.13
+[2018.11.19-13.14.54:930][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.14.58:487][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.14.58:555][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.16.09:126][367]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.16.09:164][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.16.09:164][367]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.19-13.16.09:178][367]LogPlayLevel: [PlayLevel] Compiling Block_Brown before play...
+[2018.11.19-13.16.09:578][367]LogPlayLevel: [PlayLevel] Compiling Block_Silver before play...
+[2018.11.19-13.16.09:888][367]LogPlayLevel: PlayLevel: Blueprint regeneration took 723 ms (2 blueprints)
+[2018.11.19-13.16.09:888][367]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:16:09)
+[2018.11.19-13.16.09:888][367]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.16.09:911][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022206s)
+[2018.11.19-13.16.09:912][367]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.16.09:912][367]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2018.11.19-13.16.09:912][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.023455s)
+[2018.11.19-13.16.09:946][367]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.16.10:004][367]LogInit: FAudioDevice initialized.
+[2018.11.19-13.16.10:173][367]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.16.10:175][367]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.16.10
+[2018.11.19-13.16.10:175][367]LogWorld: Bringing up level for play took: 0.001251
+[2018.11.19-13.16.10:176][367]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.16.10:182][367]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 1.122
+[2018.11.19-13.16.10:183][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.16.10:742][402]LogBlueprintUserMessages: [Block_Silver_C_0] Fever 0%
+[2018.11.19-13.16.10:742][402]LogBlueprintUserMessages: [Block_Silver_C_0] 0 Combo!
+[2018.11.19-13.16.10:742][402]LogBlueprintUserMessages: [Block_Silver_C_0] Score 0
+[2018.11.19-13.16.12:025][506]LogBlueprintUserMessages: [Block_Silver_C_1] Fever 0%
+[2018.11.19-13.16.12:025][506]LogBlueprintUserMessages: [Block_Silver_C_1] 0 Combo!
+[2018.11.19-13.16.12:025][506]LogBlueprintUserMessages: [Block_Silver_C_1] Score 0
+[2018.11.19-13.16.13:615][628]LogBlueprintUserMessages: [Block_Silver_C_2] Fever 0%
+[2018.11.19-13.16.13:615][628]LogBlueprintUserMessages: [Block_Silver_C_2] 0 Combo!
+[2018.11.19-13.16.13:615][628]LogBlueprintUserMessages: [Block_Silver_C_2] Score 0
+[2018.11.19-13.16.15:041][743]LogBlueprintUserMessages: [Block_Brown_C_0] Fever 5%
+[2018.11.19-13.16.15:041][743]LogBlueprintUserMessages: [Block_Brown_C_0] 1 Combo!
+[2018.11.19-13.16.15:041][743]LogBlueprintUserMessages: [Block_Brown_C_0] Score 232
+[2018.11.19-13.16.16:689][872]LogBlueprintUserMessages: [Block_Silver_C_3] Fever 4%
+[2018.11.19-13.16.16:689][872]LogBlueprintUserMessages: [Block_Silver_C_3] 0 Combo!
+[2018.11.19-13.16.16:689][872]LogBlueprintUserMessages: [Block_Silver_C_3] Score 232
+[2018.11.19-13.16.18:039][980]LogBlueprintUserMessages: [Block_Brown_F_C_0] Fever 3%
+[2018.11.19-13.16.18:040][980]LogBlueprintUserMessages: [Block_Brown_F_C_0] 0 Combo!
+[2018.11.19-13.16.18:040][980]LogBlueprintUserMessages: [Block_Brown_F_C_0] Score 232
+[2018.11.19-13.16.18:875][ 41]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_Brown_C]
+[2018.11.19-13.16.20:900][207]LogBlueprintUserMessages: [Block_Silver_C_4] Fever 2%
+[2018.11.19-13.16.20:900][207]LogBlueprintUserMessages: [Block_Silver_C_4] 0 Combo!
+[2018.11.19-13.16.20:900][207]LogBlueprintUserMessages: [Block_Silver_C_4] Score 232
+[2018.11.19-13.16.22:298][317]LogBlueprintUserMessages: [Block_Silver_C_5] Fever 1%
+[2018.11.19-13.16.22:298][317]LogBlueprintUserMessages: [Block_Silver_C_5] 0 Combo!
+[2018.11.19-13.16.22:298][317]LogBlueprintUserMessages: [Block_Silver_C_5] Score 232
+[2018.11.19-13.16.23:913][448]LogBlueprintUserMessages: [Block_Silver_C_6] Fever 0%
+[2018.11.19-13.16.23:913][448]LogBlueprintUserMessages: [Block_Silver_C_6] 0 Combo!
+[2018.11.19-13.16.23:914][448]LogBlueprintUserMessages: [Block_Silver_C_6] Score 232
+[2018.11.19-13.16.25:391][555]LogBlueprintUserMessages: [Block_Brown_C_2] Fever 5%
+[2018.11.19-13.16.25:391][555]LogBlueprintUserMessages: [Block_Brown_C_2] 1 Combo!
+[2018.11.19-13.16.25:391][555]LogBlueprintUserMessages: [Block_Brown_C_2] Score 483
+[2018.11.19-13.16.27:009][686]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.16.27:107][686]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.16.36:217][587]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.16.36:254][587]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.16.36:254][587]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.19-13.16.36:268][587]LogPlayLevel: [PlayLevel] Compiling Block_Brown before play...
+[2018.11.19-13.16.36:742][587]LogPlayLevel: PlayLevel: Blueprint regeneration took 487 ms (1 blueprints)
+[2018.11.19-13.16.36:742][587]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:16:36)
+[2018.11.19-13.16.36:743][587]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.16.36:769][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025859s)
+[2018.11.19-13.16.36:770][587]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.16.36:770][587]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2018.11.19-13.16.36:771][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.027533s)
+[2018.11.19-13.16.36:805][587]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.16.36:864][587]LogInit: FAudioDevice initialized.
+[2018.11.19-13.16.36:985][587]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.16.36:987][587]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.16.36
+[2018.11.19-13.16.36:987][587]LogWorld: Bringing up level for play took: 0.001154
+[2018.11.19-13.16.36:988][587]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.16.36:996][587]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: -0.063
+[2018.11.19-13.16.36:996][587]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.16.37:871][646]LogBlueprintUserMessages: [Block_Brown_F_C_0] Fever 0%
+[2018.11.19-13.16.37:871][646]LogBlueprintUserMessages: [Block_Brown_F_C_0] 0 Combo!
+[2018.11.19-13.16.37:871][646]LogBlueprintUserMessages: [Block_Brown_F_C_0] Score 0
+[2018.11.19-13.16.38:655][702]LogBlueprintUserMessages: [Block_Brown_C_0] Fever 5%
+[2018.11.19-13.16.38:655][702]LogBlueprintUserMessages: [Block_Brown_C_0] 1 Combo!
+[2018.11.19-13.16.38:655][702]LogBlueprintUserMessages: [Block_Brown_C_0] Score 251
+[2018.11.19-13.16.40:255][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.16.40:338][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.16.50:378][796]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.16.50:415][796]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.16.50:415][796]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.19-13.16.50:430][796]LogPlayLevel: [PlayLevel] Compiling Block_Brown before play...
+[2018.11.19-13.16.50:983][796]LogPlayLevel: PlayLevel: Blueprint regeneration took 567 ms (1 blueprints)
+[2018.11.19-13.16.50:983][796]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:16:50)
+[2018.11.19-13.16.50:983][796]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.16.51:006][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022294s)
+[2018.11.19-13.16.51:006][796]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.16.51:007][796]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2018.11.19-13.16.51:007][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.023510s)
+[2018.11.19-13.16.51:041][796]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.16.51:099][796]LogInit: FAudioDevice initialized.
+[2018.11.19-13.16.51:231][796]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.16.51:233][796]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.16.51
+[2018.11.19-13.16.51:233][796]LogWorld: Bringing up level for play took: 0.001145
+[2018.11.19-13.16.51:234][796]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.16.51:241][796]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.181
+[2018.11.19-13.16.51:242][796]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.16.52:067][848]LogBlueprintUserMessages: [Block_Silver_C_0] Fever 5%
+[2018.11.19-13.16.52:067][848]LogBlueprintUserMessages: [Block_Silver_C_0] 1 Combo!
+[2018.11.19-13.16.52:067][848]LogBlueprintUserMessages: [Block_Silver_C_0] Score 300
+[2018.11.19-13.16.52:935][914]LogBlueprintUserMessages: [Block_Brown_C_0] Fever 10%
+[2018.11.19-13.16.52:935][914]LogBlueprintUserMessages: [Block_Brown_C_0] 2 Combo!
+[2018.11.19-13.16.52:935][914]LogBlueprintUserMessages: [Block_Brown_C_0] Score 547
+[2018.11.19-13.16.54:651][ 45]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.16.54:718][ 45]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.02:759][862]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.17.02:800][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.02:800][862]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.19-13.17.02:815][862]LogPlayLevel: [PlayLevel] Compiling Block_Brown before play...
+[2018.11.19-13.17.03:437][862]LogPlayLevel: PlayLevel: Blueprint regeneration took 637 ms (1 blueprints)
+[2018.11.19-13.17.03:438][862]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:17:03)
+[2018.11.19-13.17.03:438][862]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.17.03:457][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020117s)
+[2018.11.19-13.17.03:458][862]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.17.03:459][862]LogPlayLevel: PIE: World Init took: (0.001417s)
+[2018.11.19-13.17.03:459][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.021964s)
+[2018.11.19-13.17.03:487][862]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.17.03:536][862]LogInit: FAudioDevice initialized.
+[2018.11.19-13.17.03:679][862]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.17.03:681][862]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.17.03
+[2018.11.19-13.17.03:681][862]LogWorld: Bringing up level for play took: 0.000889
+[2018.11.19-13.17.03:681][862]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.17.03:689][862]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.629
+[2018.11.19-13.17.03:689][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.05:518][987]LogBlueprintUserMessages: [Block_Brown_C_0] Fever 5%
+[2018.11.19-13.17.05:518][987]LogBlueprintUserMessages: [Block_Brown_C_0] 1 Combo!
+[2018.11.19-13.17.05:519][987]LogBlueprintUserMessages: [Block_Brown_C_0] Score 235
+[2018.11.19-13.17.06:947][ 93]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.07:018][ 93]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.10:476][429]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.17.10:510][429]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.10:510][429]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.19-13.17.10:524][429]LogPlayLevel: [PlayLevel] Compiling Block_Brown before play...
+[2018.11.19-13.17.11:241][429]LogPlayLevel: PlayLevel: Blueprint regeneration took 731 ms (1 blueprints)
+[2018.11.19-13.17.11:241][429]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:17:11)
+[2018.11.19-13.17.11:241][429]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.17.11:262][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020165s)
+[2018.11.19-13.17.11:262][429]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.17.11:262][429]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2018.11.19-13.17.11:263][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.021328s)
+[2018.11.19-13.17.11:292][429]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.17.11:344][429]LogInit: FAudioDevice initialized.
+[2018.11.19-13.17.11:485][429]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.17.11:487][429]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.17.11
+[2018.11.19-13.17.11:487][429]LogWorld: Bringing up level for play took: 0.000994
+[2018.11.19-13.17.11:488][429]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.17.11:493][429]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.433
+[2018.11.19-13.17.11:494][429]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.12:239][479]LogBlueprintUserMessages: [Block_Brown_C_0] Fever 5%
+[2018.11.19-13.17.12:239][479]LogBlueprintUserMessages: [Block_Brown_C_0] 1 Combo!
+[2018.11.19-13.17.12:239][479]LogBlueprintUserMessages: [Block_Brown_C_0] Score 193
+[2018.11.19-13.17.13:363][562]LogBlueprintUserMessages: [Block_Brown_C_1] Fever 10%
+[2018.11.19-13.17.13:363][562]LogBlueprintUserMessages: [Block_Brown_C_1] 2 Combo!
+[2018.11.19-13.17.13:363][562]LogBlueprintUserMessages: [Block_Brown_C_1] Score 421
+[2018.11.19-13.17.14:408][640]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.14:474][640]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.17:858][967]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.17.17:894][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.17:894][967]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.19-13.17.17:908][967]LogPlayLevel: [PlayLevel] Compiling Block_Brown before play...
+[2018.11.19-13.17.18:723][967]LogPlayLevel: PlayLevel: Blueprint regeneration took 828 ms (1 blueprints)
+[2018.11.19-13.17.18:723][967]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:17:18)
+[2018.11.19-13.17.18:723][967]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.17.18:746][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022424s)
+[2018.11.19-13.17.18:746][967]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.17.18:747][967]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2018.11.19-13.17.18:747][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.023559s)
+[2018.11.19-13.17.18:780][967]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.17.18:834][967]LogInit: FAudioDevice initialized.
+[2018.11.19-13.17.18:953][967]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.17.18:955][967]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.17.18
+[2018.11.19-13.17.18:955][967]LogWorld: Bringing up level for play took: 0.000925
+[2018.11.19-13.17.18:956][967]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.17.18:961][967]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 1.901
+[2018.11.19-13.17.18:962][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.19:653][  9]LogBlueprintUserMessages: [Block_Brown_F_C_0] Fever 0%
+[2018.11.19-13.17.19:653][  9]LogBlueprintUserMessages: [Block_Brown_F_C_0] 0 Combo!
+[2018.11.19-13.17.19:653][  9]LogBlueprintUserMessages: [Block_Brown_F_C_0] Score 0
+[2018.11.19-13.17.20:739][ 87]LogBlueprintUserMessages: [Block_Silver_C_0] Fever 0%
+[2018.11.19-13.17.20:739][ 87]LogBlueprintUserMessages: [Block_Silver_C_0] 0 Combo!
+[2018.11.19-13.17.20:739][ 87]LogBlueprintUserMessages: [Block_Silver_C_0] Score 0
+[2018.11.19-13.17.22:371][210]LogBlueprintUserMessages: [Block_Brown_F_C_1] Fever 0%
+[2018.11.19-13.17.22:371][210]LogBlueprintUserMessages: [Block_Brown_F_C_1] 0 Combo!
+[2018.11.19-13.17.22:371][210]LogBlueprintUserMessages: [Block_Brown_F_C_1] Score 0
+[2018.11.19-13.17.23:710][311]LogBlueprintUserMessages: [Block_Brown_C_0] Fever 5%
+[2018.11.19-13.17.23:710][311]LogBlueprintUserMessages: [Block_Brown_C_0] 1 Combo!
+[2018.11.19-13.17.23:710][311]LogBlueprintUserMessages: [Block_Brown_C_0] Score 244
+[2018.11.19-13.17.24:673][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.24:746][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.31:875][ 99]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.17.31:910][ 99]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.31:910][ 99]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.19-13.17.31:924][ 99]LogPlayLevel: [PlayLevel] Compiling Block_Brown before play...
+[2018.11.19-13.17.32:833][ 99]LogPlayLevel: PlayLevel: Blueprint regeneration took 922 ms (1 blueprints)
+[2018.11.19-13.17.32:833][ 99]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:17:32)
+[2018.11.19-13.17.32:833][ 99]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.17.32:853][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019802s)
+[2018.11.19-13.17.32:854][ 99]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.17.32:854][ 99]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2018.11.19-13.17.32:854][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.020821s)
+[2018.11.19-13.17.32:884][ 99]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.17.32:934][ 99]LogInit: FAudioDevice initialized.
+[2018.11.19-13.17.33:072][ 99]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.17.33:075][ 99]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.17.33
+[2018.11.19-13.17.33:076][ 99]LogWorld: Bringing up level for play took: 0.002842
+[2018.11.19-13.17.33:076][ 99]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.17.33:081][ 99]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 2.022
+[2018.11.19-13.17.33:082][ 99]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.34:799][216]LogBlueprintUserMessages: [Block_Brown_C_0] Fever 5%
+[2018.11.19-13.17.34:799][216]LogBlueprintUserMessages: [Block_Brown_C_0] 1 Combo!
+[2018.11.19-13.17.34:799][216]LogBlueprintUserMessages: [Block_Brown_C_0] Score 245
+[2018.11.19-13.17.36:414][340]LogBlueprintUserMessages: [Block_Brown_C_1] Fever 9%
+[2018.11.19-13.17.36:414][340]LogBlueprintUserMessages: [Block_Brown_C_1] 1 Combo!
+[2018.11.19-13.17.36:414][340]LogBlueprintUserMessages: [Block_Brown_C_1] Score 479
+[2018.11.19-13.17.37:982][457]LogBlueprintUserMessages: [Block_Brown_F_C_0] Fever 8%
+[2018.11.19-13.17.37:982][457]LogBlueprintUserMessages: [Block_Brown_F_C_0] 0 Combo!
+[2018.11.19-13.17.37:982][457]LogBlueprintUserMessages: [Block_Brown_F_C_0] Score 479
+[2018.11.19-13.17.38:603][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.38:671][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.48:976][572]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.17.49:012][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.49:012][572]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.19-13.17.49:027][572]LogPlayLevel: [PlayLevel] Compiling Block_Brown before play...
+[2018.11.19-13.17.50:001][572]LogPlayLevel: [PlayLevel] Compiling Block_Silver before play...
+[2018.11.19-13.17.50:386][572]LogPlayLevel: PlayLevel: Blueprint regeneration took 1374 ms (2 blueprints)
+[2018.11.19-13.17.50:387][572]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:17:50)
+[2018.11.19-13.17.50:387][572]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.17.50:407][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019798s)
+[2018.11.19-13.17.50:408][572]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.17.50:408][572]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2018.11.19-13.17.50:408][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.020899s)
+[2018.11.19-13.17.50:439][572]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.17.50:494][572]LogInit: FAudioDevice initialized.
+[2018.11.19-13.17.50:614][572]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.17.50:616][572]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.17.50
+[2018.11.19-13.17.50:616][572]LogWorld: Bringing up level for play took: 0.001014
+[2018.11.19-13.17.50:617][572]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.17.50:621][572]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_Silver_C]
+[2018.11.19-13.17.50:625][572]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 1.565
+[2018.11.19-13.17.50:625][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.17.52:344][699]LogBlueprintUserMessages: [Block_Brown_F_C_0] Fever 0%
+[2018.11.19-13.17.52:344][699]LogBlueprintUserMessages: [Block_Brown_F_C_0] 0 Combo!
+[2018.11.19-13.17.52:344][699]LogBlueprintUserMessages: [Block_Brown_F_C_0] Score 0
+[2018.11.19-13.17.53:899][824]LogBlueprintUserMessages: [Block_Brown_F_C_1] Fever 0%
+[2018.11.19-13.17.53:899][824]LogBlueprintUserMessages: [Block_Brown_F_C_1] 0 Combo!
+[2018.11.19-13.17.53:899][824]LogBlueprintUserMessages: [Block_Brown_F_C_1] Score 0
+[2018.11.19-13.17.55:535][948]LogBlueprintUserMessages: [Block_Brown_C_0] Fever 5%
+[2018.11.19-13.17.55:535][948]LogBlueprintUserMessages: [Block_Brown_C_0] 1 Combo!
+[2018.11.19-13.17.55:535][948]LogBlueprintUserMessages: [Block_Brown_C_0] Score 227
+[2018.11.19-13.17.56:970][ 62]LogBlueprintUserMessages: [Block_Brown_C_1] Fever 10%
+[2018.11.19-13.17.56:970][ 62]LogBlueprintUserMessages: [Block_Brown_C_1] 2 Combo!
+[2018.11.19-13.17.56:970][ 62]LogBlueprintUserMessages: [Block_Brown_C_1] Score 462
+[2018.11.19-13.17.58:504][183]LogBlueprintUserMessages: [Block_Brown_C_2] Fever 15%
+[2018.11.19-13.17.58:504][183]LogBlueprintUserMessages: [Block_Brown_C_2] 3 Combo!
+[2018.11.19-13.17.58:504][183]LogBlueprintUserMessages: [Block_Brown_C_2] Score 695
+[2018.11.19-13.18.00:027][305]LogBlueprintUserMessages: [Block_Brown_F_C_2] Fever 14%
+[2018.11.19-13.18.00:027][305]LogBlueprintUserMessages: [Block_Brown_F_C_2] 0 Combo!
+[2018.11.19-13.18.00:027][305]LogBlueprintUserMessages: [Block_Brown_F_C_2] Score 695
+[2018.11.19-13.18.01:118][388]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.18.01:182][388]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.18.41:614][480]BlueprintLog: New page: Block_RainBow 컴파일
+[2018.11.19-13.18.42:488][533]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.18.42:527][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.18.42:528][533]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.19-13.18.42:543][533]LogPlayLevel: [PlayLevel] Compiling Block_Brown before play...
+[2018.11.19-13.18.43:599][533]LogPlayLevel: [PlayLevel] Compiling Block_Silver before play...
+[2018.11.19-13.18.44:069][533]LogPlayLevel: PlayLevel: Blueprint regeneration took 1541 ms (2 blueprints)
+[2018.11.19-13.18.44:069][533]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:18:44)
+[2018.11.19-13.18.44:070][533]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.18.44:092][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021792s)
+[2018.11.19-13.18.44:092][533]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.18.44:093][533]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2018.11.19-13.18.44:093][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.023086s)
+[2018.11.19-13.18.44:127][533]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.18.44:183][533]LogInit: FAudioDevice initialized.
+[2018.11.19-13.18.44:329][533]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.18.44:331][533]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.18.44
+[2018.11.19-13.18.44:331][533]LogWorld: Bringing up level for play took: 0.001635
+[2018.11.19-13.18.44:332][533]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.18.44:339][533]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 1.279
+[2018.11.19-13.18.44:339][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.18.45:145][584]LogBlueprintUserMessages: [Block_Silver_C_0] Fever 0%
+[2018.11.19-13.18.45:145][584]LogBlueprintUserMessages: [Block_Silver_C_0] 0 Combo!
+[2018.11.19-13.18.45:145][584]LogBlueprintUserMessages: [Block_Silver_C_0] Score 0
+[2018.11.19-13.18.45:488][609]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_Silver_C]
+[2018.11.19-13.18.47:661][766]LogBlueprintUserMessages: [Block_Brown_F_C_0] Fever 0%
+[2018.11.19-13.18.47:661][766]LogBlueprintUserMessages: [Block_Brown_F_C_0] 0 Combo!
+[2018.11.19-13.18.47:661][766]LogBlueprintUserMessages: [Block_Brown_F_C_0] Score 0
+[2018.11.19-13.18.49:252][881]LogBlueprintUserMessages: [Block_Brown_C_0] Fever 5%
+[2018.11.19-13.18.49:252][881]LogBlueprintUserMessages: [Block_Brown_C_0] 1 Combo!
+[2018.11.19-13.18.49:252][881]LogBlueprintUserMessages: [Block_Brown_C_0] Score 225
+[2018.11.19-13.18.54:319][247]LogBlueprintUserMessages: [Block_Silver_C_2] Fever 9%
+[2018.11.19-13.18.54:319][247]LogBlueprintUserMessages: [Block_Silver_C_2] 0 Combo!
+[2018.11.19-13.18.54:319][247]LogBlueprintUserMessages: [Block_Silver_C_2] Score 425
+[2018.11.19-13.18.55:142][297]LogBlueprintUserMessages: [Block_Brown_F_C_2] Fever 8%
+[2018.11.19-13.18.55:142][297]LogBlueprintUserMessages: [Block_Brown_F_C_2] 0 Combo!
+[2018.11.19-13.18.55:142][297]LogBlueprintUserMessages: [Block_Brown_F_C_2] Score 425
+[2018.11.19-13.18.56:888][425]LogBlueprintUserMessages: [Block_Silver_C_4] Fever 12%
+[2018.11.19-13.18.56:889][425]LogBlueprintUserMessages: [Block_Silver_C_4] 0 Combo!
+[2018.11.19-13.18.56:889][425]LogBlueprintUserMessages: [Block_Silver_C_4] Score 725
+[2018.11.19-13.18.58:080][512]LogBlueprintUserMessages: [Block_Brown_C_1] Fever 17%
+[2018.11.19-13.18.58:080][512]LogBlueprintUserMessages: [Block_Brown_C_1] 1 Combo!
+[2018.11.19-13.18.58:080][512]LogBlueprintUserMessages: [Block_Brown_C_1] Score 970
+[2018.11.19-13.18.59:040][581]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_Brown_F_C]
+[2018.11.19-13.19.01:180][741]LogBlueprintUserMessages: [Block_Silver_C_5] Fever 22%
+[2018.11.19-13.19.01:180][741]LogBlueprintUserMessages: [Block_Silver_C_5] 2 Combo!
+[2018.11.19-13.19.01:180][741]LogBlueprintUserMessages: [Block_Silver_C_5] Score 1,270
+[2018.11.19-13.19.02:753][856]LogBlueprintUserMessages: [Block_Silver_C_6] Fever 27%
+[2018.11.19-13.19.02:753][856]LogBlueprintUserMessages: [Block_Silver_C_6] 3 Combo!
+[2018.11.19-13.19.02:753][856]LogBlueprintUserMessages: [Block_Silver_C_6] Score 1,570
+[2018.11.19-13.19.04:308][968]LogBlueprintUserMessages: [Block_Silver_C_7] Fever 32%
+[2018.11.19-13.19.04:308][968]LogBlueprintUserMessages: [Block_Silver_C_7] 4 Combo!
+[2018.11.19-13.19.04:308][968]LogBlueprintUserMessages: [Block_Silver_C_7] Score 1,870
+[2018.11.19-13.19.05:811][ 78]LogBlueprintUserMessages: [Block_Brown_C_2] Fever 37%
+[2018.11.19-13.19.05:811][ 78]LogBlueprintUserMessages: [Block_Brown_C_2] 5 Combo!
+[2018.11.19-13.19.05:811][ 78]LogBlueprintUserMessages: [Block_Brown_C_2] Score 2,095
+[2018.11.19-13.19.07:158][175]LogBlueprintUserMessages: [Block_Brown_C_3] Fever 42%
+[2018.11.19-13.19.07:158][175]LogBlueprintUserMessages: [Block_Brown_C_3] 6 Combo!
+[2018.11.19-13.19.07:158][175]LogBlueprintUserMessages: [Block_Brown_C_3] Score 2,336
+[2018.11.19-13.19.08:604][284]LogBlueprintUserMessages: [Block_Brown_C_4] Fever 47%
+[2018.11.19-13.19.08:604][284]LogBlueprintUserMessages: [Block_Brown_C_4] 7 Combo!
+[2018.11.19-13.19.08:604][284]LogBlueprintUserMessages: [Block_Brown_C_4] Score 2,584
+[2018.11.19-13.19.10:336][410]LogBlueprintUserMessages: [Block_Brown_C_5] Fever 52%
+[2018.11.19-13.19.10:336][410]LogBlueprintUserMessages: [Block_Brown_C_5] 8 Combo!
+[2018.11.19-13.19.10:336][410]LogBlueprintUserMessages: [Block_Brown_C_5] Score 2,810
+[2018.11.19-13.19.11:718][512]LogBlueprintUserMessages: [Block_Brown_C_6] Fever 57%
+[2018.11.19-13.19.11:719][512]LogBlueprintUserMessages: [Block_Brown_C_6] 9 Combo!
+[2018.11.19-13.19.11:719][512]LogBlueprintUserMessages: [Block_Brown_C_6] Score 3,048
+[2018.11.19-13.19.13:881][670]LogBlueprintUserMessages: [Block_Gold_C_0] Fever 62%
+[2018.11.19-13.19.13:881][670]LogBlueprintUserMessages: [Block_Gold_C_0] 10 Combo!
+[2018.11.19-13.19.13:881][670]LogBlueprintUserMessages: [Block_Gold_C_0] Score 3,794
+[2018.11.19-13.19.14:898][743]LogBlueprintUserMessages: [Block_Brown_C_7] Fever 67%
+[2018.11.19-13.19.14:898][743]LogBlueprintUserMessages: [Block_Brown_C_7] 11 Combo!
+[2018.11.19-13.19.14:898][743]LogBlueprintUserMessages: [Block_Brown_C_7] Score 4,005
+[2018.11.19-13.19.16:011][823]LogBlueprintUserMessages: [Block_Brown_C_8] Fever 72%
+[2018.11.19-13.19.16:011][823]LogBlueprintUserMessages: [Block_Brown_C_8] 12 Combo!
+[2018.11.19-13.19.16:011][823]LogBlueprintUserMessages: [Block_Brown_C_8] Score 4,246
+[2018.11.19-13.19.17:310][917]LogBlueprintUserMessages: [Block_Brown_C_9] Fever 77%
+[2018.11.19-13.19.17:310][917]LogBlueprintUserMessages: [Block_Brown_C_9] 13 Combo!
+[2018.11.19-13.19.17:310][917]LogBlueprintUserMessages: [Block_Brown_C_9] Score 4,497
+[2018.11.19-13.19.18:787][ 24]LogBlueprintUserMessages: [Block_Silver_C_8] Fever 76%
+[2018.11.19-13.19.18:787][ 24]LogBlueprintUserMessages: [Block_Silver_C_8] 0 Combo!
+[2018.11.19-13.19.18:787][ 24]LogBlueprintUserMessages: [Block_Silver_C_8] Score 4,497
+[2018.11.19-13.19.20:165][125]LogBlueprintUserMessages: [Block_Brown_F_C_4] Fever 75%
+[2018.11.19-13.19.20:165][125]LogBlueprintUserMessages: [Block_Brown_F_C_4] 0 Combo!
+[2018.11.19-13.19.20:165][125]LogBlueprintUserMessages: [Block_Brown_F_C_4] Score 4,497
+[2018.11.19-13.19.21:645][235]LogBlueprintUserMessages: [Block_Silver_C_9] Fever 80%
+[2018.11.19-13.19.21:645][235]LogBlueprintUserMessages: [Block_Silver_C_9] 1 Combo!
+[2018.11.19-13.19.21:645][235]LogBlueprintUserMessages: [Block_Silver_C_9] Score 4,797
+[2018.11.19-13.19.22:916][326]LogBlueprintUserMessages: [Block_Brown_C_10] Fever 85%
+[2018.11.19-13.19.22:916][326]LogBlueprintUserMessages: [Block_Brown_C_10] 2 Combo!
+[2018.11.19-13.19.22:916][326]LogBlueprintUserMessages: [Block_Brown_C_10] Score 5,052
+[2018.11.19-13.19.24:374][433]LogBlueprintUserMessages: [Block_Brown_C_11] Fever 90%
+[2018.11.19-13.19.24:374][433]LogBlueprintUserMessages: [Block_Brown_C_11] 3 Combo!
+[2018.11.19-13.19.24:374][433]LogBlueprintUserMessages: [Block_Brown_C_11] Score 5,302
+[2018.11.19-13.19.25:775][532]LogBlueprintUserMessages: [Block_Silver_C_10] Fever 89%
+[2018.11.19-13.19.25:775][532]LogBlueprintUserMessages: [Block_Silver_C_10] 0 Combo!
+[2018.11.19-13.19.25:775][532]LogBlueprintUserMessages: [Block_Silver_C_10] Score 5,302
+[2018.11.19-13.19.27:237][642]LogBlueprintUserMessages: [Block_Silver_C_11] Fever 94%
+[2018.11.19-13.19.27:237][642]LogBlueprintUserMessages: [Block_Silver_C_11] 1 Combo!
+[2018.11.19-13.19.27:237][642]LogBlueprintUserMessages: [Block_Silver_C_11] Score 5,602
+[2018.11.19-13.19.28:567][742]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.19.28:638][742]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.20.10:080][436]BlueprintLog: New page: Block_Silver 컴파일
+[2018.11.19-13.20.11:041][467]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.20.11:085][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.20.11:086][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-13.20.11:086][467]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:20:11)
+[2018.11.19-13.20.11:086][467]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.20.11:109][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022831s)
+[2018.11.19-13.20.11:110][467]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.20.11:111][467]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2018.11.19-13.20.11:111][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.024404s)
+[2018.11.19-13.20.11:188][467]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.20.11:239][467]LogInit: FAudioDevice initialized.
+[2018.11.19-13.20.11:395][467]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.20.11:397][467]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.20.11
+[2018.11.19-13.20.11:397][467]LogWorld: Bringing up level for play took: 0.001432
+[2018.11.19-13.20.11:398][467]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.20.11:406][467]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.346
+[2018.11.19-13.20.11:406][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.20.11:999][499]LogBlueprintUserMessages: [Block_Silver_C_0] Fever 5%
+[2018.11.19-13.20.11:999][499]LogBlueprintUserMessages: [Block_Silver_C_0] 1 Combo!
+[2018.11.19-13.20.11:999][499]LogBlueprintUserMessages: [Block_Silver_C_0] Score 300
+[2018.11.19-13.20.13:136][567]LogBlueprintUserMessages: [Block_Silver_C_1] Fever 10%
+[2018.11.19-13.20.13:136][567]LogBlueprintUserMessages: [Block_Silver_C_1] 2 Combo!
+[2018.11.19-13.20.13:136][567]LogBlueprintUserMessages: [Block_Silver_C_1] Score 600
+[2018.11.19-13.20.14:573][655]LogBlueprintUserMessages: [Block_Brown_C_0] Fever 15%
+[2018.11.19-13.20.14:573][655]LogBlueprintUserMessages: [Block_Brown_C_0] 3 Combo!
+[2018.11.19-13.20.14:573][655]LogBlueprintUserMessages: [Block_Brown_C_0] Score 850
+[2018.11.19-13.20.16:032][745]LogBlueprintUserMessages: [Block_Brown_F_C_0] Fever 14%
+[2018.11.19-13.20.16:032][745]LogBlueprintUserMessages: [Block_Brown_F_C_0] 0 Combo!
+[2018.11.19-13.20.16:032][745]LogBlueprintUserMessages: [Block_Brown_F_C_0] Score 850
+[2018.11.19-13.20.17:565][841]LogBlueprintUserMessages: [Block_Silver_C_2] Fever 13%
+[2018.11.19-13.20.17:565][841]LogBlueprintUserMessages: [Block_Silver_C_2] 0 Combo!
+[2018.11.19-13.20.17:565][841]LogBlueprintUserMessages: [Block_Silver_C_2] Score 850
+[2018.11.19-13.20.19:021][929]LogBlueprintUserMessages: [Block_Brown_F_C_1] Fever 12%
+[2018.11.19-13.20.19:021][929]LogBlueprintUserMessages: [Block_Brown_F_C_1] 0 Combo!
+[2018.11.19-13.20.19:021][929]LogBlueprintUserMessages: [Block_Brown_F_C_1] Score 850
+[2018.11.19-13.20.20:550][ 23]LogBlueprintUserMessages: [Block_Silver_C_3] Fever 11%
+[2018.11.19-13.20.20:550][ 23]LogBlueprintUserMessages: [Block_Silver_C_3] 0 Combo!
+[2018.11.19-13.20.20:550][ 23]LogBlueprintUserMessages: [Block_Silver_C_3] Score 850
+[2018.11.19-13.20.21:601][ 89]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_Brown_C]
+[2018.11.19-13.20.23:663][220]LogBlueprintUserMessages: [Block_Silver_C_4] Fever 16%
+[2018.11.19-13.20.23:663][220]LogBlueprintUserMessages: [Block_Silver_C_4] 1 Combo!
+[2018.11.19-13.20.23:663][220]LogBlueprintUserMessages: [Block_Silver_C_4] Score 1,150
+[2018.11.19-13.20.25:350][324]LogBlueprintUserMessages: [Block_Brown_C_2] Fever 21%
+[2018.11.19-13.20.25:350][324]LogBlueprintUserMessages: [Block_Brown_C_2] 2 Combo!
+[2018.11.19-13.20.25:350][324]LogBlueprintUserMessages: [Block_Brown_C_2] Score 1,377
+[2018.11.19-13.20.26:703][410]LogBlueprintUserMessages: [Block_Silver_C_5] Fever 20%
+[2018.11.19-13.20.26:703][410]LogBlueprintUserMessages: [Block_Silver_C_5] 0 Combo!
+[2018.11.19-13.20.26:703][410]LogBlueprintUserMessages: [Block_Silver_C_5] Score 1,377
+[2018.11.19-13.20.28:412][516]LogBlueprintUserMessages: [Block_Brown_C_3] Fever 25%
+[2018.11.19-13.20.28:412][516]LogBlueprintUserMessages: [Block_Brown_C_3] 1 Combo!
+[2018.11.19-13.20.28:412][516]LogBlueprintUserMessages: [Block_Brown_C_3] Score 1,599
+[2018.11.19-13.20.29:960][610]LogBlueprintUserMessages: [Block_Brown_C_4] Fever 30%
+[2018.11.19-13.20.29:961][610]LogBlueprintUserMessages: [Block_Brown_C_4] 2 Combo!
+[2018.11.19-13.20.29:961][610]LogBlueprintUserMessages: [Block_Brown_C_4] Score 1,818
+[2018.11.19-13.20.31:526][706]LogBlueprintUserMessages: [Block_Silver_C_6] Fever 29%
+[2018.11.19-13.20.31:526][706]LogBlueprintUserMessages: [Block_Silver_C_6] 0 Combo!
+[2018.11.19-13.20.31:526][706]LogBlueprintUserMessages: [Block_Silver_C_6] Score 1,818
+[2018.11.19-13.20.32:992][797]LogBlueprintUserMessages: [Block_Silver_C_7] Fever 28%
+[2018.11.19-13.20.32:992][797]LogBlueprintUserMessages: [Block_Silver_C_7] 0 Combo!
+[2018.11.19-13.20.32:992][797]LogBlueprintUserMessages: [Block_Silver_C_7] Score 1,818
+[2018.11.19-13.20.34:241][873]LogBlueprintUserMessages: [Block_Silver_C_8] Fever 33%
+[2018.11.19-13.20.34:241][873]LogBlueprintUserMessages: [Block_Silver_C_8] 1 Combo!
+[2018.11.19-13.20.34:241][873]LogBlueprintUserMessages: [Block_Silver_C_8] Score 2,118
+[2018.11.19-13.20.36:005][984]LogBlueprintUserMessages: [Block_Brown_C_5] Fever 38%
+[2018.11.19-13.20.36:005][984]LogBlueprintUserMessages: [Block_Brown_C_5] 2 Combo!
+[2018.11.19-13.20.36:005][984]LogBlueprintUserMessages: [Block_Brown_C_5] Score 2,335
+[2018.11.19-13.20.37:274][ 59]LogBlueprintUserMessages: [Block_Silver_C_9] Fever 37%
+[2018.11.19-13.20.37:274][ 59]LogBlueprintUserMessages: [Block_Silver_C_9] 0 Combo!
+[2018.11.19-13.20.37:274][ 59]LogBlueprintUserMessages: [Block_Silver_C_9] Score 2,335
+[2018.11.19-13.20.38:808][153]LogBlueprintUserMessages: [Block_Brown_C_6] Fever 42%
+[2018.11.19-13.20.38:808][153]LogBlueprintUserMessages: [Block_Brown_C_6] 1 Combo!
+[2018.11.19-13.20.38:808][153]LogBlueprintUserMessages: [Block_Brown_C_6] Score 2,574
+[2018.11.19-13.20.40:130][233]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.20.40:195][233]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.21.01:125][ 36]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.19-13.21.01:163][ 36]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.21.01:163][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-13.21.01:163][ 36]PIE: New page: PIE 세션: MainGame (2018. 11. 20. 오전 7:21:01)
+[2018.11.19-13.21.01:164][ 36]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.19-13.21.01:183][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018534s)
+[2018.11.19-13.21.01:184][ 36]LogAIModule: Creating AISystem for world MainGame
+[2018.11.19-13.21.01:184][ 36]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2018.11.19-13.21.01:184][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.020043s)
+[2018.11.19-13.21.01:214][ 36]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-13.21.01:268][ 36]LogInit: FAudioDevice initialized.
+[2018.11.19-13.21.01:414][ 36]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.19-13.21.01:416][ 36]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.19-22.21.01
+[2018.11.19-13.21.01:416][ 36]LogWorld: Bringing up level for play took: 0.000918
+[2018.11.19-13.21.01:416][ 36]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.19-13.21.01:425][ 36]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.365
+[2018.11.19-13.21.01:425][ 36]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.19-13.21.02:175][ 76]LogBlueprintUserMessages: [Block_Silver_C_0] Fever 0%
+[2018.11.19-13.21.02:175][ 76]LogBlueprintUserMessages: [Block_Silver_C_0] 0 Combo!
+[2018.11.19-13.21.02:175][ 76]LogBlueprintUserMessages: [Block_Silver_C_0] Score 0
+[2018.11.19-13.21.03:123][138]LogBlueprintUserMessages: [Block_Silver_C_1] Fever 0%
+[2018.11.19-13.21.03:123][138]LogBlueprintUserMessages: [Block_Silver_C_1] 0 Combo!
+[2018.11.19-13.21.03:123][138]LogBlueprintUserMessages: [Block_Silver_C_1] Score 0
+[2018.11.19-13.21.04:121][203]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_Brown_C]
+[2018.11.19-13.21.06:351][348]LogBlueprintUserMessages: [Block_Silver_C_2] Fever 0%
+[2018.11.19-13.21.06:351][348]LogBlueprintUserMessages: [Block_Silver_C_2] 0 Combo!
+[2018.11.19-13.21.06:351][348]LogBlueprintUserMessages: [Block_Silver_C_2] Score 0
+[2018.11.19-13.21.08:136][463]LogBlueprintUserMessages: [Block_Silver_C_3] Fever 5%
+[2018.11.19-13.21.08:137][463]LogBlueprintUserMessages: [Block_Silver_C_3] 1 Combo!
+[2018.11.19-13.21.08:137][463]LogBlueprintUserMessages: [Block_Silver_C_3] Score 300
+[2018.11.19-13.21.09:277][537]LogBlueprintUserMessages: [Block_Brown_C_1] Fever 10%
+[2018.11.19-13.21.09:278][537]LogBlueprintUserMessages: [Block_Brown_C_1] 2 Combo!
+[2018.11.19-13.21.09:278][537]LogBlueprintUserMessages: [Block_Brown_C_1] Score 536
+[2018.11.19-13.21.10:726][629]LogBlueprintUserMessages: [Block_Silver_C_4] Fever 15%
+[2018.11.19-13.21.10:726][629]LogBlueprintUserMessages: [Block_Silver_C_4] 3 Combo!
+[2018.11.19-13.21.10:726][629]LogBlueprintUserMessages: [Block_Silver_C_4] Score 836
+[2018.11.19-13.21.13:786][827]LogBlueprintUserMessages: [Block_Brown_C_2] Fever 20%
+[2018.11.19-13.21.13:787][827]LogBlueprintUserMessages: [Block_Brown_C_2] 4 Combo!
+[2018.11.19-13.21.13:787][827]LogBlueprintUserMessages: [Block_Brown_C_2] Score 1,072
+[2018.11.19-13.21.15:473][936]LogBlueprintUserMessages: [Block_Silver_C_6] Fever 30%
+[2018.11.19-13.21.15:473][936]LogBlueprintUserMessages: [Block_Silver_C_6] 6 Combo!
+[2018.11.19-13.21.15:473][936]LogBlueprintUserMessages: [Block_Silver_C_6] Score 1,672
+[2018.11.19-13.21.17:363][ 59]LogBlueprintUserMessages: [Block_Brown_F_C_0] Fever 29%
+[2018.11.19-13.21.17:363][ 59]LogBlueprintUserMessages: [Block_Brown_F_C_0] 0 Combo!
+[2018.11.19-13.21.17:363][ 59]LogBlueprintUserMessages: [Block_Brown_F_C_0] Score 1,672
+[2018.11.19-13.21.18:223][115]LogBlueprintUserMessages: [Block_Brown_F_C_1] Fever 28%
+[2018.11.19-13.21.18:223][115]LogBlueprintUserMessages: [Block_Brown_F_C_1] 0 Combo!
+[2018.11.19-13.21.18:223][115]LogBlueprintUserMessages: [Block_Brown_F_C_1] Score 1,672
+[2018.11.19-13.21.19:878][217]LogBlueprintUserMessages: [Block_Silver_C_7] Fever 33%
+[2018.11.19-13.21.19:879][217]LogBlueprintUserMessages: [Block_Silver_C_7] 1 Combo!
+[2018.11.19-13.21.19:879][217]LogBlueprintUserMessages: [Block_Silver_C_7] Score 1,972
+[2018.11.19-13.21.21:637][333]LogBlueprintUserMessages: [Block_Silver_C_8] Fever 38%
+[2018.11.19-13.21.21:637][333]LogBlueprintUserMessages: [Block_Silver_C_8] 2 Combo!
+[2018.11.19-13.21.21:637][333]LogBlueprintUserMessages: [Block_Silver_C_8] Score 2,272
+[2018.11.19-13.21.25:233][564]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_Silver_C]
+[2018.11.19-13.21.26:055][616]LogBlueprintUserMessages: [Block_Brown_C_3] Fever 48%
+[2018.11.19-13.21.26:055][616]LogBlueprintUserMessages: [Block_Brown_C_3] 4 Combo!
+[2018.11.19-13.21.26:055][616]LogBlueprintUserMessages: [Block_Brown_C_3] Score 2,539
+[2018.11.19-13.21.27:313][696]LogBlueprintUserMessages: [Block_Brown_C_4] Fever 53%
+[2018.11.19-13.21.27:313][696]LogBlueprintUserMessages: [Block_Brown_C_4] 5 Combo!
+[2018.11.19-13.21.27:313][696]LogBlueprintUserMessages: [Block_Brown_C_4] Score 2,781
+[2018.11.19-13.21.29:072][809]LogBlueprintUserMessages: [Block_Brown_C_5] Fever 58%
+[2018.11.19-13.21.29:072][809]LogBlueprintUserMessages: [Block_Brown_C_5] 6 Combo!
+[2018.11.19-13.21.29:072][809]LogBlueprintUserMessages: [Block_Brown_C_5] Score 2,998
+[2018.11.19-13.21.29:739][850]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_Brown_F_C]
+[2018.11.19-13.21.33:456][ 86]LogBlueprintUserMessages: [Block_Brown_C_6] Fever 63%
+[2018.11.19-13.21.33:456][ 86]LogBlueprintUserMessages: [Block_Brown_C_6] 7 Combo!
+[2018.11.19-13.21.33:456][ 86]LogBlueprintUserMessages: [Block_Brown_C_6] Score 3,226
+[2018.11.19-13.21.34:916][175]LogBlueprintUserMessages: [Block_Silver_C_10] Fever 73%
+[2018.11.19-13.21.34:916][175]LogBlueprintUserMessages: [Block_Silver_C_10] 9 Combo!
+[2018.11.19-13.21.34:916][175]LogBlueprintUserMessages: [Block_Silver_C_10] Score 3,726
+[2018.11.19-13.21.36:919][303]LogBlueprintUserMessages: [Block_Gold_C_0] Fever 78%
+[2018.11.19-13.21.36:919][303]LogBlueprintUserMessages: [Block_Gold_C_0] 10 Combo!
+[2018.11.19-13.21.36:919][303]LogBlueprintUserMessages: [Block_Gold_C_0] Score 4,472
+[2018.11.19-13.21.38:136][383]LogBlueprintUserMessages: [Block_Brown_F_C_5] Fever 77%
+[2018.11.19-13.21.38:136][383]LogBlueprintUserMessages: [Block_Brown_F_C_5] 0 Combo!
+[2018.11.19-13.21.38:136][383]LogBlueprintUserMessages: [Block_Brown_F_C_5] Score 4,472
+[2018.11.19-13.21.39:078][443]LogBlueprintUserMessages: [Block_Silver_C_11] Fever 76%
+[2018.11.19-13.21.39:078][443]LogBlueprintUserMessages: [Block_Silver_C_11] 0 Combo!
+[2018.11.19-13.21.39:078][443]LogBlueprintUserMessages: [Block_Silver_C_11] Score 4,472
+[2018.11.19-13.21.40:504][521]LogBlueprintUserMessages: [Block_Brown_F_C_6] Fever 75%
+[2018.11.19-13.21.40:504][521]LogBlueprintUserMessages: [Block_Brown_F_C_6] 0 Combo!
+[2018.11.19-13.21.40:505][521]LogBlueprintUserMessages: [Block_Brown_F_C_6] Score 4,472
+[2018.11.19-13.21.42:035][614]LogBlueprintUserMessages: [Block_Silver_C_12] Fever 74%
+[2018.11.19-13.21.42:035][614]LogBlueprintUserMessages: [Block_Silver_C_12] 0 Combo!
+[2018.11.19-13.21.42:035][614]LogBlueprintUserMessages: [Block_Silver_C_12] Score 4,472
+[2018.11.19-13.21.44:255][760]LogBlueprintUserMessages: [Block_Silver_C_13] Fever 73%
+[2018.11.19-13.21.44:255][760]LogBlueprintUserMessages: [Block_Silver_C_13] 0 Combo!
+[2018.11.19-13.21.44:255][760]LogBlueprintUserMessages: [Block_Silver_C_13] Score 4,472
+[2018.11.19-13.21.44:888][798]LogBlueprintUserMessages: [Block_Brown_C_7] Fever 78%
+[2018.11.19-13.21.44:888][798]LogBlueprintUserMessages: [Block_Brown_C_7] 1 Combo!
+[2018.11.19-13.21.44:888][798]LogBlueprintUserMessages: [Block_Brown_C_7] Score 4,693
+[2018.11.19-13.21.46:518][902]LogBlueprintUserMessages: [Block_Silver_C_14] Fever 83%
+[2018.11.19-13.21.46:518][902]LogBlueprintUserMessages: [Block_Silver_C_14] 2 Combo!
+[2018.11.19-13.21.46:518][902]LogBlueprintUserMessages: [Block_Silver_C_14] Score 4,993
+[2018.11.19-13.21.47:624][973]LogBlueprintUserMessages: [Block_Silver_C_15] Fever 88%
+[2018.11.19-13.21.47:624][973]LogBlueprintUserMessages: [Block_Silver_C_15] 3 Combo!
+[2018.11.19-13.21.47:624][973]LogBlueprintUserMessages: [Block_Silver_C_15] Score 5,293
+[2018.11.19-13.21.48:973][ 59]LogBlueprintUserMessages: [Block_Silver_C_16] Fever 93%
+[2018.11.19-13.21.48:974][ 59]LogBlueprintUserMessages: [Block_Silver_C_16] 4 Combo!
+[2018.11.19-13.21.48:974][ 59]LogBlueprintUserMessages: [Block_Silver_C_16] Score 5,593
+[2018.11.19-13.21.50:300][143]LogBlueprintUserMessages: [Block_Silver_C_17] Fever 92%
+[2018.11.19-13.21.50:301][143]LogBlueprintUserMessages: [Block_Silver_C_17] 0 Combo!
+[2018.11.19-13.21.50:301][143]LogBlueprintUserMessages: [Block_Silver_C_17] Score 5,593
+[2018.11.19-13.21.53:415][345]LogNet: Browse: /Game/PuzzleBP/Maps/MainMenu
+[2018.11.19-13.21.53:415][345]LogLoad: LoadMap: /Game/PuzzleBP/Maps/MainMenu
+[2018.11.19-13.21.54:697][345]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.737 s
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: 
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: 
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: Stack: 
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x000000007EFE2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x000000007ED8123A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x000000007ED9B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x0000000073980199 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x000000007394EF4D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x000000007E5D6C17 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x000000007E8EDED6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x000000007E905259 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x000000007E904774 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x000000007CDDFB28 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x000000007CD93FA8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x000000007CE0539D UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x0000000075CA61B1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x0000000076554AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x0000000063C75A26 UE4Editor.exe!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x0000000063C85430 UE4Editor.exe!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x0000000063C854AA UE4Editor.exe!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x0000000063C92379 UE4Editor.exe!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x0000000063C93D57 UE4Editor.exe!UnknownFunction []
+[2018.11.19-13.21.54:698][345]LogOutputDevice: Error: [Callstack] 0x00000000D5D63034 KERNEL32.DLL!UnknownFunction []
+[2018.11.19-13.21.54:699][345]LogOutputDevice: Error: [Callstack] 0x00000000D8931471 ntdll.dll!UnknownFunction []
+[2018.11.19-13.21.54:699][345]LogOutputDevice: Error: 
+[2018.11.19-13.21.54:709][345]LogStats:                SubmitErrorReport -  0.000 s
