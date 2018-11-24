@@ -1,0 +1,1376 @@
+﻿Log file open, 11/24/18 21:00:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameGem
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1554557142) SRandInit(1554557142).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.247435
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.24-12.00.17:483][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.24-12.00.17:483][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.24-12.00.17:495][  0]LogInit: Computer: DESKTOP-OCEV6JO
+[2018.11.24-12.00.17:495][  0]LogInit: User: joono
+[2018.11.24-12.00.17:495][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.11.24-12.00.17:495][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2018.11.24-12.00.17:495][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.24-12.00.17:495][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.24-12.00.17:495][  0]LogMemory: Process Physical Memory: 271.80 MB used, 271.80 MB peak
+[2018.11.24-12.00.17:495][  0]LogMemory: Process Virtual Memory: 270.03 MB used, 270.03 MB peak
+[2018.11.24-12.00.17:495][  0]LogMemory: Physical Memory: 6388.95 MB used,  9937.72 MB free, 16326.67 MB total
+[2018.11.24-12.00.17:495][  0]LogMemory: Virtual Memory: 4783.48 MB used,  9937.72 MB free, 134217728.00 MB total
+[2018.11.24-12.00.17:736][  0]LogInit: Using OS detected language (ko-KR).
+[2018.11.24-12.00.17:736][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.11.24-12.00.17:740][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.11.24-12.00.17:895][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.24-12.00.18:187][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.24-12.00.18:248][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.11.24-12.00.18:248][  0]LogD3D11RHI:       1987/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.24-12.00.18:250][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.24-12.00.18:250][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.24-12.00.18:250][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.24-12.00.18:254][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.24-12.00.18:254][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.24-12.00.18:254][  0]LogWindows: EnumDisplayDevices:
+[2018.11.24-12.00.18:255][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.11.24-12.00.18:255][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2018.11.24-12.00.18:255][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.11.24-12.00.18:256][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.11.24-12.00.18:256][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.24-12.00.18:256][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.11.24-12.00.18:256][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.24-12.00.18:256][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.24-12.00.18:256][  0]LogRHI: Texture pool is 1391 MB (70% of 1987 MB)
+[2018.11.24-12.00.18:281][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.24-12.00.18:291][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.24-12.00.18:394][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Intermediate/Shaders/WorkingDirectory/7700/).
+[2018.11.24-12.00.18:394][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joono/AppData/Local/Temp/UnrealShaderWorkingDir/3AC8C8AF489C9C68BDED498E51AD9B64/'.
+[2018.11.24-12.00.18:394][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.24-12.00.19:250][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.24-12.00.19:320][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.24-12.00.19:389][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.24-12.00.19:457][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.24-12.00.19:527][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.24-12.00.19:595][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.24-12.00.19:663][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.24-12.00.19:735][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.24-12.00.19:798][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.24-12.00.19:865][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.24-12.00.19:931][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.24-12.00.19:999][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.24-12.00.20:065][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.24-12.00.20:131][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.24-12.00.20:266][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.24-12.00.20:266][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.24-12.00.20:335][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.24-12.00.20:396][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.24-12.00.20:515][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.24-12.00.20:548][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.24-12.00.20:617][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.24-12.00.20:686][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.24-12.00.20:752][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.24-12.00.20:820][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.24-12.00.20:820][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.24-12.00.21:478][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.24-12.00.21:539][  0]LogDerivedDataCache: Loaded boot cache 0.06s 80MB C:/Users/joono/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.24-12.00.21:539][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joono/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.11.24-12.00.21:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.24-12.00.21:540][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.24-12.00.21:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.24-12.00.21:540][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.24-12.00.21:553][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.24-12.00.21:565][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joono/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.24-12.00.21:573][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.24-12.00.21:574][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.24-12.00.21:574][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.24-12.00.21:574][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.24-12.00.21:902][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.24-12.00.22:322][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.24-12.00.22:382][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.24-12.00.22:382][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.24-12.00.22:382][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.24-12.00.22:382][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.24-12.00.22:382][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.24-12.00.22:417][  0]LogNetVersion: GameGem , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 882068137)
+[2018.11.24-12.00.22:603][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.11.24-12.00.23:125][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.059747 seconds
+[2018.11.24-12.00.23:130][  0]LogUObjectArray: 35877 objects as part of root set at end of initial load.
+[2018.11.24-12.00.23:130][  0]LogUObjectAllocator: 7366024 out of 0 bytes used by permanent object pool.
+[2018.11.24-12.00.23:130][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.24-12.00.23:207][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.11.24-12.00.26:537][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.24-12.00.26:596][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.24-12.00.27:604][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.11.24-12.00.28:231][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.24-12.00.28:231][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.24-12.00.28:319][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.24-12.00.28:404][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.24-12.00.29:660][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.24-12.00.30:083][  0]LogOcInput: OculusInput pre-init called
+[2018.11.24-12.00.30:510][  0]LogEngine: Initializing Engine...
+[2018.11.24-12.00.30:513][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.24-12.00.30:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.24-12.00.30:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.24-12.00.30:911][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.24-12.00.30:975][  0]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.24-12.00.31:002][  0]LogInit: FAudioDevice initialized.
+[2018.11.24-12.00.31:079][  0]LogDerivedDataCache: Saved boot cache 0.08s 80MB C:/Users/joono/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.24-12.00.31:093][  0]LogInit: Texture streaming: Enabled
+[2018.11.24-12.00.31:249][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.24-12.00.31:463][  0]LogInit: Transaction tracking system initialized
+[2018.11.24-12.00.31:967][  0]BlueprintLog: New page: 에디터 로드
+[2018.11.24-12.00.33:396][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.11.24-12.00.34:665][  0]LogConsoleResponse: Display: 
+[2018.11.24-12.00.34:850][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.24-12.00.34:850][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.24-12.00.34:850][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.24-12.00.35:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/' took 0.01s
+[2018.11.24-12.00.36:632][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.24-12.00.36:632][  0]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.24-12.00.36:632][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.24-12.00.36:695][  0]MapCheck: New page: 맵 체크
+[2018.11.24-12.00.36:695][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.24-12.00.37:815][  0]LogAIModule: Creating AISystem for world MainGame
+[2018.11.24-12.00.37:822][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.24-12.00.37:837][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.24-12.00.37:920][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 82.775ms.
+[2018.11.24-12.00.37:920][  0]LogFileHelpers: Loading map 'MainGame' took 1.288
+[2018.11.24-12.00.38:071][  0]LogCollectionManager: Loaded 0 collections in 0.001818 seconds
+[2018.11.24-12.00.38:173][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/Collections/' took 0.01s
+[2018.11.24-12.00.38:173][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/Developers/joono/Collections/' took 0.01s
+[2018.11.24-12.00.38:173][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/Collections/' took 0.01s
+[2018.11.24-12.00.38:173][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.24-12.00.38:181][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2363 classes and 519 folders.
+[2018.11.24-12.00.38:277][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.24-12.00.38:323][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.24-12.00.38:386][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.24-12.00.38:540][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.24-12.00.38:540][  0]LogLoad: (Engine Initialization) Total time: 24.01 seconds
+[2018.11.24-12.00.38:540][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.24-12.00.38:540][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.11.24-12.00.38:551][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.11.24-12.00.38:571][  0]LogAssetRegistry: Asset discovery search completed in 15.9901 seconds
+[2018.11.24-12.00.38:572][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.24-12.00.38:572][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2018.11.24-12.00.38:573][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.24-12.00.38:582][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.24-12.00.38:584][  0]LogSlate: Took 0.001901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.11.24-12.00.38:585][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.24-12.00.38:588][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.24-12.00.38:702][  0]LogRenderer: Reallocating scene render targets to support 1004x376 Format 10 NumSamples 1 (Frame:1).
+[2018.11.24-12.00.38:735][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.24-12.01.20:405][763]LogRenderer: Reallocating scene render targets to support 1384x476 Format 10 NumSamples 1 (Frame:4).
+[2018.11.24-12.01.26:389][475]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.24-12.01.28:281][693]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.24-12.01.28:552][693]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.11.24-12.01.29:079][693]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.24-12.01.29:396][694]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.24-12.01.57:608][ 21]BlueprintLog: New page: MainGame 컴파일
+[2018.11.24-12.01.58:679][ 56]LogSavePackage: Save=449.38ms
+[2018.11.24-12.01.58:679][ 56]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGame1109043C4922F67E0C28648E14D163CC.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.24-12.01.58:685][ 56]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.24-12.01.58:718][ 56]LogFileHelpers: Saving map 'MainGame' took 0.619
+[2018.11.24-12.04.15:808][207]BlueprintLog: New page: MainGame 컴파일
+[2018.11.24-12.04.16:811][236]LogSavePackage: Save=458.36ms
+[2018.11.24-12.04.16:811][236]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGame29966D72447EF12383345F908AB7FA16.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.24-12.04.16:815][236]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.24-12.04.16:847][236]LogFileHelpers: Saving map 'MainGame' took 0.606
+[2018.11.24-12.04.22:366][897]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.24-12.04.22:416][897]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.04.22:416][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-12.04.22:416][897]PIE: New page: PIE 세션: MainGame (2018. 11. 25. 오전 6:04:22)
+[2018.11.24-12.04.22:417][897]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.24-12.04.22:432][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015542s)
+[2018.11.24-12.04.22:433][897]LogAIModule: Creating AISystem for world MainGame
+[2018.11.24-12.04.22:433][897]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2018.11.24-12.04.22:433][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.016442s)
+[2018.11.24-12.04.22:508][897]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.24-12.04.22:523][897]LogInit: FAudioDevice initialized.
+[2018.11.24-12.04.22:593][897]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.24-12.04.22:595][897]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.24-21.04.22
+[2018.11.24-12.04.22:595][897]LogWorld: Bringing up level for play took: 0.000887
+[2018.11.24-12.04.22:657][897]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.11.24-12.04.22:663][897]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: -0.275
+[2018.11.24-12.04.22:663][897]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.04.22:687][897]LogRenderer: Reallocating scene render targets to support 1384x756 Format 10 NumSamples 1 (Frame:1).
+[2018.11.24-12.04.23:742][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.04.23:814][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.04.26:964][371]BlueprintLog: New page: 스코어매니저 컴파일
+[2018.11.24-12.04.27:578][385]LogSavePackage: Save=248.83ms
+[2018.11.24-12.04.27:578][385]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/스코어매니저141BF26F47A742D98AFD57BB976DB536.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.24-12.04.27:581][385]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.24-12.04.28:812][532]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.24-12.04.28:833][532]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.04.28:833][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-12.04.28:833][532]PIE: New page: PIE 세션: MainGame (2018. 11. 25. 오전 6:04:28)
+[2018.11.24-12.04.28:844][532]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.24-12.04.28:862][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017443s)
+[2018.11.24-12.04.28:862][532]LogAIModule: Creating AISystem for world MainGame
+[2018.11.24-12.04.28:863][532]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2018.11.24-12.04.28:863][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.018345s)
+[2018.11.24-12.04.28:938][532]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.24-12.04.28:953][532]LogInit: FAudioDevice initialized.
+[2018.11.24-12.04.29:007][532]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.24-12.04.29:009][532]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.24-21.04.29
+[2018.11.24-12.04.29:009][532]LogWorld: Bringing up level for play took: 0.000812
+[2018.11.24-12.04.29:014][532]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.077
+[2018.11.24-12.04.29:014][532]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.04.31:804][861]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_Silver_C]
+[2018.11.24-12.04.46:698][648]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.04.48:298][840]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.04.49:499][984]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.04.50:501][104]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.04.57:926][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.04.57:975][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.05.39:948][837]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.24-12.05.39:969][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.05.39:969][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-12.05.39:969][837]PIE: New page: PIE 세션: MainGame (2018. 11. 25. 오전 6:05:39)
+[2018.11.24-12.05.39:970][837]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.24-12.05.39:987][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017116s)
+[2018.11.24-12.05.39:988][837]LogAIModule: Creating AISystem for world MainGame
+[2018.11.24-12.05.39:988][837]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2018.11.24-12.05.39:988][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.018223s)
+[2018.11.24-12.05.40:059][837]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.24-12.05.40:074][837]LogInit: FAudioDevice initialized.
+[2018.11.24-12.05.40:126][837]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.24-12.05.40:128][837]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.24-21.05.40
+[2018.11.24-12.05.40:128][837]LogWorld: Bringing up level for play took: 0.000869
+[2018.11.24-12.05.40:133][837]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: -0.805
+[2018.11.24-12.05.40:133][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.06.01:343][372]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.06.01:943][444]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.06.02:343][492]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.06.02:943][564]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.06.03:143][588]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.06.10:214][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.06.10:262][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.06.45:065][494]BlueprintLog: New page: MainGame 컴파일
+[2018.11.24-12.06.46:021][518]LogSavePackage: Save=457.58ms
+[2018.11.24-12.06.46:021][518]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGame75FE7EA943FCD3DB0E8CB48759720635.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.24-12.06.46:025][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.24-12.06.46:058][518]LogFileHelpers: Saving map 'MainGame' took 0.609
+[2018.11.24-12.06.47:157][649]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.24-12.06.47:178][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.06.47:178][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-12.06.47:179][649]PIE: New page: PIE 세션: MainGame (2018. 11. 25. 오전 6:06:47)
+[2018.11.24-12.06.47:179][649]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.24-12.06.47:195][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016405s)
+[2018.11.24-12.06.47:196][649]LogAIModule: Creating AISystem for world MainGame
+[2018.11.24-12.06.47:196][649]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.11.24-12.06.47:196][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.017341s)
+[2018.11.24-12.06.47:270][649]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.24-12.06.47:288][649]LogInit: FAudioDevice initialized.
+[2018.11.24-12.06.47:338][649]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.24-12.06.47:339][649]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.24-21.06.47
+[2018.11.24-12.06.47:340][649]LogWorld: Bringing up level for play took: 0.000876
+[2018.11.24-12.06.47:344][649]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.407
+[2018.11.24-12.06.47:345][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.07.07:563][ 65]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.09:764][329]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.10:164][377]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.11:163][497]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.30:567][825]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_Silver_C]
+[2018.11.24-12.07.30:567][825]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_Brown_F_C]
+[2018.11.24-12.07.33:559][184]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.34:560][304]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.34:759][328]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.34:960][352]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.35:159][376]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.35:360][400]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.35:559][424]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.35:959][472]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.36:359][520]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.36:560][544]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.36:760][568]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.07.41:204][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.07.41:258][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.07.58:885][151]BlueprintLog: New page: MainGame 컴파일
+[2018.11.24-12.07.59:951][187]LogSavePackage: Save=460.69ms
+[2018.11.24-12.07.59:951][187]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGame9F64B3394C8BC852F1F1778AC9B720E9.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.24-12.07.59:955][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.24-12.07.59:988][187]LogFileHelpers: Saving map 'MainGame' took 0.618
+[2018.11.24-12.08.02:421][476]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.24-12.08.02:442][476]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.08.02:442][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-12.08.02:442][476]PIE: New page: PIE 세션: MainGame (2018. 11. 25. 오전 6:08:02)
+[2018.11.24-12.08.02:442][476]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.24-12.08.02:459][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016012s)
+[2018.11.24-12.08.02:459][476]LogAIModule: Creating AISystem for world MainGame
+[2018.11.24-12.08.02:459][476]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2018.11.24-12.08.02:459][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.016916s)
+[2018.11.24-12.08.02:536][476]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.24-12.08.02:551][476]LogInit: FAudioDevice initialized.
+[2018.11.24-12.08.02:604][476]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.24-12.08.02:606][476]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.24-21.08.02
+[2018.11.24-12.08.02:606][476]LogWorld: Bringing up level for play took: 0.000829
+[2018.11.24-12.08.02:611][476]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: -0.327
+[2018.11.24-12.08.02:611][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.08.17:422][245]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_Brown_F_C]
+[2018.11.24-12.08.21:114][688]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.21:514][736]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.21:514][736]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.21:515][736]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.21:515][736]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.21:515][736]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.22:114][808]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.22:315][832]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.22:315][832]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.22:514][856]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.22:515][856]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.22:714][880]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.22:914][904]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.22:915][904]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.22:915][904]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:114][928]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:114][928]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:115][928]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:115][928]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:115][928]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:115][928]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:116][928]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:314][952]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:314][952]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:315][952]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:315][952]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:315][952]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:316][952]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:515][976]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:515][976]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:515][976]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:516][976]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:516][976]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:516][976]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:516][976]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:714][  0]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:714][  0]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:715][  0]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:715][  0]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:914][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:915][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:915][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:915][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:915][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:916][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:916][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:916][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:917][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:917][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:917][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:917][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:918][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:918][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:918][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:919][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:919][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:919][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:919][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:920][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:920][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:920][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:921][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:921][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:921][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:921][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:922][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:922][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:922][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:923][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:923][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:923][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:923][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:924][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:924][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:924][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:924][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:925][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:925][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:925][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:926][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:926][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:926][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:926][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:927][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:927][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:927][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:927][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:928][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:928][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:928][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:928][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:929][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:929][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:929][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:930][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:930][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:930][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:930][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:931][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:931][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:931][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:931][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:932][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:932][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:932][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:933][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:933][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:933][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:933][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:934][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:934][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:934][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:935][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:935][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:935][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:935][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:936][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:936][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:936][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:936][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:937][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:937][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:937][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:938][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:938][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:938][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:939][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:939][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:939][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:939][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:940][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:940][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:940][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:941][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:941][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:941][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:941][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:942][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:942][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:942][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:943][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:943][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:943][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:943][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:944][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:944][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:944][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:945][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:945][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:945][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:945][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:946][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:946][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:946][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:947][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:947][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:947][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:947][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:948][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:948][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:948][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:949][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:949][ 24]LogScript: Warning: 무한 (250 콜) 스크립트 반복이 검출되었습니다. 로그에서 스택 추적 내역을 확인하세요.
+	Block_RainBow_C /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame:PersistentLevel.Block_RainBow_C_182
+	Function /Game/PuzzleBP/Blueprints/Block_RainBow.Block_RainBow_C:UserConstructionScript:0000
+[2018.11.24-12.08.23:949][ 24]PIE: Error: 무한 루프 발견된 곳:  Block_RainBow , 어서트 발생당시  Construction Script  with the following  콜 스택
+[2018.11.24-12.08.23:949][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.08.23:950][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.08.24:022][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.10.23:097][765]LogSlate: Took 0.004511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.24-12.10.25:090][987]BlueprintLog: New page: MainGame 컴파일
+[2018.11.24-12.10.26:085][ 13]LogSavePackage: Save=462.64ms
+[2018.11.24-12.10.26:085][ 13]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGameD94F55FB499359B407796389063D0011.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.24-12.10.26:089][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.24-12.10.26:122][ 13]LogFileHelpers: Saving map 'MainGame' took 0.613
+[2018.11.24-12.11.33:770][991]BlueprintLog: New page: MainGame 컴파일
+[2018.11.24-12.11.34:784][ 19]LogSavePackage: Save=469.88ms
+[2018.11.24-12.11.34:784][ 19]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGameB26804DA421232B1AF0DE88C38D62DBD.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.24-12.11.34:788][ 19]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.24-12.11.34:821][ 19]LogFileHelpers: Saving map 'MainGame' took 0.616
+[2018.11.24-12.13.07:216][450]BlueprintLog: New page: MainGame 컴파일
+[2018.11.24-12.13.08:224][477]LogSavePackage: Save=464.90ms
+[2018.11.24-12.13.08:225][477]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGame9312EB1241BA9278A5A43AB059A76542.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.24-12.13.08:228][477]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.24-12.13.08:261][477]LogFileHelpers: Saving map 'MainGame' took 0.623
+[2018.11.24-12.13.47:165][ 90]BlueprintLog: New page: MainGame 컴파일
+[2018.11.24-12.13.48:108][110]LogSavePackage: Save=470.72ms
+[2018.11.24-12.13.48:108][110]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGame8AA78EB54C8BEBF2130944BC4809322E.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.24-12.13.48:112][110]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.24-12.13.48:145][110]LogFileHelpers: Saving map 'MainGame' took 0.614
+[2018.11.24-12.13.48:897][200]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.24-12.13.48:918][200]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.13.48:918][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-12.13.48:918][200]PIE: New page: PIE 세션: MainGame (2018. 11. 25. 오전 6:13:48)
+[2018.11.24-12.13.48:918][200]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.24-12.13.48:935][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016578s)
+[2018.11.24-12.13.48:936][200]LogAIModule: Creating AISystem for world MainGame
+[2018.11.24-12.13.48:936][200]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2018.11.24-12.13.48:936][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.017615s)
+[2018.11.24-12.13.49:011][200]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.24-12.13.49:027][200]LogInit: FAudioDevice initialized.
+[2018.11.24-12.13.49:082][200]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.24-12.13.49:084][200]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.24-21.13.49
+[2018.11.24-12.13.49:084][200]LogWorld: Bringing up level for play took: 0.001000
+[2018.11.24-12.13.49:089][200]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.152
+[2018.11.24-12.13.49:089][200]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.14.05:392][150]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_Brown_F_C]
+[2018.11.24-12.14.08:684][545]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.09:284][617]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.10:084][713]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.10:484][761]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.10:485][761]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.10:684][785]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.10:684][785]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.10:884][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.10:885][809]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:084][833]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:084][833]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:085][833]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:284][857]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:285][857]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:285][857]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:285][857]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:684][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:685][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:685][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:685][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:685][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:686][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:686][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:686][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:686][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:687][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:687][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:687][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:688][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:688][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:688][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:688][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:689][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:689][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:689][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:690][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:690][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:690][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:690][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:890][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:890][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:890][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:890][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:891][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:891][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:891][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:892][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:892][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:892][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:892][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:893][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:893][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:893][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:893][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:894][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:894][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:894][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:895][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:895][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:895][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:895][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.11:896][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:094][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:095][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:095][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:095][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:095][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:096][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:096][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:096][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:097][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:097][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:097][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:097][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:098][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:098][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:098][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:099][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:099][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:099][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:099][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:100][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:100][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:100][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:100][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:101][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:101][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:101][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:101][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:102][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:102][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:102][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:103][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:103][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:103][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:103][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:104][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:104][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:104][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:104][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:105][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:105][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:105][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:106][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:106][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:106][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:106][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:107][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:107][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:107][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:107][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:108][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:108][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:108][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:108][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:109][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:109][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:109][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:110][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:110][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:110][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:110][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:111][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:111][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:111][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:111][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:112][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:112][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:112][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:113][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:113][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:113][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:113][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:114][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:114][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:114][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:114][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:115][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:115][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:115][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:116][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:116][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:116][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:116][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:117][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:117][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:117][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:118][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:118][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:118][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:118][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:119][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:119][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:119][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:119][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:120][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:120][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:120][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:120][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:121][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:121][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:121][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:122][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:122][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:122][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:122][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:123][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:123][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:123][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:123][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:124][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:124][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:124][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:125][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:125][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:125][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:125][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:126][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:126][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:126][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:126][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:127][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:127][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:127][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:127][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:128][953]LogScript: Warning: 무한 (250 콜) 스크립트 반복이 검출되었습니다. 로그에서 스택 추적 내역을 확인하세요.
+	Block_RainBow_C /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame:PersistentLevel.Block_RainBow_C_206
+	Function /Game/PuzzleBP/Blueprints/Block_RainBow.Block_RainBow_C:UserConstructionScript:0000
+[2018.11.24-12.14.12:128][953]PIE: Error: 무한 루프 발견된 곳:  Block_RainBow , 어서트 발생당시  Construction Script  with the following  콜 스택
+[2018.11.24-12.14.12:128][953]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.14.12:128][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.14.12:199][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.14.51:880][587]BlueprintLog: New page: MainGame 컴파일
+[2018.11.24-12.14.52:880][613]LogSavePackage: Save=474.84ms
+[2018.11.24-12.14.52:880][613]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGame082B3277405A9A76D0F45BA0E929197B.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.24-12.14.52:884][613]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.24-12.14.52:918][613]LogFileHelpers: Saving map 'MainGame' took 0.627
+[2018.11.24-12.14.54:916][851]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.24-12.14.54:938][851]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.14.54:938][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-12.14.54:938][851]PIE: New page: PIE 세션: MainGame (2018. 11. 25. 오전 6:14:54)
+[2018.11.24-12.14.54:939][851]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.24-12.14.54:954][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014771s)
+[2018.11.24-12.14.54:954][851]LogAIModule: Creating AISystem for world MainGame
+[2018.11.24-12.14.54:954][851]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2018.11.24-12.14.54:954][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.015694s)
+[2018.11.24-12.14.55:031][851]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.24-12.14.55:047][851]LogInit: FAudioDevice initialized.
+[2018.11.24-12.14.55:104][851]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.24-12.14.55:105][851]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.24-21.14.55
+[2018.11.24-12.14.55:105][851]LogWorld: Bringing up level for play took: 0.000771
+[2018.11.24-12.14.55:110][851]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.173
+[2018.11.24-12.14.55:111][851]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.15.14:471][168]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.15:271][264]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.15:271][264]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.15:672][310]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.15:672][310]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.15:672][310]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.15:673][310]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.15:673][310]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.15:872][334]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.15:872][334]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:071][358]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:272][382]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:272][382]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:273][382]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:273][382]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:273][382]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:273][382]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:274][382]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:274][382]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:274][382]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:472][406]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:472][406]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:672][430]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:673][430]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:673][430]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:673][430]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:674][430]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:873][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:873][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:873][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:874][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:874][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:874][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:874][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:875][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:875][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:875][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:876][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:876][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:876][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.16:877][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.17:075][478]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.17:076][478]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.17:275][502]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.18:375][634]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.19:476][766]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.20:575][898]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.21:675][ 30]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.22:776][162]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.23:876][294]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.24:976][426]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.26:075][558]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-12.15.26:805][645]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.15.26:882][645]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-12.25.25:088][843]LogSavePackage: Save=501.36ms
+[2018.11.24-12.25.25:088][843]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGame_Auto149B399E24055F2B4047F118BB52884A7.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto1.umap'
+[2018.11.24-12.25.25:089][843]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto1.umap
+[2018.11.24-12.25.25:091][843]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/MainGame' took 0.552
+[2018.11.24-12.25.25:091][843]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.552
+[2018.11.24-12.41.45:585][266]LogSavePackage: Save=480.60ms
+[2018.11.24-12.41.45:585][266]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGame_Auto2E90DC4CF4214684DAFB598B227E31018.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto2.umap'
+[2018.11.24-12.41.45:586][266]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/Autosaves/Game/PuzzleBP/Maps/MainGame_Auto2.umap
+[2018.11.24-12.41.45:588][266]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/MainGame' took 0.528
+[2018.11.24-12.41.45:588][266]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.528
+[2018.11.24-12.42.15:243][803]BlueprintLog: New page: MainGame 컴파일
+[2018.11.24-12.42.16:237][828]LogSavePackage: Save=472.92ms
+[2018.11.24-12.42.16:238][828]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGameF86AE70E4948EEA9CC3040B054D6B0A1.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.24-12.42.16:241][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.24-12.42.16:274][828]LogFileHelpers: Saving map 'MainGame' took 0.625
+[2018.11.24-12.42.32:916][798]BlueprintLog: New page: MainGame 컴파일
+[2018.11.24-12.42.33:920][827]LogSavePackage: Save=461.88ms
+[2018.11.24-12.42.33:920][827]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGame289004BD4938280DEB70A6B80E79296E.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.24-12.42.33:923][827]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.24-12.42.33:956][827]LogFileHelpers: Saving map 'MainGame' took 0.607
+[2018.11.24-14.24.56:601][157]BlueprintLog: New page: MainGame 컴파일
+[2018.11.24-14.24.57:901][218]LogSavePackage: Save=464.56ms
+[2018.11.24-14.24.57:901][218]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainGame652329EE465F105FD67A3BA221711121.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap'
+[2018.11.24-14.24.57:905][218]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap
+[2018.11.24-14.24.57:939][218]LogFileHelpers: Saving map 'MainGame' took 0.629
+[2018.11.24-14.25.22:427][ 60]BlueprintLog: New page: 스코어매니저 컴파일
+[2018.11.24-14.25.23:171][ 86]LogSavePackage: Save=250.14ms
+[2018.11.24-14.25.23:171][ 86]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/스코어매니저87DDCB41409CA0918570C381BAC0EF3F.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.24-14.25.23:174][ 86]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.24-14.25.39:742][ 51]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.24-14.25.39:765][ 51]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-14.25.39:765][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-14.25.39:766][ 51]PIE: New page: PIE 세션: MainGame (2018. 11. 25. 오전 8:25:39)
+[2018.11.24-14.25.39:777][ 51]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.24-14.25.39:794][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016332s)
+[2018.11.24-14.25.39:795][ 51]LogAIModule: Creating AISystem for world MainGame
+[2018.11.24-14.25.39:795][ 51]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2018.11.24-14.25.39:795][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.017510s)
+[2018.11.24-14.25.39:870][ 51]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.24-14.25.39:886][ 51]LogInit: FAudioDevice initialized.
+[2018.11.24-14.25.39:939][ 51]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.24-14.25.39:940][ 51]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.24-23.25.39
+[2018.11.24-14.25.39:940][ 51]LogWorld: Bringing up level for play took: 0.000887
+[2018.11.24-14.25.39:946][ 51]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 1.008
+[2018.11.24-14.25.39:946][ 51]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-14.25.54:737][820]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_Silver_C]
+[2018.11.24-14.25.57:637][168]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_Silver_C]
+[2018.11.24-14.26.00:130][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.00:529][515]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.00:929][563]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.00:930][563]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.01:129][587]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.01:130][587]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.01:330][611]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.01:330][611]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.01:529][635]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.01:929][683]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.01:930][683]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.01:930][683]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.02:330][731]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.20:624][926]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.21:024][974]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.21:624][ 46]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.21:625][ 46]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.21:824][ 70]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.21:824][ 70]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:024][ 94]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:425][142]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:425][142]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:425][142]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:426][142]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:426][142]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:426][142]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:426][142]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:427][142]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:427][142]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:826][190]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:826][190]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:826][190]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:827][190]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:827][190]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:827][190]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:828][190]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.22:828][190]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:026][214]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:026][214]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:226][238]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:226][238]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:226][238]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:426][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:426][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:427][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:427][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:427][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:428][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:428][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:428][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:429][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:429][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:429][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:429][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:430][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:430][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:430][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:430][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:431][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:431][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:431][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:432][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:432][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:432][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:432][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:433][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:433][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:433][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:434][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:434][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:434][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:434][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:435][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:435][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:435][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:436][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:436][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:436][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:437][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:437][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:437][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:437][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:438][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:438][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:438][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:439][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:439][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:439][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:439][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:440][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:440][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:440][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:441][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:441][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:441][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:441][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:442][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:442][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:442][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:442][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:443][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:443][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:443][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:444][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:444][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:444][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:444][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:445][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:445][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:445][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:446][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:446][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:446][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:446][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:447][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:447][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:447][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:448][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:448][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:448][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:448][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:449][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:449][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:449][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:450][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:450][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:450][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:450][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:451][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:451][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:451][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:452][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.23:452][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.26:201][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-14.26.26:250][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-14.26.37:878][979]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.24-14.26.37:901][979]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-14.26.37:902][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-14.26.37:902][979]PIE: New page: PIE 세션: MainGame (2018. 11. 25. 오전 8:26:37)
+[2018.11.24-14.26.37:902][979]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.24-14.26.37:917][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014407s)
+[2018.11.24-14.26.37:917][979]LogAIModule: Creating AISystem for world MainGame
+[2018.11.24-14.26.37:917][979]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2018.11.24-14.26.37:917][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.015245s)
+[2018.11.24-14.26.37:992][979]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.24-14.26.38:007][979]LogInit: FAudioDevice initialized.
+[2018.11.24-14.26.38:065][979]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.24-14.26.38:066][979]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.24-23.26.38
+[2018.11.24-14.26.38:066][979]LogWorld: Bringing up level for play took: 0.000831
+[2018.11.24-14.26.38:071][979]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 1.134
+[2018.11.24-14.26.38:072][979]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-14.26.55:755][ 93]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:356][285]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:756][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:756][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:757][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:757][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:757][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:757][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:758][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:758][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:758][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:758][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:759][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:759][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:957][357]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:957][357]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.57:958][357]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:158][381]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:158][381]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:158][381]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:158][381]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:357][405]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:358][405]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:358][405]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:358][405]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:358][405]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:359][405]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:558][429]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:559][429]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:559][429]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:559][429]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:559][429]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:560][429]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:560][429]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:758][453]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:758][453]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:759][453]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.26.58:958][477]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.13:170][182]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_Gold_C]
+[2018.11.24-14.27.13:170][182]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_Gold_C]
+[2018.11.24-14.27.14:561][349]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_Silver_C]
+[2018.11.24-14.27.17:953][756]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.18:152][780]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.18:553][828]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.18:953][876]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.19:152][900]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.19:153][900]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.19:153][900]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.19:153][900]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.19:353][924]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.19:953][996]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.19:954][996]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.19:954][996]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:153][ 20]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:153][ 20]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:352][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:353][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:353][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:353][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:354][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:354][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:354][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:354][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:355][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:355][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:554][ 68]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:754][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:754][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:754][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:754][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:755][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:755][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:755][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:755][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:756][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:756][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:757][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:757][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:757][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:758][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:758][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:758][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:758][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:759][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:759][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:759][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:958][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:959][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:959][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:959][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:960][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:960][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:960][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:960][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:961][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:961][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:961][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:961][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:962][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:962][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:962][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:963][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:963][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:963][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:963][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:964][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=900.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:964][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:964][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:964][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=-300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:965][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:965][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:965][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=600.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:965][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:966][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:966][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:966][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:967][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:967][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=200.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:967][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:967][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=300.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.20:968][116]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=600.000 Z=0.000] for [Block_RainBow_C]
+[2018.11.24-14.27.22:492][296]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-14.27.22:524][296]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-14.30.07:376][546]BlueprintLog: New page: 스코어매니저 컴파일
+[2018.11.24-14.30.08:377][608]LogSavePackage: Save=250.16ms
+[2018.11.24-14.30.08:377][608]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/스코어매니저C069B14E4D71040DA94B018A6ED02590.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.24-14.30.08:380][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.24-14.30.44:800][914]BlueprintLog: New page: Block_RainBow 컴파일
+[2018.11.24-14.30.45:478][943]LogSavePackage: Save=58.79ms
+[2018.11.24-14.30.45:478][943]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/Block_RainBowA0D51BE64EB180ADB4541CB43610F4DD.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/Block_RainBow.uasset'
+[2018.11.24-14.30.45:481][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/Block_RainBow.uasset
+[2018.11.24-14.36.38:221][ 70]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.24-14.36.38:248][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-14.36.38:248][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-14.36.38:248][ 70]PIE: New page: PIE 세션: MainGame (2018. 11. 25. 오전 8:36:38)
+[2018.11.24-14.36.38:260][ 70]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.24-14.36.38:277][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016362s)
+[2018.11.24-14.36.38:277][ 70]LogAIModule: Creating AISystem for world MainGame
+[2018.11.24-14.36.38:278][ 70]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2018.11.24-14.36.38:278][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.017446s)
+[2018.11.24-14.36.38:354][ 70]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.24-14.36.38:370][ 70]LogInit: FAudioDevice initialized.
+[2018.11.24-14.36.38:424][ 70]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.24-14.36.38:426][ 70]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.24-23.36.38
+[2018.11.24-14.36.38:426][ 70]LogWorld: Bringing up level for play took: 0.000947
+[2018.11.24-14.36.38:431][ 70]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: -0.507
+[2018.11.24-14.36.38:432][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-14.36.39:431][184]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-14.36.39:508][184]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.24-14.36.45:918][930]LogAIModule: Creating AISystem for world Login
+[2018.11.24-14.36.45:944][930]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/Login.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.24-14.36.45:944][930]LightingResults: New page: 라이팅 빌드
+[2018.11.24-14.36.45:945][930]LoadErrors: New page: 맵 로드중: Login.umap
+[2018.11.24-14.36.45:998][930]MapCheck: New page: 맵 체크
+[2018.11.24-14.36.45:998][930]LightingResults: New page: 라이팅 빌드
+[2018.11.24-14.36.46:094][930]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.24-14.36.46:148][930]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.24-14.36.46:235][930]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 87.157ms.
+[2018.11.24-14.36.46:235][930]LogFileHelpers: Loading map 'Login' took 0.293
+[2018.11.24-14.36.47:125][ 35]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.24-14.36.47:152][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/PuzzleBP/Maps/Login.Login_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login'
+[2018.11.24-14.36.47:152][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-14.36.47:153][ 35]PIE: New page: PIE 세션: Login (2018. 11. 25. 오전 8:36:47)
+[2018.11.24-14.36.47:153][ 35]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_Login
+[2018.11.24-14.36.47:154][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000638s)
+[2018.11.24-14.36.47:154][ 35]LogAIModule: Creating AISystem for world Login
+[2018.11.24-14.36.47:154][ 35]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2018.11.24-14.36.47:154][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/Login.Login to /Game/PuzzleBP/Maps/UEDPIE_0_Login.Login (0.001357s)
+[2018.11.24-14.36.47:227][ 35]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.24-14.36.47:242][ 35]LogInit: FAudioDevice initialized.
+[2018.11.24-14.36.47:293][ 35]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.24-14.36.47:294][ 35]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_Login.Login up for play (max tick rate 0) at 2018.11.24-23.36.47
+[2018.11.24-14.36.47:294][ 35]LogWorld: Bringing up level for play took: 0.000445
+[2018.11.24-14.36.47:299][ 35]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_Login 에 대한 에디터에서 플레이 시작 시간: 0.362
+[2018.11.24-14.36.47:300][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/PuzzleBP/Maps/Login.Login_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login'
+[2018.11.24-14.36.49:729][321]LogNet: Browse: /Game/PuzzleBP/Maps/MainMenu
+[2018.11.24-14.36.49:729][321]LogLoad: LoadMap: /Game/PuzzleBP/Maps/MainMenu
+[2018.11.24-14.36.50:239][321]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.380 s
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: 
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: 
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: Stack: 
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000F7E32786 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000F7BD123A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000F7BEB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000E47E0199 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000E47AEF4D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000F7146C17 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000F745DED6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000F7475259 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000F7474774 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000F594FB28 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000F5903FA8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000F597539D UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000E5B561B1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000E6404AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x0000000062805A26 UE4Editor.exe!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x0000000062815430 UE4Editor.exe!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x00000000628154AA UE4Editor.exe!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x0000000062822379 UE4Editor.exe!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x0000000062823D57 UE4Editor.exe!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x0000000029F73034 KERNEL32.DLL!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: [Callstack] 0x000000002A0D1471 ntdll.dll!UnknownFunction []
+[2018.11.24-14.36.50:239][321]LogOutputDevice: Error: 
+[2018.11.24-14.36.50:241][321]LogStats:                SubmitErrorReport -  0.000 s
