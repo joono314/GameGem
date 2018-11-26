@@ -1,0 +1,1156 @@
+﻿Log file open, 11/26/18 15:09:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameGem
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1182234402) SRandInit(-1182234402).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.950952
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/EpicGames/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.26-06.09.57:584][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.26-06.09.57:584][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.26-06.09.57:638][  0]LogInit: Computer: JUN-HYOENG-HOME
+[2018.11.26-06.09.57:638][  0]LogInit: User: user
+[2018.11.26-06.09.57:638][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.11.26-06.09.57:638][  0]LogInit: High frequency timer resolution =2.929695 MHz
+[2018.11.26-06.09.57:638][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.26-06.09.57:638][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.26-06.09.57:638][  0]LogMemory: Process Physical Memory: 272.21 MB used, 272.21 MB peak
+[2018.11.26-06.09.57:638][  0]LogMemory: Process Virtual Memory: 270.06 MB used, 270.06 MB peak
+[2018.11.26-06.09.57:638][  0]LogMemory: Physical Memory: 4664.57 MB used,  11633.41 MB free, 16297.98 MB total
+[2018.11.26-06.09.57:638][  0]LogMemory: Virtual Memory: 4783.53 MB used,  11633.41 MB free, 134217728.00 MB total
+[2018.11.26-06.09.58:193][  0]LogInit: Using OS detected language (ko-KR).
+[2018.11.26-06.09.58:193][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.11.26-06.09.58:366][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.11.26-06.09.58:670][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.26-06.10.01:073][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.26-06.10.01:143][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.11.26-06.10.01:143][  0]LogD3D11RHI:       6052/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.26-06.10.01:145][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.26-06.10.01:145][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.26-06.10.01:145][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.26-06.10.01:150][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.26-06.10.01:151][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.26-06.10.01:151][  0]LogWindows: EnumDisplayDevices:
+[2018.11.26-06.10.01:151][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.11.26-06.10.01:151][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.11.26-06.10.01:152][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.26-06.10.01:152][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.26-06.10.01:152][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.26-06.10.01:152][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.11.26-06.10.01:152][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.26-06.10.01:152][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.26-06.10.01:152][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.11.26-06.10.01:189][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.26-06.10.01:410][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.26-06.10.01:490][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../../GitHub/GameJam/GameGem/Intermediate/Shaders/WorkingDirectory/18260/).
+[2018.11.26-06.10.01:490][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/940610A649F5AFD5774564B882B4CB75/'.
+[2018.11.26-06.10.01:492][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.26-06.10.04:541][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.26-06.10.04:593][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.26-06.10.04:644][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.26-06.10.04:697][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.26-06.10.04:782][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.26-06.10.04:834][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.26-06.10.04:887][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.26-06.10.04:940][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.26-06.10.04:986][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.26-06.10.05:038][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.26-06.10.05:090][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.26-06.10.05:141][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.26-06.10.05:193][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.26-06.10.05:251][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.26-06.10.05:355][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.26-06.10.05:355][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.26-06.10.05:415][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-06.10.05:458][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.26-06.10.05:633][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.26-06.10.05:657][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.26-06.10.05:709][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.26-06.10.05:761][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.26-06.10.05:814][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.26-06.10.05:885][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.26-06.10.05:885][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.26-06.10.06:993][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.26-06.10.07:284][  0]LogDerivedDataCache: Loaded boot cache 0.29s 78MB C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.26-06.10.07:284][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.11.26-06.10.07:284][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/GameJam/GameGem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.26-06.10.07:284][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.26-06.10.07:284][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/GameJam/GameGem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.26-06.10.07:284][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.26-06.10.07:347][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.26-06.10.07:361][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.26-06.10.07:402][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.26-06.10.07:429][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.26-06.10.07:479][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.26-06.10.07:486][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.26-06.10.12:165][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.26-06.10.13:331][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.26-06.10.13:380][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.26-06.10.13:389][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.26-06.10.13:397][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.26-06.10.13:398][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.26-06.10.13:398][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.26-06.10.13:673][  0]LogNetVersion: GameGem , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 882068137)
+[2018.11.26-06.10.14:520][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2018.11.26-06.10.18:655][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.080571 seconds
+[2018.11.26-06.10.18:667][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.11.26-06.10.18:667][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.11.26-06.10.18:667][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.26-06.10.18:723][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.11.26-06.10.37:909][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.26-06.10.37:961][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.26-06.10.39:359][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.11.26-06.10.40:256][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.26-06.10.40:269][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.26-06.10.40:339][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.26-06.10.40:407][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.26-06.10.41:775][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.26-06.10.42:112][  0]LogOcInput: OculusInput pre-init called
+[2018.11.26-06.10.42:715][  0]LogEngine: Initializing Engine...
+[2018.11.26-06.10.42:743][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.26-06.10.43:016][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.26-06.10.43:016][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.26-06.10.43:317][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.26-06.10.43:392][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-06.10.43:427][  0]LogInit: FAudioDevice initialized.
+[2018.11.26-06.10.43:501][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.26-06.10.43:515][  0]LogInit: Texture streaming: Enabled
+[2018.11.26-06.10.43:616][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.26-06.10.43:819][  0]LogInit: Transaction tracking system initialized
+[2018.11.26-06.10.44:415][  0]BlueprintLog: New page: 에디터 로드
+[2018.11.26-06.10.45:886][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.11.26-06.10.47:205][  0]LogConsoleResponse: Display: 
+[2018.11.26-06.10.48:074][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GameJam/GameGem/Content/' took 0.02s
+[2018.11.26-06.10.48:074][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.26-06.10.48:074][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.26-06.10.48:080][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.26-06.10.50:067][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.26-06.10.50:105][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-06.10.50:106][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.26-06.10.50:232][  0]MapCheck: New page: 맵 체크
+[2018.11.26-06.10.50:232][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.26-06.10.51:592][  0]LogTexture: Display: 텍스처 빌드: 강화버튼 (BGRA8, 598X209)
+[2018.11.26-06.10.51:592][  0]LogTexture: Display: 텍스처 빌드: 내망치 (BGRA8, 748X898)
+[2018.11.26-06.10.51:592][  0]LogTexture: Display: 텍스처 빌드: 다음망치 (BGRA8, 748X898)
+[2018.11.26-06.10.51:592][  0]LogTexture: Display: 텍스처 빌드: 랭킹 (BGRA8, 748X898)
+[2018.11.26-06.10.51:592][  0]LogTexture: Display: 텍스처 빌드: 틀린개수 (AutoDXT, 128X128)
+[2018.11.26-06.10.51:592][  0]LogTexture: Display: 텍스처 빌드: 받아쓰기버튼 (BGRA8, 449X180)
+[2018.11.26-06.10.51:592][  0]LogTexture: Display: 텍스처 빌드: 엽전_아이콘 (AutoDXT, 128X128)
+[2018.11.26-06.10.51:592][  0]LogTexture: Display: 텍스처 빌드: 학습장화면 (AutoDXT, 1920X1080)
+[2018.11.26-06.10.51:592][  0]LogTexture: Display: 텍스처 빌드: 학습완료선택 (BGRA8, 1276X794)
+[2018.11.26-06.10.51:592][  0]LogTexture: Display: 텍스처 빌드: 외래어선택 (BGRA8, 1276X794)
+[2018.11.26-06.10.51:592][  0]LogTexture: Display: 텍스처 빌드: 고유어선택 (BGRA8, 1276X794)
+[2018.11.26-06.10.51:901][  0]LogTexture: Display: 텍스처 빌드: 피버게이지 (BGRA8, 374X90)
+[2018.11.26-06.10.51:901][  0]LogTexture: Display: 텍스처 빌드: 피버 (BGRA8, 374X90)
+[2018.11.26-06.10.51:901][  0]LogTexture: Display: 텍스처 빌드: 배경피버글자 (BGRA8, 1587X302)
+[2018.11.26-06.10.51:901][  0]LogMaterial: Missing cached shader map for material 한글폰트_Mat, compiling. 
+[2018.11.26-06.10.52:483][  0]LogAIModule: Creating AISystem for world MainGame
+[2018.11.26-06.10.52:784][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-06.10.52:907][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-06.10.53:007][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 100.783ms.
+[2018.11.26-06.10.53:007][  0]LogFileHelpers: Loading map 'MainGame' took 2.920
+[2018.11.26-06.10.53:884][  0]LogCollectionManager: Loaded 0 collections in 0.001449 seconds
+[2018.11.26-06.10.54:043][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GameJam/GameGem/Saved/Collections/' took 0.01s
+[2018.11.26-06.10.54:043][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GameJam/GameGem/Content/Developers/user/Collections/' took 0.01s
+[2018.11.26-06.10.54:043][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/GameJam/GameGem/Content/Collections/' took 0.01s
+[2018.11.26-06.10.54:043][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.26-06.10.54:052][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2363 classes and 519 folders.
+[2018.11.26-06.10.54:163][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.26-06.10.54:923][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.26-06.10.54:994][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.26-06.10.55:566][  0]LogSlate: Took 0.016598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.26-06.10.55:639][  0]LogSlate: Took 0.066051 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.11.26-06.10.55:661][  0]LogSlate: Took 0.021024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.26-06.10.55:707][  0]LogSlate: Took 0.019382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.26-06.10.56:052][  0]LogRenderer: Reallocating scene render targets to support 1312x604 Format 10 NumSamples 1 (Frame:1).
+[2018.11.26-06.10.56:486][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.26-06.10.56:486][  0]LogLoad: (Engine Initialization) Total time: 71.82 seconds
+[2018.11.26-06.10.56:486][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.26-06.10.56:486][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.11.26-06.10.56:884][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.26-06.10.56:957][  0]LogSlate: Took 0.014550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.26-06.10.57:191][  1]LogAssetRegistry: Asset discovery search completed in 42.6942 seconds
+[2018.11.26-06.10.57:192][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.26-06.10.57:193][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2018.11.26-06.12.20:451][880]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.26-06.12.20:522][880]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.26-06.12.20:562][880]Cmd: MAP LOAD FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-06.12.20:562][880]LightingResults: New page: 라이팅 빌드
+[2018.11.26-06.12.20:562][880]LoadErrors: New page: 맵 로드중: MainMenu.umap
+[2018.11.26-06.12.20:563][880]MapCheck: New page: 맵 체크
+[2018.11.26-06.12.20:563][880]LightingResults: New page: 라이팅 빌드
+[2018.11.26-06.12.20:668][880]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-06.12.20:713][880]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-06.12.20:805][880]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 90.811ms.
+[2018.11.26-06.12.20:805][880]LogFileHelpers: Loading map 'MainMenu' took 0.267
+[2018.11.26-06.12.26:668][578]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.26-06.12.26:841][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.26-06.12.26:841][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-06.12.26:841][578]PIE: New page: PIE 세션: MainMenu (2018. 11. 27. 오전 12:12:26)
+[2018.11.26-06.12.26:842][578]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu
+[2018.11.26-06.12.26:865][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022618s)
+[2018.11.26-06.12.26:865][578]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.26-06.12.26:865][578]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2018.11.26-06.12.26:865][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainMenu.MainMenu to /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.023314s)
+[2018.11.26-06.12.26:893][578]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-06.12.26:915][578]LogInit: FAudioDevice initialized.
+[2018.11.26-06.12.27:001][578]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.26-06.12.27:020][578]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.26-15.12.27
+[2018.11.26-06.12.27:021][578]LogWorld: Bringing up level for play took: 0.000450
+[2018.11.26-06.12.27:099][578]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.11.26-06.12.27:180][578]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/PuzzleBP/Maps/MainMenu.MainMenu_C:ReceiveBeginPlay
+	Function /Game/PuzzleBP/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+	Function /Game/PuzzleBP/Blueprints/스코어매니저.스코어매니저_C:CorrectRateEvent
+	Function /Game/PuzzleBP/Blueprints/스코어매니저.스코어매니저_C:ExecuteUbergraph_스코어매니저
+
+[2018.11.26-06.12.27:192][578]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: 0.266
+[2018.11.26-06.12.27:193][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.26-06.12.27:238][578]LogRenderer: Reallocating scene render targets to support 1312x756 Format 10 NumSamples 1 (Frame:1).
+[2018.11.26-06.12.29:268][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.26-06.12.29:315][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.26-06.12.33:964][323]Cmd: MAP LOAD FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-06.12.33:964][323]LightingResults: New page: 라이팅 빌드
+[2018.11.26-06.12.33:976][323]LoadErrors: New page: 맵 로드중: MainMenu.umap
+[2018.11.26-06.12.33:977][323]MapCheck: New page: 맵 체크
+[2018.11.26-06.12.33:977][323]LightingResults: New page: 라이팅 빌드
+[2018.11.26-06.12.34:017][323]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.26-06.12.34:099][323]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-06.12.34:142][323]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-06.12.34:232][323]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 88.93ms.
+[2018.11.26-06.12.34:232][323]LogFileHelpers: Loading map 'MainMenu' took 0.269
+[2018.11.26-06.12.35:332][453]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.26-06.12.35:352][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.26-06.12.35:352][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-06.12.35:352][453]PIE: New page: PIE 세션: MainMenu (2018. 11. 27. 오전 12:12:35)
+[2018.11.26-06.12.35:352][453]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu
+[2018.11.26-06.12.35:354][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001236s)
+[2018.11.26-06.12.35:354][453]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.26-06.12.35:354][453]LogPlayLevel: PIE: World Init took: (0.000447s)
+[2018.11.26-06.12.35:354][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainMenu.MainMenu to /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001855s)
+[2018.11.26-06.12.35:380][453]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-06.12.35:402][453]LogInit: FAudioDevice initialized.
+[2018.11.26-06.12.35:458][453]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.26-06.12.35:459][453]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.26-15.12.35
+[2018.11.26-06.12.35:459][453]LogWorld: Bringing up level for play took: 0.000396
+[2018.11.26-06.12.35:466][453]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/PuzzleBP/Maps/MainMenu.MainMenu_C:ReceiveBeginPlay
+	Function /Game/PuzzleBP/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+	Function /Game/PuzzleBP/Blueprints/스코어매니저.스코어매니저_C:CorrectRateEvent
+	Function /Game/PuzzleBP/Blueprints/스코어매니저.스코어매니저_C:ExecuteUbergraph_스코어매니저
+
+[2018.11.26-06.12.35:469][453]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: 0.543
+[2018.11.26-06.12.35:469][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.26-06.12.37:181][651]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.26-06.12.37:212][651]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.26-06.12.39:246][887]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.26-06.12.39:991][922]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.11.26-06.12.40:794][922]LogSlate: Took 0.007885 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.26-06.12.40:988][923]LogSlate: Took 0.003774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.26-06.14.05:995][411]LogEditorTransaction: Undo Right 편집
+[2018.11.26-06.15.39:952][268]PIE: '/Engine/Transient.ScrollBox_0' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:953][268]PIE: '/Engine/Transient.ScrollBox_2' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:955][268]PIE: '/Engine/Transient.ScrollBox_4' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:964][269]PIE: '/Engine/Transient.ScrollBox_6' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:965][269]PIE: '/Engine/Transient.ScrollBox_8' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:966][269]PIE: '/Engine/Transient.ScrollBox_10' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:967][269]PIE: '/Engine/Transient.ScrollBox_12' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:968][269]PIE: '/Engine/Transient.ScrollBox_14' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:970][269]PIE: '/Engine/Transient.ScrollBox_16' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:971][269]PIE: '/Engine/Transient.ScrollBox_18' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:972][269]PIE: '/Engine/Transient.ScrollBox_20' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:973][269]PIE: '/Engine/Transient.ScrollBox_22' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:974][269]PIE: '/Engine/Transient.ScrollBox_24' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:975][269]PIE: '/Engine/Transient.ScrollBox_26' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:976][269]PIE: '/Engine/Transient.ScrollBox_28' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:977][269]PIE: '/Engine/Transient.ScrollBox_30' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:978][269]PIE: '/Engine/Transient.ScrollBox_32' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:979][269]PIE: '/Engine/Transient.ScrollBox_34' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:979][269]PIE: '/Engine/Transient.ScrollBox_36' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:981][269]PIE: '/Engine/Transient.ScrollBox_38' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:982][269]PIE: '/Engine/Transient.ScrollBox_40' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:983][269]PIE: '/Engine/Transient.ScrollBox_42' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:988][270]PIE: '/Engine/Transient.ScrollBox_44' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:990][270]PIE: '/Engine/Transient.ScrollBox_46' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:996][271]PIE: '/Engine/Transient.ScrollBox_48' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:997][271]PIE: '/Engine/Transient.ScrollBox_50' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.39:999][271]PIE: '/Engine/Transient.ScrollBox_52' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:005][272]PIE: '/Engine/Transient.ScrollBox_54' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:006][272]PIE: '/Engine/Transient.ScrollBox_56' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:007][272]PIE: '/Engine/Transient.ScrollBox_58' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:008][272]PIE: '/Engine/Transient.ScrollBox_60' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:013][273]PIE: '/Engine/Transient.ScrollBox_62' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:015][273]PIE: '/Engine/Transient.ScrollBox_64' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:021][274]PIE: '/Engine/Transient.ScrollBox_66' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:023][274]PIE: '/Engine/Transient.ScrollBox_68' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:030][275]PIE: '/Engine/Transient.ScrollBox_70' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:031][275]PIE: '/Engine/Transient.ScrollBox_72' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:033][275]PIE: '/Engine/Transient.ScrollBox_74' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:038][276]PIE: '/Engine/Transient.ScrollBox_76' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:039][276]PIE: '/Engine/Transient.ScrollBox_78' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:041][276]PIE: '/Engine/Transient.ScrollBox_80' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:046][277]PIE: '/Engine/Transient.ScrollBox_82' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:048][277]PIE: '/Engine/Transient.ScrollBox_84' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:049][277]PIE: '/Engine/Transient.ScrollBox_86' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:050][277]PIE: '/Engine/Transient.ScrollBox_88' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:055][278]PIE: '/Engine/Transient.ScrollBox_90' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:056][278]PIE: '/Engine/Transient.ScrollBox_92' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:058][278]PIE: '/Engine/Transient.ScrollBox_94' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:063][279]PIE: '/Engine/Transient.ScrollBox_96' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:065][279]PIE: '/Engine/Transient.ScrollBox_98' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:072][280]PIE: '/Engine/Transient.ScrollBox_100' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:074][280]PIE: '/Engine/Transient.ScrollBox_102' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:080][281]PIE: '/Engine/Transient.ScrollBox_104' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:081][281]PIE: '/Engine/Transient.ScrollBox_106' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:083][281]PIE: '/Engine/Transient.ScrollBox_108' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:088][282]PIE: '/Engine/Transient.ScrollBox_110' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:090][282]PIE: '/Engine/Transient.ScrollBox_112' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:091][282]PIE: '/Engine/Transient.ScrollBox_114' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:092][282]PIE: '/Engine/Transient.ScrollBox_116' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:094][282]PIE: '/Engine/Transient.ScrollBox_118' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:098][283]PIE: '/Engine/Transient.ScrollBox_120' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:100][283]PIE: '/Engine/Transient.ScrollBox_122' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:106][284]PIE: '/Engine/Transient.ScrollBox_124' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:108][284]PIE: '/Engine/Transient.ScrollBox_126' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:115][285]PIE: '/Engine/Transient.ScrollBox_128' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:117][285]PIE: '/Engine/Transient.ScrollBox_130' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:123][286]PIE: '/Engine/Transient.ScrollBox_132' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:125][286]PIE: '/Engine/Transient.ScrollBox_134' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:131][287]PIE: '/Engine/Transient.ScrollBox_136' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:133][287]PIE: '/Engine/Transient.ScrollBox_138' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:140][288]PIE: '/Engine/Transient.ScrollBox_140' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:141][288]PIE: '/Engine/Transient.ScrollBox_142' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:143][288]PIE: '/Engine/Transient.ScrollBox_144' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:148][289]PIE: '/Engine/Transient.ScrollBox_146' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:150][289]PIE: '/Engine/Transient.ScrollBox_148' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:156][290]PIE: '/Engine/Transient.ScrollBox_150' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:159][290]PIE: '/Engine/Transient.ScrollBox_152' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:166][291]PIE: '/Engine/Transient.ScrollBox_154' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:207][296]PIE: '/Engine/Transient.ScrollBox_156' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:215][296]PIE: '/Engine/Transient.ScrollBox_158' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:225][297]PIE: '/Engine/Transient.ScrollBox_160' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:227][297]PIE: '/Engine/Transient.ScrollBox_162' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:230][297]PIE: '/Engine/Transient.ScrollBox_164' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:236][298]PIE: '/Engine/Transient.ScrollBox_166' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:239][298]PIE: '/Engine/Transient.ScrollBox_168' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:245][299]PIE: '/Engine/Transient.ScrollBox_170' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:246][299]PIE: '/Engine/Transient.ScrollBox_172' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:248][299]PIE: '/Engine/Transient.ScrollBox_174' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:254][300]PIE: '/Engine/Transient.ScrollBox_176' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:261][301]PIE: '/Engine/Transient.ScrollBox_178' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:263][301]PIE: '/Engine/Transient.ScrollBox_180' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:270][302]PIE: '/Engine/Transient.ScrollBox_182' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:272][302]PIE: '/Engine/Transient.ScrollBox_184' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:278][303]PIE: '/Engine/Transient.ScrollBox_186' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:280][303]PIE: '/Engine/Transient.ScrollBox_188' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:287][304]PIE: '/Engine/Transient.ScrollBox_190' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:295][305]PIE: '/Engine/Transient.ScrollBox_192' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:297][305]PIE: '/Engine/Transient.ScrollBox_194' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:304][306]PIE: '/Engine/Transient.ScrollBox_196' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:320][308]PIE: '/Engine/Transient.ScrollBox_198' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:322][308]PIE: '/Engine/Transient.ScrollBox_200' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:328][309]PIE: '/Engine/Transient.ScrollBox_202' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:330][309]PIE: '/Engine/Transient.ScrollBox_204' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:332][309]PIE: '/Engine/Transient.ScrollBox_206' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:337][310]PIE: '/Engine/Transient.ScrollBox_208' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:339][310]PIE: '/Engine/Transient.ScrollBox_210' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:345][311]PIE: '/Engine/Transient.ScrollBox_212' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:347][311]PIE: '/Engine/Transient.ScrollBox_214' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:352][312]PIE: '/Engine/Transient.ScrollBox_216' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:354][312]PIE: '/Engine/Transient.ScrollBox_218' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:356][312]PIE: '/Engine/Transient.ScrollBox_220' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:361][313]PIE: '/Engine/Transient.ScrollBox_222' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:363][313]PIE: '/Engine/Transient.ScrollBox_224' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:369][314]PIE: '/Engine/Transient.ScrollBox_226' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:371][314]PIE: '/Engine/Transient.ScrollBox_228' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:372][314]PIE: '/Engine/Transient.ScrollBox_230' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:378][315]PIE: '/Engine/Transient.ScrollBox_232' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:411][319]PIE: '/Engine/Transient.ScrollBox_234' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:415][319]PIE: '/Engine/Transient.ScrollBox_236' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:423][320]PIE: '/Engine/Transient.ScrollBox_238' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:424][320]PIE: '/Engine/Transient.ScrollBox_240' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:426][320]PIE: '/Engine/Transient.ScrollBox_242' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:431][321]PIE: '/Engine/Transient.ScrollBox_244' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:433][321]PIE: '/Engine/Transient.ScrollBox_246' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:441][322]PIE: '/Engine/Transient.ScrollBox_248' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:448][323]PIE: '/Engine/Transient.ScrollBox_250' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:450][323]PIE: '/Engine/Transient.ScrollBox_252' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:456][324]PIE: '/Engine/Transient.ScrollBox_254' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:458][324]PIE: '/Engine/Transient.ScrollBox_256' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:465][325]PIE: '/Engine/Transient.ScrollBox_258' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:467][325]PIE: '/Engine/Transient.ScrollBox_260' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:474][326]PIE: '/Engine/Transient.ScrollBox_262' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:524][332]PIE: '/Engine/Transient.ScrollBox_264' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:529][332]PIE: '/Engine/Transient.ScrollBox_266' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:532][332]PIE: '/Engine/Transient.ScrollBox_268' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:536][333]PIE: '/Engine/Transient.ScrollBox_270' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:538][333]PIE: '/Engine/Transient.ScrollBox_272' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:545][334]PIE: '/Engine/Transient.ScrollBox_274' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:547][334]PIE: '/Engine/Transient.ScrollBox_276' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:554][335]PIE: '/Engine/Transient.ScrollBox_278' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:687][351]PIE: '/Engine/Transient.ScrollBox_280' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:690][351]PIE: '/Engine/Transient.ScrollBox_282' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:696][352]PIE: '/Engine/Transient.ScrollBox_284' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:712][354]PIE: '/Engine/Transient.ScrollBox_286' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:714][354]PIE: '/Engine/Transient.ScrollBox_288' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:720][355]PIE: '/Engine/Transient.ScrollBox_290' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:722][355]PIE: '/Engine/Transient.ScrollBox_292' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:729][356]PIE: '/Engine/Transient.ScrollBox_294' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:819][367]PIE: '/Engine/Transient.ScrollBox_296' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:822][367]PIE: '/Engine/Transient.ScrollBox_298' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:829][368]PIE: '/Engine/Transient.ScrollBox_300' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:953][383]PIE: '/Engine/Transient.ScrollBox_302' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:955][383]PIE: '/Engine/Transient.ScrollBox_304' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.15.40:962][384]PIE: '/Engine/Transient.ScrollBox_306' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.26-06.16.13:269][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.26-06.16.13:481][216]LogSavePackage: Save=103.95ms
+[2018.11.26-06.16.13:481][216]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/메인화면5946D6014BA9383801C8159F5C6D5A45.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.26-06.16.13:485][216]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.26-06.16.13:488][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.16.13:502][216]LogSavePackage: Save=12.06ms
+[2018.11.26-06.16.13:502][216]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIEB9C92C9454DD3F735EE328B7C0BD2BC.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.16.13:506][216]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.16.33:894][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.16.33:917][594]LogSavePackage: Save=11.79ms
+[2018.11.26-06.16.33:917][594]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UID939FEB34B8E35494B6F9080FC8ABFEA.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.16.33:921][594]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.17.12:639][200]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널
+[2018.11.26-06.17.12:639][200]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.TRASHCLASS_랭킹UI_71:랭킹패널
+[2018.11.26-06.17.12:639][200]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_13.WidgetTree_51.랭킹패널
+[2018.11.26-06.17.12:639][200]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.REINST_SKEL_랭킹UI_C_23:랭킹패널
+[2018.11.26-06.17.12:639][200]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.TRASHCLASS_랭킹UI_72:랭킹패널
+[2018.11.26-06.17.12:639][200]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_14.WidgetTree_52.랭킹패널
+[2018.11.26-06.17.12:639][200]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.REINST_SKEL_랭킹UI_C_24:랭킹패널
+[2018.11.26-06.17.12:639][200]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.TRASHCLASS_랭킹UI_73:랭킹패널
+[2018.11.26-06.17.12:639][200]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_15.WidgetTree_53.랭킹패널
+[2018.11.26-06.17.12:639][200]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.REINST_SKEL_랭킹UI_C_25:랭킹패널
+[2018.11.26-06.17.12:639][200]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Game/PuzzleBP/Blueprints/UI/랭킹UI.SKEL_랭킹UI_C:랭킹패널
+[2018.11.26-06.17.12:639][200]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_16.WidgetTree_54.랭킹패널
+[2018.11.26-06.17.12:639][200]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_16.WidgetTree_54.랭킹패널.ScrollBoxSlot_2 or ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_2
+[2018.11.26-06.17.12:640][200]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_16.WidgetTree_54.랭킹패널.ScrollBoxSlot_2) from referencer (VerticalBox /Engine/UMG/Editor/Transient.VerticalBox_0).  Import failed...
+[2018.11.26-06.17.12:640][200]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'ScrollBoxSlot'"랭킹패널.ScrollBoxSlot_2"''
+[2018.11.26-06.17.22:900][393]LogEditorTransaction: Undo 위젯 추가
+[2018.11.26-06.18.08:281][774]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.HorizontalBox_1 or HorizontalBox /Engine/Transient.World_10:랭킹UI_C_22.WidgetTree_60.HorizontalBox_1
+[2018.11.26-06.18.08:281][774]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.HorizontalBox_1 or HorizontalBox /Engine/Transient.World_10:랭킹UI_C_23.WidgetTree_61.HorizontalBox_1
+[2018.11.26-06.18.08:281][774]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.HorizontalBox_1 or HorizontalBox /Engine/Transient.World_10:랭킹UI_C_24.WidgetTree_62.HorizontalBox_1
+[2018.11.26-06.18.08:281][774]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.HorizontalBox_1 or HorizontalBox /Engine/Transient.World_10:랭킹UI_C_25.WidgetTree_63.HorizontalBox_1
+[2018.11.26-06.18.08:281][774]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_1).  Import failed...
+[2018.11.26-06.18.08:281][774]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'"HorizontalBox_1.HorizontalBoxSlot_0"''
+[2018.11.26-06.19.19:737][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.19.19:759][287]LogSavePackage: Save=15.41ms
+[2018.11.26-06.19.19:759][287]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIC61D51EF4BC02F55EE97B5B31E915D90.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.19.19:763][287]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.20.08:377][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.20.08:399][ 43]LogSavePackage: Save=15.47ms
+[2018.11.26-06.20.08:399][ 43]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIC1BB378244C5DAA6CB64B7AA39CA194A.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.20.08:403][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.20.47:789][714]LogSlate: Took 0.011597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.26-06.21.14:911][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.21.14:935][815]LogSavePackage: Save=16.44ms
+[2018.11.26-06.21.14:935][815]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI4C89372D4BED4DE1FD169392F178E459.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.21.14:938][815]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.21.17:827][160]BlueprintLog: New page: 랭킹UI 컴파일
+[2018.11.26-06.21.18:143][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.21.18:168][189]LogSavePackage: Save=18.22ms
+[2018.11.26-06.21.18:168][189]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI635369A5489D29A8FC616FA624318298.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.21.18:169][189]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.21.46:052][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.21.46:080][492]LogSavePackage: Save=17.43ms
+[2018.11.26-06.21.46:080][492]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI81CD0A674A3128A527C7FDBC226FE05D.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.21.46:084][492]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.21.50:702][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.21.50:727][  9]LogSavePackage: Save=18.12ms
+[2018.11.26-06.21.50:727][  9]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI1EEA30BC443529D12BA706B09177C9B3.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.21.50:730][  9]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.21.55:591][581]BlueprintLog: New page: 랭킹UI 컴파일
+[2018.11.26-06.21.55:942][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.21.55:967][612]LogSavePackage: Save=18.34ms
+[2018.11.26-06.21.55:967][612]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI6C78A23C405C7D1FB5EA3CA491EB74BE.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.21.55:969][612]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.22.17:424][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.22.17:449][523]LogSavePackage: Save=17.92ms
+[2018.11.26-06.22.17:449][523]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI125337914C0EA19A41E7FB80256601DD.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.22.17:453][523]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.22.17:837][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.22.17:861][567]LogSavePackage: Save=17.33ms
+[2018.11.26-06.22.17:861][567]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIE103C7534D387A3B4886289CD96185FB.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.22.17:862][567]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.27.12:630][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.27.12:661][704]LogSavePackage: Save=17.18ms
+[2018.11.26-06.27.12:661][704]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI10D63CF7448CB8231ABC37832BE640FA.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.27.12:664][704]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.27.23:074][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.27.23:098][933]LogSavePackage: Save=17.13ms
+[2018.11.26-06.27.23:098][933]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UID8B89D77440E728DE5D2CA9BB7744257.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.27.23:101][933]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.27.26:044][281]BlueprintLog: New page: 랭킹UI 컴파일
+[2018.11.26-06.27.26:349][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.27.26:374][308]LogSavePackage: Save=18.74ms
+[2018.11.26-06.27.26:374][308]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI85833DCA4D241B2D71DF3E893851745B.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.27.26:376][308]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.28.02:466][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.28.02:493][560]LogSavePackage: Save=20.47ms
+[2018.11.26-06.28.02:493][560]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI6BD7CB2A4676D314488F1C9A84489C43.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.28.02:497][560]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.29.04:664][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.29.04:697][932]LogSavePackage: Save=26.23ms
+[2018.11.26-06.29.04:697][932]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI0E1F58F74CCBF04E917F40BB1697CE1A.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.29.04:700][932]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.29.56:328][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.29.56:370][996]LogSavePackage: Save=35.58ms
+[2018.11.26-06.29.56:370][996]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIADC229ED49D8CC70579DA99981577478.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.29.56:374][996]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.30.28:826][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.30.28:869][850]LogSavePackage: Save=36.70ms
+[2018.11.26-06.30.28:870][850]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI14E9AABE4554CC65ABCDA0A1AC25465C.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.30.28:873][850]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.30.34:339][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.30.34:382][498]LogSavePackage: Save=36.57ms
+[2018.11.26-06.30.34:382][498]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIF80FF0F045080614E61EBA90E0C1261A.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.30.34:386][498]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.30.35:701][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.30.35:744][648]LogSavePackage: Save=36.35ms
+[2018.11.26-06.30.35:744][648]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI74B84072425239BE5415B29F39E013EB.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.30.35:748][648]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.30.49:894][342]BlueprintLog: New page: 랭킹UI 컴파일
+[2018.11.26-06.30.50:245][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.30.50:292][375]LogSavePackage: Save=40.25ms
+[2018.11.26-06.30.50:292][375]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI09707D0F46C34DA3B75F74A7936BF05B.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.30.50:293][375]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.32.54:397][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.32.54:456][612]LogSavePackage: Save=44.13ms
+[2018.11.26-06.32.54:456][612]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIAB2AC67D4D7E6D933D19DC8329E8C763.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.32.54:461][612]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.34.03:185][740]BlueprintLog: New page: 랭킹UI 컴파일
+[2018.11.26-06.34.03:498][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.34.03:551][768]LogSavePackage: Save=46.18ms
+[2018.11.26-06.34.03:551][768]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIB4B8E09F4EC392E1F87E77ABE080ADBC.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.34.03:553][768]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.36.52:297][728]BlueprintLog: New page: 랭킹UI 컴파일
+[2018.11.26-06.36.52:717][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.36.52:777][758]LogSavePackage: Save=52.62ms
+[2018.11.26-06.36.52:777][758]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIE87E6D9648F68ED852B6C1AD0781C84C.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.36.52:781][758]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.37.44:700][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.37.44:760][874]LogSavePackage: Save=52.37ms
+[2018.11.26-06.37.44:760][874]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIEBEF13CA4B054466DE2171806FE3A3E6.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.37.44:763][874]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.39.41:074][768]BlueprintLog: New page: 랭킹UI 컴파일
+[2018.11.26-06.39.41:477][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.39.41:543][806]LogSavePackage: Save=54.30ms
+[2018.11.26-06.39.41:543][806]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI4A9251754938FE0B717002B6EABD7C22.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.39.41:547][806]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.41.32:100][971]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/MainMenu' took 0.021
+[2018.11.26-06.41.32:102][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PuzzleBP/Blueprints/UI/랭킹UI] ([1] browsable assets)...
+[2018.11.26-06.41.32:102][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBP/Blueprints/UI/랭킹UI]
+[2018.11.26-06.41.32:102][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/UI/랭킹UI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.26-06.41.32:162][971]LogSavePackage: Save=53.14ms
+[2018.11.26-06.41.32:162][971]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI_Auto1A34A329D4E54177F749F6FB057C0CF24.tmp' to '../../../../../GitHub/GameJam/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/UI/랭킹UI_Auto1.uasset'
+[2018.11.26-06.41.32:163][971]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Saved/Autosaves/Game/PuzzleBP/Blueprints/UI/랭킹UI_Auto1.uasset
+[2018.11.26-06.41.32:164][971]LogFileHelpers: Auto-saving content packages took 0.063
+[2018.11.26-06.42.31:794][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.42.31:865][115]LogSavePackage: Save=53.38ms
+[2018.11.26-06.42.31:865][115]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIAC73E75F4880041601D5FFB46BA2FC8D.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.42.31:869][115]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.42.59:542][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹슬롯" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset" SILENT=true
+[2018.11.26-06.42.59:554][378]LogSavePackage: Save=9.50ms
+[2018.11.26-06.42.59:554][378]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹슬롯8B7C135541B83501F48EA3A86EA5A1EF.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset'
+[2018.11.26-06.42.59:557][378]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset
+[2018.11.26-06.43.11:402][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.43.11:461][752]LogSavePackage: Save=51.29ms
+[2018.11.26-06.43.11:461][752]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UID880048B4B17FC0902A030BE754C2CCF.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.43.11:464][752]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.43.13:292][971]BlueprintLog: New page: 랭킹UI 컴파일
+[2018.11.26-06.43.13:624][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.43.13:685][  1]LogSavePackage: Save=54.02ms
+[2018.11.26-06.43.13:685][  1]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIAF7037D84492EA064FCC319FF8BD2D8A.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.43.13:686][  1]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.44.11:473][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널
+[2018.11.26-06.44.11:473][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_33.WidgetTree_71.랭킹패널
+[2018.11.26-06.44.11:473][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_13.WidgetTree_51.랭킹패널
+[2018.11.26-06.44.11:473][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_27.WidgetTree_65.랭킹패널
+[2018.11.26-06.44.11:473][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_1.WidgetTree_89.랭킹패널
+[2018.11.26-06.44.11:473][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_14.WidgetTree_52.랭킹패널
+[2018.11.26-06.44.11:473][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_56.WidgetTree_227.랭킹패널
+[2018.11.26-06.44.11:473][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_28.WidgetTree_66.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_15.WidgetTree_53.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_54.WidgetTree_175.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_29.WidgetTree_67.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_16.WidgetTree_54.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_57.WidgetTree_291.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_34.WidgetTree_72.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_17.WidgetTree_55.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_30.WidgetTree_68.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.REINST_랭킹UI_C_61:랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_18.WidgetTree_56.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.REINST_랭킹UI_C_61:WidgetTree.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_31.WidgetTree_69.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_19.WidgetTree_57.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_35.WidgetTree_73.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_58.WidgetTree_292.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_32.WidgetTree_70.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.REINST_랭킹UI_C_98:랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_36.WidgetTree_74.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.REINST_랭킹UI_C_63:랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.REINST_랭킹UI_C_93:WidgetTree.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_37.WidgetTree_75.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_22.WidgetTree_60.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_68.WidgetTree_337.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_20.WidgetTree_199.랭킹패널
+[2018.11.26-06.44.11:474][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_23.WidgetTree_61.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_38.WidgetTree_76.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.REINST_랭킹UI_C_72:랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_24.WidgetTree_62.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_52.WidgetTree_217.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_39.WidgetTree_77.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_25.WidgetTree_63.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_21.WidgetTree_200.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_51.WidgetTree_216.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_26.WidgetTree_64.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.TRASHCLASS_랭킹UI_147:랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_40.WidgetTree_78.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.REINST_랭킹UI_C_72:WidgetTree.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_50.WidgetTree_201.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_41.WidgetTree_79.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_53.WidgetTree_218.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_59.WidgetTree_310.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_42.WidgetTree_80.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_65.WidgetTree_311.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_55.WidgetTree_219.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_43.WidgetTree_81.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_75.WidgetTree_378.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.REINST_SKEL_랭킹UI_C_99:랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_44.WidgetTree_82.랭킹패널
+[2018.11.26-06.44.11:475][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_66.WidgetTree_312.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_77.WidgetTree_340.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_45.WidgetTree_83.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_60.WidgetTree_294.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_67.WidgetTree_313.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_46.WidgetTree_84.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.REINST_랭킹UI_C_98:WidgetTree.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_61.WidgetTree_295.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_47.WidgetTree_85.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI_C:랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI_C:WidgetTree.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_48.WidgetTree_86.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_62.WidgetTree_296.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.REINST_랭킹UI_C_63:WidgetTree.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_49.WidgetTree_87.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_63.WidgetTree_297.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Game/PuzzleBP/Blueprints/UI/랭킹UI.SKEL_랭킹UI_C:랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_64.WidgetTree_298.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_80.WidgetTree_380.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_69.WidgetTree_315.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.REINST_랭킹UI_C_81:랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.REINST_랭킹UI_C_81:WidgetTree.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.TRASHCLASS_랭킹UI_149:랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_76.WidgetTree_339.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_70.WidgetTree_316.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_71.WidgetTree_317.랭킹패널
+[2018.11.26-06.44.11:476][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_72.WidgetTree_318.랭킹패널
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ObjectProperty /Engine/Transient.REINST_랭킹UI_C_93:랭킹패널
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_2.WidgetTree_370.랭킹패널
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_73.WidgetTree_319.랭킹패널
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_78.WidgetTree_367.랭킹패널
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_79.WidgetTree_368.랭킹패널
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.랭킹패널 or ScrollBox /Engine/Transient.World_10:랭킹UI_C_74.WidgetTree_320.랭킹패널
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_22.WidgetTree_60.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_23.WidgetTree_61.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_24.WidgetTree_62.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_25.WidgetTree_63.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_26.WidgetTree_64.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_27.WidgetTree_65.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_28.WidgetTree_66.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_29.WidgetTree_67.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_30.WidgetTree_68.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_31.WidgetTree_69.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_32.WidgetTree_70.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_33.WidgetTree_71.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_34.WidgetTree_72.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_35.WidgetTree_73.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_36.WidgetTree_74.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_37.WidgetTree_75.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_38.WidgetTree_76.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:477][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_39.WidgetTree_77.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_40.WidgetTree_78.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_41.WidgetTree_79.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_42.WidgetTree_80.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_43.WidgetTree_81.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_44.WidgetTree_82.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_45.WidgetTree_83.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_46.WidgetTree_84.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_47.WidgetTree_85.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_48.WidgetTree_86.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_49.WidgetTree_87.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_54.WidgetTree_175.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_1.WidgetTree_89.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.REINST_랭킹UI_C_61:WidgetTree.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_51.WidgetTree_216.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.REINST_랭킹UI_C_63:WidgetTree.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.REINST_랭킹UI_C_93:WidgetTree.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_20.WidgetTree_199.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_21.WidgetTree_200.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_50.WidgetTree_201.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_52.WidgetTree_217.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_53.WidgetTree_218.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_55.WidgetTree_219.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_56.WidgetTree_227.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.REINST_랭킹UI_C_72:WidgetTree.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_57.WidgetTree_291.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_58.WidgetTree_292.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_59.WidgetTree_310.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_65.WidgetTree_311.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_60.WidgetTree_294.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:478][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_61.WidgetTree_295.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_62.WidgetTree_296.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_63.WidgetTree_297.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_64.WidgetTree_298.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_66.WidgetTree_312.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_67.WidgetTree_313.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.REINST_랭킹UI_C_81:WidgetTree.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_68.WidgetTree_337.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_2.WidgetTree_370.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_69.WidgetTree_315.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_70.WidgetTree_316.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_71.WidgetTree_317.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_72.WidgetTree_318.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_73.WidgetTree_319.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_74.WidgetTree_320.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_78.WidgetTree_367.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_79.WidgetTree_368.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_76.WidgetTree_339.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_77.WidgetTree_340.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.REINST_랭킹UI_C_98:WidgetTree.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI_C:WidgetTree.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogUObjectHash: Warning: Ambiguous search, could be ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4 or ScrollBoxSlot /Engine/Transient.World_10:랭킹UI_C_75.WidgetTree_378.랭킹패널.ScrollBoxSlot_4
+[2018.11.26-06.44.11:479][877]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ScrollBoxSlot /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.랭킹패널.ScrollBoxSlot_4) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_1).  Import failed...
+[2018.11.26-06.44.11:479][877]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'ScrollBoxSlot'"랭킹패널.ScrollBoxSlot_4"''
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/게임모드설정.게임모드설정:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/옵션창.옵션창:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/학습장.학습장:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/받아쓰기.받아쓰기:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/게임모드설정.SKEL_게임모드설정_C:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/받아쓰기.SKEL_받아쓰기_C:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/옵션창.SKEL_옵션창_C:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/학습장.SKEL_학습장_C:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.SKEL_학습장틀린단어리스트_C:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/게임모드설정.게임모드설정_C:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/받아쓰기.받아쓰기_C:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/옵션창.옵션창_C:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/학습장.학습장_C:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트_C:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_7.WidgetTree_45.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_6.WidgetTree_44.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_5.WidgetTree_43.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_4.WidgetTree_42.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_15.WidgetTree_53.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_14.WidgetTree_52.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_13.WidgetTree_51.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_12.WidgetTree_50.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_11.WidgetTree_49.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_8:메인화면_C_36.WidgetTree_371.학습장.WidgetTree_376.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_8:메인화면_C_36.WidgetTree_371.옵션창.WidgetTree_375.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_8:메인화면_C_36.WidgetTree_371.게임모드설정.WidgetTree_372.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_2.WidgetTree_370.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_1.WidgetTree_89.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_8.WidgetTree_46.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_9.WidgetTree_47.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_10.WidgetTree_48.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_16.WidgetTree_54.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_17.WidgetTree_55.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_18.WidgetTree_56.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_19.WidgetTree_57.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_27.WidgetTree_65.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_28.WidgetTree_66.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_22.WidgetTree_60.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_23.WidgetTree_61.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_24.WidgetTree_62.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_25.WidgetTree_63.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_26.WidgetTree_64.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_29.WidgetTree_67.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_30.WidgetTree_68.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_31.WidgetTree_69.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_32.WidgetTree_70.SizeBox_0
+[2018.11.26-06.44.31:826][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_33.WidgetTree_71.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_34.WidgetTree_72.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_35.WidgetTree_73.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_36.WidgetTree_74.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_37.WidgetTree_75.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_38.WidgetTree_76.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_39.WidgetTree_77.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_40.WidgetTree_78.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_41.WidgetTree_79.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_42.WidgetTree_80.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_43.WidgetTree_81.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_44.WidgetTree_82.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_45.WidgetTree_83.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_46.WidgetTree_84.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_47.WidgetTree_85.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_48.WidgetTree_86.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_49.WidgetTree_87.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_54.WidgetTree_175.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.REINST_랭킹UI_C_61:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_51.WidgetTree_216.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.REINST_랭킹UI_C_63:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.REINST_랭킹UI_C_93:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_20.WidgetTree_199.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_21.WidgetTree_200.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_50.WidgetTree_201.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_52.WidgetTree_217.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_53.WidgetTree_218.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_55.WidgetTree_219.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_56.WidgetTree_227.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.REINST_랭킹UI_C_72:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_57.WidgetTree_291.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_65.WidgetTree_311.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_59.WidgetTree_310.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_58.WidgetTree_292.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_60.WidgetTree_294.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_61.WidgetTree_295.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_62.WidgetTree_296.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_63.WidgetTree_297.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_64.WidgetTree_298.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_66.WidgetTree_312.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_67.WidgetTree_313.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.REINST_랭킹UI_C_81:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_68.WidgetTree_337.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_8:메인화면_C_36.WidgetTree_371.학습장.WidgetTree_376.받아쓰기.WidgetTree_377.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_69.WidgetTree_315.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_70.WidgetTree_316.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_71.WidgetTree_317.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_72.WidgetTree_318.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_73.WidgetTree_319.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_74.WidgetTree_320.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_14:랭킹슬롯_C_4.WidgetTree_359.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_76.WidgetTree_339.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_77.WidgetTree_340.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_78.WidgetTree_367.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_79.WidgetTree_368.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.REINST_랭킹UI_C_98:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Game/PuzzleBP/Blueprints/UI/랭킹UI.랭킹UI_C:WidgetTree.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_75.WidgetTree_378.SizeBox_0
+[2018.11.26-06.44.31:827][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_14:랭킹슬롯_C_5.WidgetTree_379.SizeBox_0
+[2018.11.26-06.44.31:828][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_10:랭킹UI_C_80.WidgetTree_380.SizeBox_0
+[2018.11.26-06.44.31:828][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_14:랭킹슬롯_C_6.WidgetTree_381.SizeBox_0
+[2018.11.26-06.44.31:828][276]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0 or SizeBox /Engine/Transient.World_14:랭킹슬롯_C_7.WidgetTree_382.SizeBox_0
+[2018.11.26-06.44.31:828][276]LogProperty: Warning: Illegal TEXT reference to a private object in external package (SizeBoxSlot /Game/PuzzleBP/Blueprints/UI/학습장틀린단어리스트.학습장틀린단어리스트:WidgetTree.SizeBox_0.SizeBoxSlot_0) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_1).  Import failed...
+[2018.11.26-06.44.31:828][276]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'SizeBoxSlot'"SizeBox_0.SizeBoxSlot_0"''
+[2018.11.26-06.44.32:752][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.44.32:807][382]LogSavePackage: Save=48.64ms
+[2018.11.26-06.44.32:807][382]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIC88899C14DF7FE9BA3F3A1A76945402A.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.44.32:811][382]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.44.32:814][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹슬롯" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset" SILENT=true
+[2018.11.26-06.44.32:836][382]LogSavePackage: Save=11.77ms
+[2018.11.26-06.44.32:836][382]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹슬롯6AC06F904DDFEDC9DB8F79A21984A731.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset'
+[2018.11.26-06.44.32:839][382]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset
+[2018.11.26-06.44.38:235][ 22]BlueprintLog: New page: 랭킹슬롯 컴파일
+[2018.11.26-06.44.38:534][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹슬롯" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset" SILENT=true
+[2018.11.26-06.44.38:553][ 50]LogSavePackage: Save=12.37ms
+[2018.11.26-06.44.38:553][ 50]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹슬롯B6FC4472444BAC53DB18F981F922D078.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset'
+[2018.11.26-06.44.38:555][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset
+[2018.11.26-06.44.48:014][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹슬롯" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset" SILENT=true
+[2018.11.26-06.44.48:032][152]LogSavePackage: Save=11.68ms
+[2018.11.26-06.44.48:032][152]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹슬롯40945C004EEAFBECE50A6FA8BD9704F0.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset'
+[2018.11.26-06.44.48:036][152]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset
+[2018.11.26-06.45.04:023][ 36]BlueprintLog: New page: 랭킹슬롯 컴파일
+[2018.11.26-06.45.04:343][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹슬롯" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset" SILENT=true
+[2018.11.26-06.45.04:363][ 67]LogSavePackage: Save=13.07ms
+[2018.11.26-06.45.04:363][ 67]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹슬롯29EC027549CD2BEA8A36AF992BC4FDAA.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset'
+[2018.11.26-06.45.04:367][ 67]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset
+[2018.11.26-06.45.35:131][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.45.35:190][640]LogSavePackage: Save=49.14ms
+[2018.11.26-06.45.35:190][640]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI65B0AC1747673D1A7931F1B9ADC56B44.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.45.35:194][640]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.45.45:040][803]BlueprintLog: New page: 랭킹슬롯 컴파일
+[2018.11.26-06.45.45:405][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹슬롯" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset" SILENT=true
+[2018.11.26-06.45.45:424][837]LogSavePackage: Save=12.45ms
+[2018.11.26-06.45.45:424][837]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹슬롯76F3E8094F25BB0A3B523986CED68072.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset'
+[2018.11.26-06.45.45:428][837]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset
+[2018.11.26-06.45.49:405][298]BlueprintLog: New page: 랭킹UI 컴파일
+[2018.11.26-06.45.49:824][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.45.49:884][334]LogSavePackage: Save=53.24ms
+[2018.11.26-06.45.49:884][334]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI002BA1214F268CED4EF4A88D4D2282B3.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.45.49:885][334]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.46.34:349][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.46.34:406][596]LogSavePackage: Save=50.42ms
+[2018.11.26-06.46.34:406][596]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIF3808B7D4B79C80442B1EBBF21E686F7.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.46.34:410][596]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.46.34:413][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹슬롯" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset" SILENT=true
+[2018.11.26-06.46.34:432][596]LogSavePackage: Save=12.46ms
+[2018.11.26-06.46.34:432][596]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹슬롯1D86E8C94D2146A8C02CBA852CCC1CA6.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset'
+[2018.11.26-06.46.34:435][596]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset
+[2018.11.26-06.47.08:487][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹슬롯" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset" SILENT=true
+[2018.11.26-06.47.08:512][570]LogSavePackage: Save=18.10ms
+[2018.11.26-06.47.08:512][570]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹슬롯3D6BF8994F6D65DE5860E68F4B49C350.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset'
+[2018.11.26-06.47.08:516][570]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset
+[2018.11.26-06.47.10:083][756]BlueprintLog: New page: 랭킹슬롯 컴파일
+[2018.11.26-06.47.10:334][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹슬롯" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset" SILENT=true
+[2018.11.26-06.47.10:361][777]LogSavePackage: Save=19.28ms
+[2018.11.26-06.47.10:361][777]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹슬롯F73E5FCD4E6BB3B455F497B4B73A8AF0.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset'
+[2018.11.26-06.47.10:362][777]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹슬롯.uasset
+[2018.11.26-06.47.44:861][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.47.44:918][875]LogSavePackage: Save=49.69ms
+[2018.11.26-06.47.44:918][875]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIAF5051EB481AC9B0368C99B0F57C319B.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.47.44:922][875]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.47.59:687][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.47.59:746][617]LogSavePackage: Save=51.70ms
+[2018.11.26-06.47.59:746][617]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UIA547697546FFB3F38DC39FA088FAC5D4.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.47.59:750][617]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.48.05:151][262]BlueprintLog: New page: 랭킹UI 컴파일
+[2018.11.26-06.48.05:433][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/랭킹UI" FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset" SILENT=true
+[2018.11.26-06.48.05:493][286]LogSavePackage: Save=52.90ms
+[2018.11.26-06.48.05:493][286]LogSavePackage: Moving '../../../../../GitHub/GameJam/GameGem/Saved/랭킹UI1E30F9484088802B37B224A1C0BF6793.tmp' to '../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset'
+[2018.11.26-06.48.05:496][286]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Blueprints/UI/랭킹UI.uasset
+[2018.11.26-06.48.14:462][341]LogAIModule: Creating AISystem for world Login
+[2018.11.26-06.48.14:487][341]Cmd: MAP LOAD FILE="../../../../../GitHub/GameJam/GameGem/Content/PuzzleBP/Maps/Login.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-06.48.14:488][341]LightingResults: New page: 라이팅 빌드
+[2018.11.26-06.48.14:490][341]LoadErrors: New page: 맵 로드중: Login.umap
+[2018.11.26-06.48.14:490][341]MapCheck: New page: 맵 체크
+[2018.11.26-06.48.14:490][341]LightingResults: New page: 라이팅 빌드
+[2018.11.26-06.48.14:612][341]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-06.48.14:664][341]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-06.48.14:756][341]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 92.259ms.
+[2018.11.26-06.48.14:756][341]LogFileHelpers: Loading map 'Login' took 0.270
+[2018.11.26-06.48.15:190][388]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.26-06.48.15:224][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/PuzzleBP/Maps/Login.Login_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login'
+[2018.11.26-06.48.15:224][388]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.26-06.48.15:256][388]LogPlayLevel: [PlayLevel] Compiling 메인화면 before play...
+[2018.11.26-06.48.15:446][388]LogPlayLevel: PlayLevel: Blueprint regeneration took 222 ms (1 blueprints)
+[2018.11.26-06.48.15:446][388]PIE: New page: PIE 세션: Login (2018. 11. 27. 오전 12:48:15)
+[2018.11.26-06.48.15:447][388]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_Login
+[2018.11.26-06.48.15:447][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000669s)
+[2018.11.26-06.48.15:448][388]LogAIModule: Creating AISystem for world Login
+[2018.11.26-06.48.15:448][388]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2018.11.26-06.48.15:448][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/Login.Login to /Game/PuzzleBP/Maps/UEDPIE_0_Login.Login (0.001360s)
+[2018.11.26-06.48.15:485][388]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-06.48.15:508][388]LogInit: FAudioDevice initialized.
+[2018.11.26-06.48.15:573][388]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.26-06.48.15:574][388]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_Login.Login up for play (max tick rate 0) at 2018.11.26-15.48.15
+[2018.11.26-06.48.15:574][388]LogWorld: Bringing up level for play took: 0.000356
+[2018.11.26-06.48.15:579][388]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_Login 에 대한 에디터에서 플레이 시작 시간: 0.654
+[2018.11.26-06.48.15:580][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login' with GeneratedClass '/Game/PuzzleBP/Maps/Login.Login_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/Login.Login:PersistentLevel.Login'
+[2018.11.26-06.48.23:223][290]LogNet: Browse: /Game/PuzzleBP/Maps/MainMenu
+[2018.11.26-06.48.23:223][290]LogLoad: LoadMap: /Game/PuzzleBP/Maps/MainMenu
+[2018.11.26-06.48.24:063][290]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.728 s
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: 
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: 
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: Stack: 
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000003F0D2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000003EE7123A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000003EE8B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x00000000377D0199 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000003779EF4D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000004B0C6C17 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000004B3DDED6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000004B3F5259 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000004B3F4774 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000003D4BFB28 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000003D473FA8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000003D4E539D UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000003A1E61B1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000003AA94AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000001E975A26 UE4Editor.exe!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000001E985430 UE4Editor.exe!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000001E9854AA UE4Editor.exe!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000001E992379 UE4Editor.exe!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x000000001E993D57 UE4Editor.exe!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x0000000093783034 KERNEL32.DLL!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: [Callstack] 0x0000000095C11471 ntdll.dll!UnknownFunction []
+[2018.11.26-06.48.24:063][290]LogOutputDevice: Error: 
+[2018.11.26-06.48.24:065][290]LogStats:                SubmitErrorReport -  0.000 s
