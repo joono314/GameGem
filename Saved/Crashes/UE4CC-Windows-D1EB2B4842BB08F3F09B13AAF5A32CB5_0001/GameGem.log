@@ -1,0 +1,779 @@
+﻿Log file open, 11/27/18 22:08:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameGem
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1319226229) SRandInit(-1319226229).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.238951
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.27-13.08.53:443][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.27-13.08.53:443][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.27-13.08.53:454][  0]LogInit: Computer: DESKTOP-OCEV6JO
+[2018.11.27-13.08.53:454][  0]LogInit: User: joono
+[2018.11.27-13.08.53:454][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.11.27-13.08.53:454][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2018.11.27-13.08.53:455][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.27-13.08.53:455][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.27-13.08.53:455][  0]LogMemory: Process Physical Memory: 272.04 MB used, 272.04 MB peak
+[2018.11.27-13.08.53:455][  0]LogMemory: Process Virtual Memory: 270.16 MB used, 270.16 MB peak
+[2018.11.27-13.08.53:455][  0]LogMemory: Physical Memory: 6616.36 MB used,  9710.31 MB free, 16326.67 MB total
+[2018.11.27-13.08.53:455][  0]LogMemory: Virtual Memory: 4783.48 MB used,  9710.31 MB free, 134217728.00 MB total
+[2018.11.27-13.08.53:683][  0]LogInit: Using OS detected language (ko-KR).
+[2018.11.27-13.08.53:683][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.11.27-13.08.53:686][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.11.27-13.08.53:831][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.27-13.08.54:132][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.27-13.08.54:189][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.11.27-13.08.54:189][  0]LogD3D11RHI:       1987/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.27-13.08.54:191][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.27-13.08.54:191][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.27-13.08.54:191][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.27-13.08.54:196][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.27-13.08.54:196][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.27-13.08.54:196][  0]LogWindows: EnumDisplayDevices:
+[2018.11.27-13.08.54:197][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.11.27-13.08.54:197][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2018.11.27-13.08.54:197][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.11.27-13.08.54:198][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.11.27-13.08.54:198][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.27-13.08.54:198][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.11.27-13.08.54:198][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.27-13.08.54:198][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.27-13.08.54:198][  0]LogRHI: Texture pool is 1391 MB (70% of 1987 MB)
+[2018.11.27-13.08.54:222][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.27-13.08.54:233][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.27-13.08.54:332][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Intermediate/Shaders/WorkingDirectory/13492/).
+[2018.11.27-13.08.54:332][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joono/AppData/Local/Temp/UnrealShaderWorkingDir/6C761C2B477BB8F524617ABACE99CAF6/'.
+[2018.11.27-13.08.54:332][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.27-13.08.55:192][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.27-13.08.55:265][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.27-13.08.55:338][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.27-13.08.55:412][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.27-13.08.55:484][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.27-13.08.55:558][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.27-13.08.55:632][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.27-13.08.55:706][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.27-13.08.55:773][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.27-13.08.55:845][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.27-13.08.55:916][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.27-13.08.55:987][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.27-13.08.56:059][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.27-13.08.56:130][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.27-13.08.56:273][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.27-13.08.56:273][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.27-13.08.56:345][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-13.08.56:407][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.27-13.08.56:529][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.27-13.08.56:564][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.27-13.08.56:635][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.27-13.08.56:707][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.27-13.08.56:781][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.27-13.08.56:852][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.27-13.08.56:852][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.27-13.08.57:553][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.27-13.08.57:613][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/joono/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.27-13.08.57:613][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joono/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.11.27-13.08.57:613][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.27-13.08.57:613][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.27-13.08.57:613][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.27-13.08.57:613][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.27-13.08.57:627][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.27-13.08.57:639][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joono/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.27-13.08.57:647][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.27-13.08.57:648][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.27-13.08.57:648][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.27-13.08.57:648][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.27-13.08.57:979][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.27-13.08.58:411][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.27-13.08.58:474][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.27-13.08.58:474][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.27-13.08.58:474][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.27-13.08.58:474][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.27-13.08.58:474][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.27-13.08.58:511][  0]LogNetVersion: GameGem , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 882068137)
+[2018.11.27-13.08.58:697][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2018.11.27-13.08.59:200][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.057964 seconds
+[2018.11.27-13.08.59:204][  0]LogUObjectArray: 35877 objects as part of root set at end of initial load.
+[2018.11.27-13.08.59:204][  0]LogUObjectAllocator: 7366016 out of 0 bytes used by permanent object pool.
+[2018.11.27-13.08.59:204][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.27-13.08.59:302][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.11.27-13.09.02:691][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.27-13.09.02:747][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.27-13.09.03:711][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.11.27-13.09.04:306][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.27-13.09.04:306][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.27-13.09.04:388][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.27-13.09.04:470][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.27-13.09.05:693][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.27-13.09.06:101][  0]LogOcInput: OculusInput pre-init called
+[2018.11.27-13.09.06:516][  0]LogEngine: Initializing Engine...
+[2018.11.27-13.09.06:518][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.27-13.09.06:697][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.27-13.09.06:697][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.27-13.09.06:899][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.27-13.09.06:959][  0]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.27-13.09.06:987][  0]LogInit: FAudioDevice initialized.
+[2018.11.27-13.09.07:063][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/joono/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.27-13.09.07:078][  0]LogInit: Texture streaming: Enabled
+[2018.11.27-13.09.07:233][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.27-13.09.07:435][  0]LogInit: Transaction tracking system initialized
+[2018.11.27-13.09.07:923][  0]BlueprintLog: New page: 에디터 로드
+[2018.11.27-13.09.09:309][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.11.27-13.09.10:593][  0]LogConsoleResponse: Display: 
+[2018.11.27-13.09.10:781][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.27-13.09.10:781][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.27-13.09.10:781][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.27-13.09.10:818][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/' took 0.02s
+[2018.11.27-13.09.12:605][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.27-13.09.12:605][  0]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.27-13.09.12:606][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.27-13.09.12:671][  0]MapCheck: New page: 맵 체크
+[2018.11.27-13.09.12:671][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.27-13.09.14:112][  0]LogAIModule: Creating AISystem for world MainGame
+[2018.11.27-13.09.14:118][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.27-13.09.14:137][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.27-13.09.14:228][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 90.753ms.
+[2018.11.27-13.09.14:228][  0]LogFileHelpers: Loading map 'MainGame' took 1.623
+[2018.11.27-13.09.14:381][  0]LogCollectionManager: Loaded 0 collections in 0.001900 seconds
+[2018.11.27-13.09.14:486][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/Collections/' took 0.01s
+[2018.11.27-13.09.14:486][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/Developers/joono/Collections/' took 0.01s
+[2018.11.27-13.09.14:486][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/Collections/' took 0.01s
+[2018.11.27-13.09.14:486][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.27-13.09.14:493][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2363 classes and 519 folders.
+[2018.11.27-13.09.14:594][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.27-13.09.14:642][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.27-13.09.14:714][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.27-13.09.14:779][  0]LogSlate: Took 0.000359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.27-13.09.14:783][  0]LogSlate: Took 0.002188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.11.27-13.09.14:783][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.27-13.09.14:787][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.27-13.09.14:894][  0]LogRenderer: Reallocating scene render targets to support 1100x476 Format 10 NumSamples 1 (Frame:1).
+[2018.11.27-13.09.15:081][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.27-13.09.15:081][  0]LogLoad: (Engine Initialization) Total time: 24.61 seconds
+[2018.11.27-13.09.15:081][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.27-13.09.15:081][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.11.27-13.09.15:441][  0]LogAssetRegistry: Asset discovery search completed in 16.7669 seconds
+[2018.11.27-13.09.15:443][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.27-13.09.15:443][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2018.11.27-13.09.15:444][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.27-13.09.15:472][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.27-13.09.17:774][ 10]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.27-13.09.17:824][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.27-13.09.17:824][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.09.17:824][ 10]PIE: New page: PIE 세션: MainGame (2018. 11. 28. 오전 7:09:17)
+[2018.11.27-13.09.17:825][ 10]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.27-13.09.17:849][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023973s)
+[2018.11.27-13.09.17:849][ 10]LogAIModule: Creating AISystem for world MainGame
+[2018.11.27-13.09.17:850][ 10]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2018.11.27-13.09.17:850][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.025039s)
+[2018.11.27-13.09.17:916][ 10]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.27-13.09.17:931][ 10]LogInit: FAudioDevice initialized.
+[2018.11.27-13.09.18:003][ 10]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.27-13.09.18:004][ 10]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 0) at 2018.11.27-22.09.18
+[2018.11.27-13.09.18:005][ 10]LogWorld: Bringing up level for play took: 0.000795
+[2018.11.27-13.09.18:072][ 10]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.11.27-13.09.18:078][ 10]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: -0.263
+[2018.11.27-13.09.18:078][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.27-13.09.18:103][ 10]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.11.27-13.09.23:198][617]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.27-13.09.23:247][617]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.27-13.11.10:494][201]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.27-13.11.19:176][190]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\joono\OneDrive\바탕 화면\[GameJam] musicResource\배경음\로고화면음악\칼의노래.wma)
+[2018.11.27-13.12.18:772][570]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.27-13.12.18:785][570]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.27-13.12.18:785][570]LightingResults: New page: 라이팅 빌드
+[2018.11.27-13.12.18:785][570]LoadErrors: New page: 맵 로드중: MainMenu.umap
+[2018.11.27-13.12.18:786][570]MapCheck: New page: 맵 체크
+[2018.11.27-13.12.18:786][570]LightingResults: New page: 라이팅 빌드
+[2018.11.27-13.12.18:860][570]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.27-13.12.18:908][570]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.27-13.12.19:000][570]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 92.388ms.
+[2018.11.27-13.12.19:001][570]LogFileHelpers: Loading map 'MainMenu' took 0.217
+[2018.11.27-13.12.21:973][921]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.27-13.12.22:537][949]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.11.27-13.12.23:064][949]LogSlate: Took 0.003238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.27-13.12.23:147][950]LogSlate: Took 0.007062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.27-13.12.36:966][595]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.27-13.12.36:997][595]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.12.36:997][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.12.36:997][595]PIE: New page: PIE 세션: MainMenu (2018. 11. 28. 오전 7:12:36)
+[2018.11.27-13.12.36:998][595]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu
+[2018.11.27-13.12.36:999][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001372s)
+[2018.11.27-13.12.36:999][595]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.27-13.12.37:000][595]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2018.11.27-13.12.37:000][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainMenu.MainMenu to /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002179s)
+[2018.11.27-13.12.37:073][595]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.27-13.12.37:089][595]LogInit: FAudioDevice initialized.
+[2018.11.27-13.12.37:138][595]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.27-13.12.37:139][595]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-22.12.37
+[2018.11.27-13.12.37:139][595]LogWorld: Bringing up level for play took: 0.000431
+[2018.11.27-13.12.37:141][595]LogBlueprintUserMessages: [MainMenu_C_1] 왜죠
+[2018.11.27-13.12.37:147][595]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/학습장.학습장_C:ExecuteUbergraph_학습장'!
+[2018.11.27-13.12.37:147][595]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/옵션창.옵션창_C:ExecuteUbergraph_옵션창'!
+[2018.11.27-13.12.37:147][595]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/내정보창.내정보창_C:ExecuteUbergraph_내정보창'!
+[2018.11.27-13.12.37:147][595]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/내아이템.내아이템_C:ExecuteUbergraph_내아이템'!
+[2018.11.27-13.12.37:154][595]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: 0.813
+[2018.11.27-13.12.37:154][595]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.12.39:043][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.12.39:102][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.12.40:920][ 26]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.27-13.12.40:920][ 26]LightingResults: New page: 라이팅 빌드
+[2018.11.27-13.12.40:920][ 26]LoadErrors: New page: 맵 로드중: MainMenu.umap
+[2018.11.27-13.12.40:958][ 26]MapCheck: New page: 맵 체크
+[2018.11.27-13.12.40:958][ 26]LightingResults: New page: 라이팅 빌드
+[2018.11.27-13.12.41:005][ 26]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.27-13.12.41:099][ 26]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.27-13.12.41:154][ 26]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.27-13.12.41:246][ 26]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 91.416ms.
+[2018.11.27-13.12.41:247][ 26]LogFileHelpers: Loading map 'MainMenu' took 0.328
+[2018.11.27-13.13.12:265][669]LogSavePackage: Save=178.92ms
+[2018.11.27-13.13.12:266][669]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/MainMenuB21C55B7405EB2B26F3351A90071853A.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainMenu.umap'
+[2018.11.27-13.13.12:269][669]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainMenu.umap
+[2018.11.27-13.13.13:817][841]LogAIModule: Creating AISystem for world Login
+[2018.11.27-13.13.13:842][841]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/Login.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.27-13.13.13:842][841]LightingResults: New page: 라이팅 빌드
+[2018.11.27-13.13.13:843][841]LoadErrors: New page: 맵 로드중: Login.umap
+[2018.11.27-13.13.13:884][841]MapCheck: New page: 맵 체크
+[2018.11.27-13.13.13:884][841]LightingResults: New page: 라이팅 빌드
+[2018.11.27-13.13.14:016][841]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.27-13.13.14:073][841]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.27-13.13.14:165][841]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 93.153ms.
+[2018.11.27-13.13.14:165][841]LogFileHelpers: Loading map 'Login' took 0.324
+[2018.11.27-13.13.22:942][840]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.27-13.13.22:963][840]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.27-13.13.22:963][840]LightingResults: New page: 라이팅 빌드
+[2018.11.27-13.13.22:964][840]LoadErrors: New page: 맵 로드중: MainMenu.umap
+[2018.11.27-13.13.22:964][840]MapCheck: New page: 맵 체크
+[2018.11.27-13.13.22:964][840]LightingResults: New page: 라이팅 빌드
+[2018.11.27-13.13.23:124][840]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.27-13.13.23:178][840]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.27-13.13.23:270][840]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 92.242ms.
+[2018.11.27-13.13.23:270][840]LogFileHelpers: Loading map 'MainMenu' took 0.308
+[2018.11.27-13.13.24:425][977]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.27-13.13.24:450][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.13.24:451][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.13.24:451][977]PIE: New page: PIE 세션: MainMenu (2018. 11. 28. 오전 7:13:24)
+[2018.11.27-13.13.24:451][977]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu
+[2018.11.27-13.13.24:452][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001314s)
+[2018.11.27-13.13.24:453][977]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.27-13.13.24:453][977]LogPlayLevel: PIE: World Init took: (0.000468s)
+[2018.11.27-13.13.24:453][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainMenu.MainMenu to /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001985s)
+[2018.11.27-13.13.24:526][977]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.27-13.13.24:541][977]LogInit: FAudioDevice initialized.
+[2018.11.27-13.13.24:595][977]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.27-13.13.24:596][977]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-22.13.24
+[2018.11.27-13.13.24:596][977]LogWorld: Bringing up level for play took: 0.000449
+[2018.11.27-13.13.24:603][977]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/학습장.학습장_C:ExecuteUbergraph_학습장'!
+[2018.11.27-13.13.24:603][977]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/옵션창.옵션창_C:ExecuteUbergraph_옵션창'!
+[2018.11.27-13.13.24:603][977]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/내정보창.내정보창_C:ExecuteUbergraph_내정보창'!
+[2018.11.27-13.13.24:604][977]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/내아이템.내아이템_C:ExecuteUbergraph_내아이템'!
+[2018.11.27-13.13.24:610][977]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: 0.268
+[2018.11.27-13.13.24:611][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.13.25:843][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.13.25:897][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.13.26:826][225]Cmd: MAP LOAD FILE="../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.27-13.13.26:826][225]LightingResults: New page: 라이팅 빌드
+[2018.11.27-13.13.26:827][225]LoadErrors: New page: 맵 로드중: MainMenu.umap
+[2018.11.27-13.13.26:827][225]MapCheck: New page: 맵 체크
+[2018.11.27-13.13.26:827][225]LightingResults: New page: 라이팅 빌드
+[2018.11.27-13.13.26:874][225]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.27-13.13.27:041][225]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.27-13.13.27:097][225]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.27-13.13.27:190][225]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 93.062ms.
+[2018.11.27-13.13.27:191][225]LogFileHelpers: Loading map 'MainMenu' took 0.365
+[2018.11.27-13.13.28:566][389]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.27-13.13.28:588][389]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.13.28:589][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.13.28:589][389]PIE: New page: PIE 세션: MainMenu (2018. 11. 28. 오전 7:13:28)
+[2018.11.27-13.13.28:589][389]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu
+[2018.11.27-13.13.28:591][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001447s)
+[2018.11.27-13.13.28:591][389]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.27-13.13.28:591][389]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2018.11.27-13.13.28:591][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainMenu.MainMenu to /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002191s)
+[2018.11.27-13.13.28:664][389]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.27-13.13.28:678][389]LogInit: FAudioDevice initialized.
+[2018.11.27-13.13.28:729][389]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.27-13.13.28:730][389]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-22.13.28
+[2018.11.27-13.13.28:731][389]LogWorld: Bringing up level for play took: 0.000424
+[2018.11.27-13.13.28:737][389]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/학습장.학습장_C:ExecuteUbergraph_학습장'!
+[2018.11.27-13.13.28:737][389]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/옵션창.옵션창_C:ExecuteUbergraph_옵션창'!
+[2018.11.27-13.13.28:738][389]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/내정보창.내정보창_C:ExecuteUbergraph_내정보창'!
+[2018.11.27-13.13.28:738][389]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/내아이템.내아이템_C:ExecuteUbergraph_내아이템'!
+[2018.11.27-13.13.28:745][389]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: 0.404
+[2018.11.27-13.13.28:745][389]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.13.31:136][671]LogNet: Browse: /Game/PuzzleBP/Maps/TutorialGame
+[2018.11.27-13.13.31:136][671]LogLoad: LoadMap: /Game/PuzzleBP/Maps/TutorialGame
+[2018.11.27-13.13.32:021][671]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.392 s
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: 
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: 
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: Stack: 
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x000000004C632786 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x000000004C3D123A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x000000004C3EB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x000000006A1B0199 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x000000006A17EF4D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x000000006D0A6C17 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x000000006D3BDED6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x000000006D3D5259 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x000000006D3D4774 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x000000004AA1FB28 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x000000004A9D3FA8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x000000004AA4539D UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x00000000484761B1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x0000000048D24AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x0000000045F75A26 UE4Editor.exe!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x0000000045F85430 UE4Editor.exe!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x0000000045F854AA UE4Editor.exe!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x0000000045F92379 UE4Editor.exe!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x0000000045F93D57 UE4Editor.exe!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x0000000094353034 KERNEL32.DLL!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: [Callstack] 0x0000000095511471 ntdll.dll!UnknownFunction []
+[2018.11.27-13.13.32:021][671]LogOutputDevice: Error: 
+[2018.11.27-13.13.32:031][671]LogStats:                SubmitErrorReport -  0.000 s
+[2018.11.27-13.13.32:412][671]LogStats:                    SendNewReport -  0.381 s
+[2018.11.27-13.13.32:412][671]LogStats:             FDebug::EnsureFailed -  0.783 s
+[2018.11.27-13.13.32:823][671]LogAIModule: Creating AISystem for world TutorialGame
+[2018.11.27-13.13.32:824][671]LogLoad: Game class is 'PuzzleGameMode_Tutorial_C'
+[2018.11.27-13.13.32:826][671]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_TutorialGame.TutorialGame up for play (max tick rate 0) at 2018.11.27-22.13.32
+[2018.11.27-13.13.32:826][671]LogWorld: Bringing up level for play took: 0.001683
+[2018.11.27-13.13.32:826][671]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.27-13.13.32:829][671]LogLoad: Took 1.692491 seconds to LoadMap(/Game/PuzzleBP/Maps/TutorialGame)
+[2018.11.27-13.13.33:323][720]LogNet: Browse: /Game/PuzzleBP/Maps/MainMenu
+[2018.11.27-13.13.33:323][720]LogLoad: LoadMap: /Game/PuzzleBP/Maps/MainMenu
+[2018.11.27-13.13.33:349][720]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu
+[2018.11.27-13.13.33:350][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001422s)
+[2018.11.27-13.13.33:351][720]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.27-13.13.33:351][720]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2018.11.27-13.13.33:351][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainMenu.MainMenu to /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002185s)
+[2018.11.27-13.13.33:351][720]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.27-13.13.33:352][720]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-22.13.33
+[2018.11.27-13.13.33:352][720]LogWorld: Bringing up level for play took: 0.000347
+[2018.11.27-13.13.33:352][720]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.27-13.13.33:358][720]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/학습장.학습장_C:ExecuteUbergraph_학습장'!
+[2018.11.27-13.13.33:359][720]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/옵션창.옵션창_C:ExecuteUbergraph_옵션창'!
+[2018.11.27-13.13.33:359][720]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/내정보창.내정보창_C:ExecuteUbergraph_내정보창'!
+[2018.11.27-13.13.33:359][720]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/PuzzleBP/Blueprints/UI/내아이템.내아이템_C:ExecuteUbergraph_내아이템'!
+[2018.11.27-13.13.33:363][720]LogLoad: Took 0.039811 seconds to LoadMap(/Game/PuzzleBP/Maps/UEDPIE_0_MainMenu)
+[2018.11.27-13.13.34:127][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.13.34:178][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.13.53:159][961]BlueprintLog: New page: 스코어매니저 컴파일
+[2018.11.27-13.13.53:826][964]LogSavePackage: Save=287.08ms
+[2018.11.27-13.13.53:826][964]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/스코어매니저D45A2ABA42A5AE90E90F50AFB6DEA542.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.27-13.13.53:829][964]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.27-13.14.03:532][721]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.27-13.14.03:554][721]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.14.03:554][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.14.03:554][721]PIE: New page: PIE 세션: MainMenu (2018. 11. 28. 오전 7:14:03)
+[2018.11.27-13.14.03:814][721]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu
+[2018.11.27-13.14.03:815][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001409s)
+[2018.11.27-13.14.03:816][721]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.27-13.14.03:816][721]LogPlayLevel: PIE: World Init took: (0.000493s)
+[2018.11.27-13.14.03:816][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainMenu.MainMenu to /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002153s)
+[2018.11.27-13.14.03:889][721]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.27-13.14.03:904][721]LogInit: FAudioDevice initialized.
+[2018.11.27-13.14.03:969][721]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.27-13.14.03:970][721]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-22.14.03
+[2018.11.27-13.14.03:970][721]LogWorld: Bringing up level for play took: 0.000411
+[2018.11.27-13.14.03:982][721]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/PuzzleBP/Maps/MainMenu.MainMenu_C:ReceiveBeginPlay
+	Function /Game/PuzzleBP/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+	Function /Game/PuzzleBP/Blueprints/스코어매니저.스코어매니저_C:CorrectRateEvent
+	Function /Game/PuzzleBP/Blueprints/스코어매니저.스코어매니저_C:ExecuteUbergraph_스코어매니저
+
+[2018.11.27-13.14.03:994][721]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: -0.347
+[2018.11.27-13.14.03:994][721]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.14.07:822][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.14.07:875][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.14.28:225][375]PIE: '/Engine/Transient.망치사진' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:226][375]PIE: '/Engine/Transient.Image_1' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:228][375]PIE: '/Engine/Transient.Image_3' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:244][376]PIE: '/Engine/Transient.Image_5' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:246][376]PIE: '/Engine/Transient.Image_7' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:258][377]PIE: '/Engine/Transient.Image_9' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:260][377]PIE: '/Engine/Transient.Image_11' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:273][378]PIE: '/Engine/Transient.Image_13' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:275][378]PIE: '/Engine/Transient.Image_15' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:287][379]PIE: '/Engine/Transient.Image_17' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:289][379]PIE: '/Engine/Transient.Image_19' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:301][380]PIE: '/Engine/Transient.Image_21' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:303][380]PIE: '/Engine/Transient.Image_23' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:316][381]PIE: '/Engine/Transient.Image_25' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:318][381]PIE: '/Engine/Transient.Image_27' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:331][382]PIE: '/Engine/Transient.Image_29' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:332][382]PIE: '/Engine/Transient.Image_31' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:347][383]PIE: '/Engine/Transient.Image_33' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:360][384]PIE: '/Engine/Transient.Image_35' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:362][384]PIE: '/Engine/Transient.Image_37' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:374][385]PIE: '/Engine/Transient.Image_39' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:376][385]PIE: '/Engine/Transient.Image_41' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:389][386]PIE: '/Engine/Transient.Image_43' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:390][386]PIE: '/Engine/Transient.Image_45' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:403][387]PIE: '/Engine/Transient.Image_47' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:404][387]PIE: '/Engine/Transient.Image_49' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:418][388]PIE: '/Engine/Transient.Image_51' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:420][388]PIE: '/Engine/Transient.Image_53' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:433][389]PIE: '/Engine/Transient.Image_55' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:447][390]PIE: '/Engine/Transient.Image_57' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:460][391]PIE: '/Engine/Transient.Image_59' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:472][392]PIE: '/Engine/Transient.Image_61' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:485][393]PIE: '/Engine/Transient.Image_63' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:499][394]PIE: '/Engine/Transient.Image_65' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:513][395]PIE: '/Engine/Transient.Image_67' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:527][396]PIE: '/Engine/Transient.Image_69' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:541][397]PIE: '/Engine/Transient.Image_71' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:554][398]PIE: '/Engine/Transient.Image_73' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:568][399]PIE: '/Engine/Transient.Image_75' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:581][400]PIE: '/Engine/Transient.Image_77' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:595][401]PIE: '/Engine/Transient.Image_79' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:609][402]PIE: '/Engine/Transient.Image_81' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:622][403]PIE: '/Engine/Transient.Image_83' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:635][404]PIE: '/Engine/Transient.Image_85' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:648][405]PIE: '/Engine/Transient.Image_87' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:650][405]PIE: '/Engine/Transient.Image_89' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:664][406]PIE: '/Engine/Transient.Image_91' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:665][406]PIE: '/Engine/Transient.Image_93' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:679][407]PIE: '/Engine/Transient.Image_95' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:680][407]PIE: '/Engine/Transient.Image_97' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:692][408]PIE: '/Engine/Transient.Image_99' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:694][408]PIE: '/Engine/Transient.Image_101' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:707][409]PIE: '/Engine/Transient.Image_103' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:708][409]PIE: '/Engine/Transient.Image_105' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:721][410]PIE: '/Engine/Transient.Image_107' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:724][410]PIE: '/Engine/Transient.Image_109' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:736][411]PIE: '/Engine/Transient.Image_111' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:751][412]PIE: '/Engine/Transient.Image_113' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:752][412]PIE: '/Engine/Transient.Image_115' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:766][413]PIE: '/Engine/Transient.Image_117' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:780][414]PIE: '/Engine/Transient.Image_119' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:794][415]PIE: '/Engine/Transient.Image_121' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:806][416]PIE: '/Engine/Transient.Image_123' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:808][416]PIE: '/Engine/Transient.Image_125' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:820][417]PIE: '/Engine/Transient.Image_127' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:834][418]PIE: '/Engine/Transient.Image_129' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:847][419]PIE: '/Engine/Transient.Image_131' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:848][419]PIE: '/Engine/Transient.Image_133' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:863][420]PIE: '/Engine/Transient.Image_135' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:876][421]PIE: '/Engine/Transient.Image_137' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:889][422]PIE: '/Engine/Transient.Image_139' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:902][423]PIE: '/Engine/Transient.Image_141' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:904][423]PIE: '/Engine/Transient.Image_143' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:918][424]PIE: '/Engine/Transient.Image_145' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:932][425]PIE: '/Engine/Transient.Image_147' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:946][426]PIE: '/Engine/Transient.Image_149' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:958][427]PIE: '/Engine/Transient.Image_151' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:960][427]PIE: '/Engine/Transient.Image_153' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:973][428]PIE: '/Engine/Transient.Image_155' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:986][429]PIE: '/Engine/Transient.Image_157' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.28:999][430]PIE: '/Engine/Transient.Image_159' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:001][430]PIE: '/Engine/Transient.Image_161' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:013][431]PIE: '/Engine/Transient.Image_163' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:015][431]PIE: '/Engine/Transient.Image_165' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:028][432]PIE: '/Engine/Transient.Image_167' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:041][433]PIE: '/Engine/Transient.Image_169' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:043][433]PIE: '/Engine/Transient.Image_171' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:057][434]PIE: '/Engine/Transient.Image_173' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:070][435]PIE: '/Engine/Transient.Image_175' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:084][436]PIE: '/Engine/Transient.Image_177' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:097][437]PIE: '/Engine/Transient.Image_179' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:111][438]PIE: '/Engine/Transient.Image_181' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:124][439]PIE: '/Engine/Transient.Image_183' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:137][440]PIE: '/Engine/Transient.Image_185' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:151][441]PIE: '/Engine/Transient.Image_187' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:165][442]PIE: '/Engine/Transient.Image_189' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:178][443]PIE: '/Engine/Transient.Image_191' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:192][444]PIE: '/Engine/Transient.Image_193' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:206][445]PIE: '/Engine/Transient.Image_195' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:219][446]PIE: '/Engine/Transient.Image_197' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:233][447]PIE: '/Engine/Transient.Image_199' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:247][448]PIE: '/Engine/Transient.Image_201' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:261][449]PIE: '/Engine/Transient.Image_203' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:274][450]PIE: '/Engine/Transient.Image_205' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:288][451]PIE: '/Engine/Transient.Image_207' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:302][452]PIE: '/Engine/Transient.Image_209' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:316][453]PIE: '/Engine/Transient.Image_211' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:331][454]PIE: '/Engine/Transient.Image_213' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:347][455]PIE: '/Engine/Transient.Image_215' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:361][456]PIE: '/Engine/Transient.Image_217' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:374][457]PIE: '/Engine/Transient.Image_219' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:388][458]PIE: '/Engine/Transient.Image_221' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:403][459]PIE: '/Engine/Transient.Image_223' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.29:417][460]PIE: '/Engine/Transient.Image_225' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.11.27-13.14.30:778][541]BlueprintLog: New page: 내정보창 컴파일
+[2018.11.27-13.14.31:370][566]LogSavePackage: Save=87.17ms
+[2018.11.27-13.14.31:371][566]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/내정보창D7E6ED5C4EDB4B0DF6715A89836C7FF7.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/내정보창.uasset'
+[2018.11.27-13.14.31:374][566]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/내정보창.uasset
+[2018.11.27-13.14.32:369][639]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.27-13.14.32:394][639]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.14.32:394][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-13.14.32:394][639]PIE: New page: PIE 세션: MainMenu (2018. 11. 28. 오전 7:14:32)
+[2018.11.27-13.14.32:394][639]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu
+[2018.11.27-13.14.32:396][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001321s)
+[2018.11.27-13.14.32:396][639]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.27-13.14.32:396][639]LogPlayLevel: PIE: World Init took: (0.000462s)
+[2018.11.27-13.14.32:396][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainMenu.MainMenu to /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001993s)
+[2018.11.27-13.14.32:469][639]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.27-13.14.32:484][639]LogInit: FAudioDevice initialized.
+[2018.11.27-13.14.32:534][639]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.27-13.14.32:535][639]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-22.14.32
+[2018.11.27-13.14.32:535][639]LogWorld: Bringing up level for play took: 0.000391
+[2018.11.27-13.14.32:545][639]LogScriptCore: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/PuzzleBP/Maps/MainMenu.MainMenu_C:ReceiveBeginPlay
+	Function /Game/PuzzleBP/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+	Function /Game/PuzzleBP/Blueprints/스코어매니저.스코어매니저_C:CorrectRateEvent
+	Function /Game/PuzzleBP/Blueprints/스코어매니저.스코어매니저_C:ExecuteUbergraph_스코어매니저
+
+[2018.11.27-13.14.32:550][639]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainMenu 에 대한 에디터에서 플레이 시작 시간: 0.209
+[2018.11.27-13.14.32:550][639]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.14.40:583][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.14.40:636][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/PuzzleBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.11.27-13.14.49:954][771]BlueprintLog: New page: 내정보창 컴파일
+[2018.11.27-13.14.50:454][799]LogSavePackage: Save=86.61ms
+[2018.11.27-13.14.50:454][799]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/내정보창C76CE3644411920BBC5C4BBCADBDEFE1.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/내정보창.uasset'
+[2018.11.27-13.14.50:457][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/내정보창.uasset
+[2018.11.27-13.14.53:317][ 35]BlueprintLog: New page: 내정보창 컴파일
+[2018.11.27-13.14.53:771][ 51]LogSavePackage: Save=87.66ms
+[2018.11.27-13.14.53:771][ 51]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/내정보창BE2A7B4A48862E35C2DF9FB8A20BAE13.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/내정보창.uasset'
+[2018.11.27-13.14.53:774][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/내정보창.uasset
+[2018.11.27-13.15.22:647][160]BlueprintLog: New page: 내아이템 컴파일
+[2018.11.27-13.15.23:215][176]LogSavePackage: Save=199.62ms
+[2018.11.27-13.15.23:215][176]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/내아이템397523A240661850C95F90849FF11823.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/내아이템.uasset'
+[2018.11.27-13.15.23:218][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/내아이템.uasset
+[2018.11.27-13.16.01:194][772]LogSavePackage: Save=192.99ms
+[2018.11.27-13.16.01:194][772]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/내아이템85CD1C5F4269A2908FB0A2847D2616A0.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/내아이템.uasset'
+[2018.11.27-13.16.01:197][772]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/UI/내아이템.uasset
+[2018.11.27-13.16.23:694][344]BlueprintLog: New page: 스코어매니저 컴파일
+[2018.11.27-13.16.24:529][357]LogSavePackage: Save=279.68ms
+[2018.11.27-13.16.24:530][357]LogSavePackage: Moving '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Saved/스코어매니저ECBAADCB4D0ECD552CFFF78F045E8BEE.tmp' to '../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
+[2018.11.27-13.16.24:533][357]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/joono/OneDrive/Documents/Unreal Projects/GameGem/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
+[2018.11.27-13.17.08:240][189]LogUObjectBase: Warning: Object is not registered
+[2018.11.27-13.17.08:418][189]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.178 s
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: 
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: Stack: 
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x000000004C632786 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x000000004C3D123A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x000000004C3EB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x00000000488B33F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x000000006A2003AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000043253EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x00000000430E74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x00000000430EABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000043218225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x000000006C767397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x000000006C76CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x000000006C9A9913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x000000006C7C3484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x000000006C79B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x000000006C78D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000080F0E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000080F01A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000080F103EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000080EFD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000094A76D41 USER32.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000094A76713 USER32.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000080F11516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000045F750C8 UE4Editor.exe!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000045F85430 UE4Editor.exe!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000045F854AA UE4Editor.exe!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000045F92379 UE4Editor.exe!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000045F93D57 UE4Editor.exe!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000094353034 KERNEL32.DLL!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: [Callstack] 0x0000000095511471 ntdll.dll!UnknownFunction []
+[2018.11.27-13.17.08:418][189]LogOutputDevice: Error: 
+[2018.11.27-13.17.08:429][189]LogStats:                SubmitErrorReport -  0.000 s
