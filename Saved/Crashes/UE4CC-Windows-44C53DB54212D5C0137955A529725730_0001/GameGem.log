@@ -3588,22 +3588,3 @@ Script call stack:
 [2018.11.30-22.05.45:489][810]LogOutputDevice: Error: [Callstack] 0x0000000045CC1471 ntdll.dll!UnknownFunction []
 [2018.11.30-22.05.45:489][810]LogOutputDevice: Error: 
 [2018.11.30-22.05.45:498][810]LogStats:                SubmitErrorReport -  0.000 s
-[2018.11.30-22.05.45:823][810]LogStats:                    SendNewReport -  0.326 s
-[2018.11.30-22.05.45:823][810]LogStats:             FDebug::EnsureFailed -  0.345 s
-[2018.11.30-22.06.12:970][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
-[2018.11.30-22.06.13:404][247]LogSavePackage: Save=415.17ms
-[2018.11.30-22.06.13:404][247]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/스코어매니저B1BBF990459D49F0B066219B74A884B6.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
-[2018.11.30-22.06.13:409][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
-[2018.11.30-22.06.21:457][727]BlueprintLog: New page: 스코어매니저 컴파일
-[2018.11.30-22.06.21:794][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
-[2018.11.30-22.06.22:170][727]LogSavePackage: Save=362.37ms
-[2018.11.30-22.06.22:170][727]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/스코어매니저EE67B2394316BCC388CC73B77AF9B5EC.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
-[2018.11.30-22.06.22:172][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
-[2018.11.30-22.06.22:605][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
-[2018.11.30-22.06.22:969][747]LogSavePackage: Save=349.22ms
-[2018.11.30-22.06.22:969][747]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/스코어매니저BCF486E24927F01EBADE89AA9AFF0078.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
-[2018.11.30-22.06.22:971][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
-[2018.11.30-22.06.34:759][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/스코어매니저" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset" SILENT=true
-[2018.11.30-22.06.35:161][321]LogSavePackage: Save=382.10ms
-[2018.11.30-22.06.35:161][321]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/스코어매니저58906E964CE9741C016DDB95BF63DDF4.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset'
-[2018.11.30-22.06.35:164][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/스코어매니저.uasset
