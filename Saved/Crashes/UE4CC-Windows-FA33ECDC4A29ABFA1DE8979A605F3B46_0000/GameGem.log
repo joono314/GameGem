@@ -1,0 +1,855 @@
+﻿Log file open, 11/30/18 18:08:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameGem
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(37458358) SRandInit(37458358).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.179066
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.30-09.08.37:923][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.30-09.08.37:923][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.30-09.08.37:936][  0]LogInit: Computer: DESKTOP-7OODGOQ
+[2018.11.30-09.08.37:936][  0]LogInit: User: user
+[2018.11.30-09.08.37:936][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.30-09.08.37:936][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2018.11.30-09.08.37:936][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.30-09.08.37:936][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.30-09.08.37:936][  0]LogMemory: Process Physical Memory: 273.15 MB used, 273.15 MB peak
+[2018.11.30-09.08.37:936][  0]LogMemory: Process Virtual Memory: 270.93 MB used, 270.93 MB peak
+[2018.11.30-09.08.37:936][  0]LogMemory: Physical Memory: 2821.52 MB used,  5288.18 MB free, 8109.70 MB total
+[2018.11.30-09.08.37:936][  0]LogMemory: Virtual Memory: 4780.56 MB used,  5288.18 MB free, 134217728.00 MB total
+[2018.11.30-09.08.38:139][  0]LogInit: Using OS detected language (ko-KR).
+[2018.11.30-09.08.38:139][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.11.30-09.08.38:142][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.11.30-09.08.38:326][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.30-09.08.38:636][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.30-09.08.39:653][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.11.30-09.08.39:653][  0]LogD3D11RHI:       4021/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.30-09.08.39:664][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.11.30-09.08.39:664][  0]LogD3D11RHI:       128/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.30-09.08.39:667][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.30-09.08.39:667][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.30-09.08.39:667][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.30-09.08.39:691][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.30-09.08.39:691][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2018.11.30-09.08.39:691][  0]LogWindows: EnumDisplayDevices:
+[2018.11.30-09.08.39:692][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.11.30-09.08.39:692][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.30-09.08.39:693][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.30-09.08.39:693][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.30-09.08.39:693][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.11.30-09.08.39:693][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.30-09.08.39:693][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.30-09.08.39:693][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.11.30-09.08.39:747][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.30-09.08.39:765][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.30-09.08.39:765][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Users/user/Documents/GameGem/Intermediate/Shaders/WorkingDirectory/8132/).
+[2018.11.30-09.08.39:765][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/F4EFF2BF4408294309143286E51E95A2/'.
+[2018.11.30-09.08.39:765][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.30-09.08.40:652][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.30-09.08.40:721][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.30-09.08.40:798][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.30-09.08.40:866][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.30-09.08.40:936][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.30-09.08.41:000][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.30-09.08.41:067][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.30-09.08.41:132][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.30-09.08.41:188][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.30-09.08.41:250][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.30-09.08.41:313][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.30-09.08.41:375][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.30-09.08.41:436][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.30-09.08.41:500][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.30-09.08.41:627][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.30-09.08.41:627][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.30-09.08.41:697][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-09.08.41:758][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.30-09.08.41:876][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.30-09.08.41:924][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.30-09.08.41:992][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.30-09.08.42:058][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.30-09.08.42:120][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.30-09.08.42:184][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.30-09.08.42:184][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.30-09.08.42:833][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.30-09.08.42:937][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.30-09.08.42:937][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.11.30-09.08.42:938][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Documents/GameGem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.30-09.08.42:938][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.30-09.08.42:938][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Documents/GameGem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.30-09.08.42:938][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.30-09.08.42:953][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.30-09.08.42:966][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.30-09.08.42:974][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.30-09.08.42:975][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.30-09.08.42:975][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.30-09.08.42:975][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.30-09.08.43:343][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.30-09.08.43:737][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.30-09.08.43:791][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.30-09.08.43:791][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.30-09.08.43:791][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.30-09.08.43:791][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.30-09.08.43:791][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.30-09.08.43:838][  0]LogNetVersion: GameGem , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 882068137)
+[2018.11.30-09.08.44:059][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.11.30-09.08.44:680][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.065290 seconds
+[2018.11.30-09.08.44:685][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.11.30-09.08.44:685][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.11.30-09.08.44:685][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.30-09.08.44:769][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.11.30-09.08.48:983][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.30-09.08.49:050][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.30-09.08.50:180][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.11.30-09.08.51:078][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.30-09.08.51:078][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.30-09.08.51:177][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.30-09.08.51:259][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.30-09.08.52:403][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.30-09.08.52:852][  0]LogOcInput: OculusInput pre-init called
+[2018.11.30-09.08.53:325][  0]LogEngine: Initializing Engine...
+[2018.11.30-09.08.53:327][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.30-09.08.53:561][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.30-09.08.53:561][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.30-09.08.53:735][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.30-09.08.53:744][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-09.08.53:872][  0]LogInit: FAudioDevice initialized.
+[2018.11.30-09.08.53:956][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.11.30-09.08.53:973][  0]LogInit: Texture streaming: Enabled
+[2018.11.30-09.08.54:131][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.30-09.08.54:303][  0]LogInit: Transaction tracking system initialized
+[2018.11.30-09.08.54:806][  0]BlueprintLog: New page: 에디터 로드
+[2018.11.30-09.08.56:206][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.11.30-09.08.57:292][  0]LogConsoleResponse: Display: 
+[2018.11.30-09.08.57:565][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.30-09.08.57:565][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.30-09.08.57:565][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.30-09.08.58:057][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GameGem/Content/' took 0.02s
+[2018.11.30-09.08.59:223][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.11.30-09.08.59:223][  0]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.30-09.08.59:224][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.30-09.08.59:280][  0]MapCheck: New page: 맵 체크
+[2018.11.30-09.08.59:280][  0]LightingResults: New page: 라이팅 빌드
+[2018.11.30-09.09.03:143][  0]LogAIModule: Creating AISystem for world MainGame
+[2018.11.30-09.09.03:158][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.30-09.09.03:202][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.30-09.09.03:351][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 149.266ms.
+[2018.11.30-09.09.03:351][  0]LogFileHelpers: Loading map 'MainGame' took 4.129
+[2018.11.30-09.09.03:557][  0]LogCollectionManager: Loaded 0 collections in 0.002306 seconds
+[2018.11.30-09.09.03:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GameGem/Saved/Collections/' took 0.01s
+[2018.11.30-09.09.03:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GameGem/Content/Developers/user/Collections/' took 0.01s
+[2018.11.30-09.09.03:694][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GameGem/Content/Collections/' took 0.01s
+[2018.11.30-09.09.03:694][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.30-09.09.03:706][  0]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 2363 classes and 519 folders.
+[2018.11.30-09.09.03:832][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.30-09.09.03:901][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.30-09.09.03:959][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.30-09.09.03:975][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.30-09.09.03:979][  0]LogSlate: Took 0.003156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.11.30-09.09.03:982][  0]LogSlate: Took 0.000435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.30-09.09.03:989][  0]LogSlate: Took 0.001223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.30-09.09.04:214][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.30-09.09.04:513][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.11.30-09.09.04:513][  0]LogLoad: (Engine Initialization) Total time: 29.69 seconds
+[2018.11.30-09.09.04:513][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.30-09.09.04:513][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.11.30-09.09.04:876][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.30-09.09.05:524][  2]LogAssetRegistry: Asset discovery search completed in 21.4874 seconds
+[2018.11.30-09.09.05:528][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.11.30-09.09.05:528][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000252 seconds (updated 0 objects)
+[2018.11.30-09.09.05:605][  3]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.30-09.09.07:060][  3]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.30-09.09.09:081][  3]LogLinker: Warning: 애셋 이름을 해석할 수 없습니다.
+[2018.11.30-09.09.09:460][  3]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.30-09.09.09:463][  3]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.30-09.09.09:892][  4]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.30-09.09.13:340][109]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.11.30-09.09.38:494][256]LogTexture: Display: 텍스처 빌드: 돌아가기 (BGRA8, 449X170)
+[2018.11.30-09.09.38:494][256]LogTexture: Display: 텍스처 빌드: 계정만들기 (BGRA8, 449X170)
+[2018.11.30-09.09.38:494][256]LogTexture: Display: 텍스처 빌드: 만들기 (BGRA8, 449X170)
+[2018.11.30-09.09.38:494][256]LogTexture: Display: 텍스처 빌드: 입장하기 (BGRA8, 449X170)
+[2018.11.30-09.12.31:173][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.12.31:297][392]LogSavePackage: Save=91.80ms
+[2018.11.30-09.12.31:297][392]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUI93B47AE1407DC92DA2AA6BB00B03DD09.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.12.31:300][392]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.12.38:092][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.12.38:208][791]LogSavePackage: Save=98.50ms
+[2018.11.30-09.12.38:208][791]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUIB3F4CE3E49F21ED33800C5A262D70AE6.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.12.38:211][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.13.01:218][155]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.30-09.13.01:415][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.13.01:416][155]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.30-09.13.01:490][155]LogPlayLevel: [PlayLevel] Compiling InGameUI before play...
+[2018.11.30-09.13.01:653][155]LogPlayLevel: PlayLevel: Blueprint regeneration took 237 ms (1 blueprints)
+[2018.11.30-09.13.01:654][155]PIE: New page: PIE 세션: MainGame (2018. 12. 1. 오전 3:13:01)
+[2018.11.30-09.13.01:654][155]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.30-09.13.01:682][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027501s)
+[2018.11.30-09.13.01:683][155]LogAIModule: Creating AISystem for world MainGame
+[2018.11.30-09.13.01:684][155]LogPlayLevel: PIE: World Init took: (0.001529s)
+[2018.11.30-09.13.01:684][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.029596s)
+[2018.11.30-09.13.01:711][155]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-09.13.01:751][155]LogInit: FAudioDevice initialized.
+[2018.11.30-09.13.01:815][155]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.30-09.13.01:818][155]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 60) at 2018.11.30-18.13.01
+[2018.11.30-09.13.01:818][155]LogWorld: Bringing up level for play took: 0.001857
+[2018.11.30-09.13.01:819][155]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.30-09.13.01:902][155]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.11.30-09.13.01:909][155]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: -0.352
+[2018.11.30-09.13.01:910][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.13.01:969][155]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.11.30-09.13.07:617][486]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=400.000 Y=300.000 Z=0.000] for [Block_Brown_F_C]
+[2018.11.30-09.13.13:771][853]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.13.13:816][853]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.13.27:366][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.13.27:477][660]LogSavePackage: Save=93.49ms
+[2018.11.30-09.13.27:477][660]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUIDD06FE71434DAADF06E5D88DE7CFBFE8.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.13.27:480][660]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.13.33:109][986]LogAIModule: Creating AISystem for world TutorialGame
+[2018.11.30-09.13.33:141][986]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Maps/TutorialGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.30-09.13.33:141][986]LightingResults: New page: 라이팅 빌드
+[2018.11.30-09.13.33:142][986]LoadErrors: New page: 맵 로드중: TutorialGame.umap
+[2018.11.30-09.13.33:187][986]MapCheck: New page: 맵 체크
+[2018.11.30-09.13.33:187][986]LightingResults: New page: 라이팅 빌드
+[2018.11.30-09.13.33:218][986]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.30-09.13.33:284][986]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.30-09.13.33:406][986]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 121.958ms.
+[2018.11.30-09.13.33:407][986]LogFileHelpers: Loading map 'TutorialGame' took 0.268
+[2018.11.30-09.13.34:732][ 64]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.30-09.13.34:773][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame:PersistentLevel.TutorialGame' with GeneratedClass '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame:PersistentLevel.TutorialGame'
+[2018.11.30-09.13.34:773][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-09.13.34:773][ 64]PIE: New page: PIE 세션: TutorialGame (2018. 12. 1. 오전 3:13:34)
+[2018.11.30-09.13.34:774][ 64]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_TutorialGame
+[2018.11.30-09.13.34:805][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031742s)
+[2018.11.30-09.13.34:806][ 64]LogAIModule: Creating AISystem for world TutorialGame
+[2018.11.30-09.13.34:807][ 64]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2018.11.30-09.13.34:807][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/TutorialGame.TutorialGame to /Game/PuzzleBP/Maps/UEDPIE_0_TutorialGame.TutorialGame (0.033187s)
+[2018.11.30-09.13.34:830][ 64]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-09.13.34:871][ 64]LogInit: FAudioDevice initialized.
+[2018.11.30-09.13.34:911][ 64]LogLoad: Game class is 'PuzzleGameMode_Tutorial_C'
+[2018.11.30-09.13.34:915][ 64]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_TutorialGame.TutorialGame up for play (max tick rate 60) at 2018.11.30-18.13.34
+[2018.11.30-09.13.34:915][ 64]LogWorld: Bringing up level for play took: 0.002803
+[2018.11.30-09.13.34:916][ 64]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.30-09.13.34:919][ 64]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_TutorialGame 에 대한 에디터에서 플레이 시작 시간: 0.658
+[2018.11.30-09.13.34:920][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame:PersistentLevel.TutorialGame' with GeneratedClass '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame:PersistentLevel.TutorialGame'
+[2018.11.30-09.13.36:963][182]LogScriptCore: Warning: Script Msg: Attempted to access index 31 from array 'CallFunc_GetDataTableRowNames_OutRowNames' of length 20 in '/Game/PuzzleBP/Blueprints/튜토리얼/Block_Brown_Tutorial.Block_Brown_Tutorial_C:ExecuteUbergraph_Block_Brown_Tutorial'!
+[2018.11.30-09.13.39:744][347]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame:PersistentLevel.TutorialGame' with GeneratedClass '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame:PersistentLevel.TutorialGame'
+[2018.11.30-09.13.39:782][347]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame:PersistentLevel.TutorialGame' with GeneratedClass '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/TutorialGame.TutorialGame:PersistentLevel.TutorialGame'
+[2018.11.30-09.13.46:552][740]LogAIModule: Creating AISystem for world MainGame
+[2018.11.30-09.13.46:584][740]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.30-09.13.46:584][740]LightingResults: New page: 라이팅 빌드
+[2018.11.30-09.13.46:584][740]LoadErrors: New page: 맵 로드중: MainGame.umap
+[2018.11.30-09.13.46:585][740]MapCheck: New page: 맵 체크
+[2018.11.30-09.13.46:585][740]LightingResults: New page: 라이팅 빌드
+[2018.11.30-09.13.46:612][740]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.30-09.13.46:686][740]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.30-09.13.46:838][740]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 151.916ms.
+[2018.11.30-09.13.46:839][740]LogFileHelpers: Loading map 'MainGame' took 0.256
+[2018.11.30-09.14.03:378][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.14.03:493][675]LogSavePackage: Save=93.80ms
+[2018.11.30-09.14.03:493][675]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUI1EB4032B47A3206DCBD40DB430534507.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.14.03:496][675]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.14.06:333][845]BlueprintLog: New page: InGameUI 컴파일
+[2018.11.30-09.14.06:769][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.14.06:881][863]LogSavePackage: Save=94.56ms
+[2018.11.30-09.14.06:881][863]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUI94E1862B465A3D2714B3828855EB1952.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.14.06:882][863]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.14.20:232][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.14.20:344][657]LogSavePackage: Save=91.11ms
+[2018.11.30-09.14.20:344][657]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUI920E3A1A4127E06D3E2050AB99ED9C3D.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.14.20:347][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.15.08:711][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.15.08:832][549]LogSavePackage: Save=102.03ms
+[2018.11.30-09.15.08:832][549]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUIC343AEB842FD870861FDF482DAC679D8.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.15.08:835][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.15.29:874][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.15.29:996][788]LogSavePackage: Save=104.20ms
+[2018.11.30-09.15.29:996][788]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUI2BE5E3474F834B8BA7EDE58E666BEC66.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.15.29:999][788]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.15.30:891][841]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.30-09.15.30:943][841]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.15.30:943][841]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.30-09.15.30:960][841]LogPlayLevel: [PlayLevel] Compiling InGameUI before play...
+[2018.11.30-09.15.31:128][841]LogPlayLevel: PlayLevel: Blueprint regeneration took 184 ms (1 blueprints)
+[2018.11.30-09.15.31:128][841]PIE: New page: PIE 세션: MainGame (2018. 12. 1. 오전 3:15:31)
+[2018.11.30-09.15.31:128][841]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.30-09.15.31:156][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027396s)
+[2018.11.30-09.15.31:157][841]LogAIModule: Creating AISystem for world MainGame
+[2018.11.30-09.15.31:157][841]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2018.11.30-09.15.31:157][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.028936s)
+[2018.11.30-09.15.31:184][841]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-09.15.31:225][841]LogInit: FAudioDevice initialized.
+[2018.11.30-09.15.31:269][841]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.30-09.15.31:272][841]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 60) at 2018.11.30-18.15.31
+[2018.11.30-09.15.31:273][841]LogWorld: Bringing up level for play took: 0.002251
+[2018.11.30-09.15.31:273][841]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.30-09.15.31:280][841]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 1.019
+[2018.11.30-09.15.31:281][841]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.15.33:391][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.15.33:464][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.15.34:223][  1]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.30-09.15.34:259][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.15.34:259][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-09.15.34:259][  1]PIE: New page: PIE 세션: MainGame (2018. 12. 1. 오전 3:15:34)
+[2018.11.30-09.15.34:260][  1]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.30-09.15.34:285][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024610s)
+[2018.11.30-09.15.34:285][  1]LogAIModule: Creating AISystem for world MainGame
+[2018.11.30-09.15.34:285][  1]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2018.11.30-09.15.34:285][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.025470s)
+[2018.11.30-09.15.34:311][  1]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-09.15.34:353][  1]LogInit: FAudioDevice initialized.
+[2018.11.30-09.15.34:394][  1]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.30-09.15.34:398][  1]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 60) at 2018.11.30-18.15.34
+[2018.11.30-09.15.34:398][  1]LogWorld: Bringing up level for play took: 0.002194
+[2018.11.30-09.15.34:398][  1]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.30-09.15.34:404][  1]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.144
+[2018.11.30-09.15.34:405][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.15.34:965][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.15.35:035][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.15.39:781][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.15.39:908][306]LogSavePackage: Save=109.56ms
+[2018.11.30-09.15.39:909][306]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUI5CDA47F6436AC549C7A8FB9DD0A11D65.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.15.39:915][306]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.15.41:008][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.15.41:159][367]LogSavePackage: Save=132.66ms
+[2018.11.30-09.15.41:159][367]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUIAC24E3BD494454C30D54C79E8D891C4E.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.15.41:162][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.16.40:345][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.16.40:497][410]LogSavePackage: Save=128.96ms
+[2018.11.30-09.16.40:497][410]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUIBCF3830D44CBB1B1595BBFA7386FFA2C.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.16.40:500][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.16.42:586][535]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.30-09.16.42:638][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.16.42:638][535]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.30-09.16.42:655][535]LogPlayLevel: [PlayLevel] Compiling InGameUI before play...
+[2018.11.30-09.16.42:826][535]LogPlayLevel: PlayLevel: Blueprint regeneration took 187 ms (1 blueprints)
+[2018.11.30-09.16.42:826][535]PIE: New page: PIE 세션: MainGame (2018. 12. 1. 오전 3:16:42)
+[2018.11.30-09.16.42:827][535]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.30-09.16.42:852][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025297s)
+[2018.11.30-09.16.42:853][535]LogAIModule: Creating AISystem for world MainGame
+[2018.11.30-09.16.42:853][535]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2018.11.30-09.16.42:853][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.026430s)
+[2018.11.30-09.16.42:882][535]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-09.16.42:923][535]LogInit: FAudioDevice initialized.
+[2018.11.30-09.16.42:969][535]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.30-09.16.42:971][535]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 60) at 2018.11.30-18.16.42
+[2018.11.30-09.16.42:972][535]LogWorld: Bringing up level for play took: 0.001575
+[2018.11.30-09.16.42:973][535]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.30-09.16.42:979][535]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.718
+[2018.11.30-09.16.42:980][535]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.16.45:132][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.16.45:201][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.16.46:045][696]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.30-09.16.46:083][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.16.46:083][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-09.16.46:084][696]PIE: New page: PIE 세션: MainGame (2018. 12. 1. 오전 3:16:46)
+[2018.11.30-09.16.46:084][696]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.30-09.16.46:110][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025534s)
+[2018.11.30-09.16.46:110][696]LogAIModule: Creating AISystem for world MainGame
+[2018.11.30-09.16.46:111][696]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2018.11.30-09.16.46:111][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.026610s)
+[2018.11.30-09.16.46:135][696]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-09.16.46:175][696]LogInit: FAudioDevice initialized.
+[2018.11.30-09.16.46:215][696]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.30-09.16.46:217][696]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 60) at 2018.11.30-18.16.46
+[2018.11.30-09.16.46:217][696]LogWorld: Bringing up level for play took: 0.001084
+[2018.11.30-09.16.46:218][696]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.30-09.16.46:225][696]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: -0.036
+[2018.11.30-09.16.46:226][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.16.47:228][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.16.47:298][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.16.59:487][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.16.59:614][468]LogSavePackage: Save=108.37ms
+[2018.11.30-09.16.59:614][468]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUI0FD4E83743AE01540A9E6C99BD02B783.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.16.59:617][468]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.17.00:323][510]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.30-09.17.00:360][510]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.00:360][510]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.30-09.17.00:376][510]LogPlayLevel: [PlayLevel] Compiling InGameUI before play...
+[2018.11.30-09.17.00:550][510]LogPlayLevel: PlayLevel: Blueprint regeneration took 190 ms (1 blueprints)
+[2018.11.30-09.17.00:550][510]PIE: New page: PIE 세션: MainGame (2018. 12. 1. 오전 3:17:00)
+[2018.11.30-09.17.00:551][510]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.30-09.17.00:573][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022802s)
+[2018.11.30-09.17.00:574][510]LogAIModule: Creating AISystem for world MainGame
+[2018.11.30-09.17.00:574][510]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2018.11.30-09.17.00:574][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.023606s)
+[2018.11.30-09.17.00:603][510]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-09.17.00:642][510]LogInit: FAudioDevice initialized.
+[2018.11.30-09.17.00:685][510]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.30-09.17.00:687][510]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 60) at 2018.11.30-18.17.00
+[2018.11.30-09.17.00:687][510]LogWorld: Bringing up level for play took: 0.001310
+[2018.11.30-09.17.00:687][510]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.30-09.17.00:695][510]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.434
+[2018.11.30-09.17.00:695][510]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.01:956][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.02:026][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.02:672][608]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.30-09.17.02:709][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.02:709][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-09.17.02:710][608]PIE: New page: PIE 세션: MainGame (2018. 12. 1. 오전 3:17:02)
+[2018.11.30-09.17.02:710][608]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.30-09.17.02:736][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025825s)
+[2018.11.30-09.17.02:737][608]LogAIModule: Creating AISystem for world MainGame
+[2018.11.30-09.17.02:737][608]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2018.11.30-09.17.02:737][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.026883s)
+[2018.11.30-09.17.02:762][608]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-09.17.02:802][608]LogInit: FAudioDevice initialized.
+[2018.11.30-09.17.02:854][608]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.30-09.17.02:857][608]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 60) at 2018.11.30-18.17.02
+[2018.11.30-09.17.02:858][608]LogWorld: Bringing up level for play took: 0.002310
+[2018.11.30-09.17.02:858][608]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.30-09.17.02:871][608]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.609
+[2018.11.30-09.17.02:871][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.03:709][649]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.03:779][649]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.04:445][686]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.30-09.17.04:485][686]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.04:486][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-09.17.04:486][686]PIE: New page: PIE 세션: MainGame (2018. 12. 1. 오전 3:17:04)
+[2018.11.30-09.17.04:486][686]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.30-09.17.04:512][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025336s)
+[2018.11.30-09.17.04:512][686]LogAIModule: Creating AISystem for world MainGame
+[2018.11.30-09.17.04:512][686]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2018.11.30-09.17.04:512][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.026223s)
+[2018.11.30-09.17.04:538][686]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-09.17.04:579][686]LogInit: FAudioDevice initialized.
+[2018.11.30-09.17.04:625][686]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.30-09.17.04:627][686]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 60) at 2018.11.30-18.17.04
+[2018.11.30-09.17.04:627][686]LogWorld: Bringing up level for play took: 0.001091
+[2018.11.30-09.17.04:628][686]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.30-09.17.04:636][686]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 0.375
+[2018.11.30-09.17.04:636][686]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.06:588][792]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.06:655][792]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.07:184][821]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.30-09.17.07:221][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.07:222][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-09.17.07:222][821]PIE: New page: PIE 세션: MainGame (2018. 12. 1. 오전 3:17:07)
+[2018.11.30-09.17.07:222][821]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.30-09.17.07:247][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024179s)
+[2018.11.30-09.17.07:247][821]LogAIModule: Creating AISystem for world MainGame
+[2018.11.30-09.17.07:248][821]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.11.30-09.17.07:248][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.025283s)
+[2018.11.30-09.17.07:273][821]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-09.17.07:314][821]LogInit: FAudioDevice initialized.
+[2018.11.30-09.17.07:360][821]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.30-09.17.07:362][821]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 60) at 2018.11.30-18.17.07
+[2018.11.30-09.17.07:362][821]LogWorld: Bringing up level for play took: 0.001075
+[2018.11.30-09.17.07:363][821]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.30-09.17.07:370][821]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: 1.109
+[2018.11.30-09.17.07:371][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.13:995][204]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.14:068][204]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.17.24:902][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.17.25:026][846]LogSavePackage: Save=106.16ms
+[2018.11.30-09.17.25:026][846]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUIE54F7B1E4400F05774F67CB08F15B805.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.17.25:028][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.17.54:174][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/일시정지" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/일시정지.uasset" SILENT=true
+[2018.11.30-09.17.54:230][583]LogSavePackage: Save=31.16ms
+[2018.11.30-09.17.54:230][583]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/일시정지B3A0A95141C803D27208DF85042C374D.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/일시정지.uasset'
+[2018.11.30-09.17.54:233][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/일시정지.uasset
+[2018.11.30-09.18.24:948][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/일시정지" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/일시정지.uasset" SILENT=true
+[2018.11.30-09.18.24:997][396]LogSavePackage: Save=30.28ms
+[2018.11.30-09.18.24:997][396]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/일시정지3EE548D54D28007BC28559AA8D8A2E05.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/일시정지.uasset'
+[2018.11.30-09.18.25:000][396]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/일시정지.uasset
+[2018.11.30-09.19.11:335][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.19.11:471][162]LogSavePackage: Save=106.87ms
+[2018.11.30-09.19.11:471][162]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUI6C27589041A2D7ED6EABFFA321178B4F.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.19.11:473][162]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.19.33:425][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.19.33:562][419]LogSavePackage: Save=116.74ms
+[2018.11.30-09.19.33:562][419]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUI83A5CAA04D4571DED80C4BAF82431926.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.19.33:565][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.19.41:284][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.19.41:417][864]LogSavePackage: Save=112.54ms
+[2018.11.30-09.19.41:417][864]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUIB0AE3E304DE91A7001A66D8CA9B58091.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.19.41:420][864]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.19.47:991][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.19.48:121][252]LogSavePackage: Save=111.46ms
+[2018.11.30-09.19.48:121][252]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUI79CD8AFF4374E63B0BD9159CDC97DF4C.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.19.48:124][252]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.19.48:968][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.19.49:099][300]LogSavePackage: Save=112.63ms
+[2018.11.30-09.19.49:099][300]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUI0FCE7B894440CE8C56D55D8CA9AB4214.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.19.49:102][300]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.19.50:022][355]BlueprintLog: New page: InGameUI 컴파일
+[2018.11.30-09.19.50:087][355]LogBlueprint: Error: [Compiler InGameUI] 게임종료 Clicked?  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.11.30-09.19.50:125][355]LogBlueprint: Warning: [Compiler InGameUI] [0675.30] InGameUI 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 102 ms] (/Game/PuzzleBP/Blueprints/UI/InGameUI.InGameUI)
+[2018.11.30-09.19.50:493][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.19.50:621][375]LogSavePackage: Save=111.20ms
+[2018.11.30-09.19.50:621][375]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUI4BA143BB4F8F182071D5749DAA3A3062.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.19.50:623][375]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.19.54:453][601]BlueprintLog: New page: 일시정지 컴파일
+[2018.11.30-09.19.54:816][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/일시정지" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/일시정지.uasset" SILENT=true
+[2018.11.30-09.19.54:866][611]LogSavePackage: Save=31.70ms
+[2018.11.30-09.19.54:866][611]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/일시정지39A6144B47FF85D8D26CE7907A8C6406.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/일시정지.uasset'
+[2018.11.30-09.19.54:867][611]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/일시정지.uasset
+[2018.11.30-09.19.56:836][723]BlueprintLog: New page: InGameUI 컴파일
+[2018.11.30-09.19.57:246][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.19.57:379][740]LogSavePackage: Save=114.67ms
+[2018.11.30-09.19.57:379][740]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUI71BBD182412C6BA7CADF6AAEDFF393C3.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.19.57:380][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.20.32:148][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.30-09.20.32:390][803]LogSavePackage: Save=217.65ms
+[2018.11.30-09.20.32:390][803]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/메인화면DCB6EEBC4E38C52E9CEA1694B4BB1E9A.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.30-09.20.32:393][803]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.30-09.21.31:491][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.30-09.21.31:747][337]LogSavePackage: Save=236.55ms
+[2018.11.30-09.21.31:747][337]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/메인화면CD03F56444068E9A5D302CBB1ADEEDCD.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.30-09.21.31:750][337]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.30-09.21.56:215][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.30-09.21.56:469][794]LogSavePackage: Save=232.48ms
+[2018.11.30-09.21.56:469][794]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/메인화면3F510EBE47C97F63F65A4BA0DAF255AA.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.30-09.21.56:472][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.30-09.22.15:478][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.30-09.22.15:730][911]LogSavePackage: Save=232.02ms
+[2018.11.30-09.22.15:730][911]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/메인화면28AF07264B7857A62B6B6C9CE1B7BF04.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.30-09.22.15:733][911]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.30-09.22.41:834][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.30-09.22.42:086][470]LogSavePackage: Save=232.41ms
+[2018.11.30-09.22.42:086][470]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/메인화면9133497F483660EBAA7CA08B7C9EC3A9.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.30-09.22.42:089][470]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.30-09.23.13:751][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.30-09.23.14:034][342]LogSavePackage: Save=264.19ms
+[2018.11.30-09.23.14:034][342]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/메인화면5F78F4EA4DA853F476518ABBD5A4F693.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.30-09.23.14:037][342]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.30-09.23.57:306][904]LogEditorTransaction: Undo 핀 링크 끊기
+[2018.11.30-09.24.02:842][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/게임모드설정" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/게임모드설정.uasset" SILENT=true
+[2018.11.30-09.24.02:932][228]LogSavePackage: Save=63.41ms
+[2018.11.30-09.24.02:932][228]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/게임모드설정063359054D124E2464D7869E9FAA9169.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/게임모드설정.uasset'
+[2018.11.30-09.24.02:935][228]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/게임모드설정.uasset
+[2018.11.30-09.24.19:970][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/InGameUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset" SILENT=true
+[2018.11.30-09.24.20:115][239]LogSavePackage: Save=116.19ms
+[2018.11.30-09.24.20:115][239]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/InGameUIDEB82286480EEE188D5033A7C959D4F9.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset'
+[2018.11.30-09.24.20:118][239]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/InGameUI.uasset
+[2018.11.30-09.24.44:742][681]LogEditorTransaction: Undo 핀 링크 끊기
+[2018.11.30-09.25.02:244][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.30-09.25.02:507][723]LogSavePackage: Save=240.95ms
+[2018.11.30-09.25.02:507][723]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/메인화면E46762E5488749B0F1E8938C8B2BDED5.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.30-09.25.02:510][723]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.30-09.25.02:515][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/게임모드설정" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/게임모드설정.uasset" SILENT=true
+[2018.11.30-09.25.02:595][723]LogSavePackage: Save=61.50ms
+[2018.11.30-09.25.02:595][723]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/게임모드설정EBDBDE86454ECF38B343F79287F2ABE1.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/게임모드설정.uasset'
+[2018.11.30-09.25.02:597][723]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/게임모드설정.uasset
+[2018.11.30-09.25.44:274][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.30-09.25.44:535][179]LogSavePackage: Save=237.20ms
+[2018.11.30-09.25.44:535][179]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/메인화면301F95E04E521A7C8FC0FF98F54B2834.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.30-09.25.44:538][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.30-09.26.05:330][415]LogEditorTransaction: Undo 클립보드 내용을 붙여넣습니다.
+[2018.11.30-09.26.06:016][445]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/PuzzleBP/Blueprints/UI/메인화면.메인화면:EventGraph.K2Node_VariableGet_90 or K2Node_VariableGet /Game/PuzzleBP/Blueprints/UI/메인화면.메인화면:EventGraph.K2Node_VariableGet_90
+[2018.11.30-09.26.06:016][445]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/PuzzleBP/Blueprints/UI/메인화면.메인화면:EventGraph.K2Node_CallFunction_170 or K2Node_CallFunction /Game/PuzzleBP/Blueprints/UI/메인화면.메인화면:EventGraph.K2Node_CallFunction_170
+[2018.11.30-09.26.06:564][469]LogEditorTransaction: Undo 클립보드 내용을 붙여넣습니다.
+[2018.11.30-09.26.10:140][671]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/PuzzleBP/Blueprints/UI/메인화면.메인화면:EventGraph.K2Node_CallFunction_170 or K2Node_CallFunction /Game/PuzzleBP/Blueprints/UI/메인화면.메인화면:EventGraph.K2Node_CallFunction_170
+[2018.11.30-09.26.10:140][671]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/PuzzleBP/Blueprints/UI/메인화면.메인화면:EventGraph.K2Node_VariableGet_90 or K2Node_VariableGet /Game/PuzzleBP/Blueprints/UI/메인화면.메인화면:EventGraph.K2Node_VariableGet_90
+[2018.11.30-09.26.31:901][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.30-09.26.32:195][951]LogSavePackage: Save=274.00ms
+[2018.11.30-09.26.32:195][951]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/메인화면1DC535924DA24D7D0A6E8294EAB65956.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.30-09.26.32:201][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.30-09.26.41:371][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.30-09.26.41:633][486]LogSavePackage: Save=243.56ms
+[2018.11.30-09.26.41:633][486]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/메인화면CCC9B8EA41016DF5ABF5BEBC689B04AC.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.30-09.26.41:637][486]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.30-09.27.01:150][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.30-09.27.01:472][633]LogSavePackage: Save=304.01ms
+[2018.11.30-09.27.01:472][633]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/메인화면5C36772748BAE0AC19AAA0988E09DE46.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.30-09.27.01:475][633]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.30-09.27.03:308][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.30-09.27.03:578][740]LogSavePackage: Save=252.49ms
+[2018.11.30-09.27.03:578][740]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/메인화면C09D5AA14693CF5D62F1BDAA89917AC9.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.30-09.27.03:582][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.30-09.27.12:964][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/메인화면" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset" SILENT=true
+[2018.11.30-09.27.13:235][297]LogSavePackage: Save=249.81ms
+[2018.11.30-09.27.13:235][297]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/메인화면8A4FC80B446E3DDE15893787EF20279B.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset'
+[2018.11.30-09.27.13:238][297]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/메인화면.uasset
+[2018.11.30-09.28.53:743][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/LoginUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset" SILENT=true
+[2018.11.30-09.28.53:963][280]LogSavePackage: Save=192.58ms
+[2018.11.30-09.28.53:963][280]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/LoginUID19657D843CFE0ACA5CA618A11E8E76F.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.30-09.28.53:966][280]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.30-09.29.04:169][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/LoginUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset" SILENT=true
+[2018.11.30-09.29.04:380][889]LogSavePackage: Save=192.56ms
+[2018.11.30-09.29.04:380][889]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/LoginUIDA60198F48187A3D7720BD9E5DECA786.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.30-09.29.04:383][889]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.30-09.29.42:373][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/LoginUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset" SILENT=true
+[2018.11.30-09.29.42:562][157]LogSavePackage: Save=168.02ms
+[2018.11.30-09.29.42:562][157]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/LoginUI7C7B606B4B41967996D016B7BFA8A0CC.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.30-09.29.42:565][157]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.30-09.30.06:149][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/LoginUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset" SILENT=true
+[2018.11.30-09.30.06:351][559]LogSavePackage: Save=183.23ms
+[2018.11.30-09.30.06:352][559]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/LoginUI0A1791524FEAB1BF9868EABBC4CB4862.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.30-09.30.06:356][559]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.30-09.30.08:858][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/LoginUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset" SILENT=true
+[2018.11.30-09.30.09:096][706]LogSavePackage: Save=218.74ms
+[2018.11.30-09.30.09:096][706]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/LoginUI7F58035C421FDBAC853821AA589A1459.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.30-09.30.09:099][706]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.30-09.30.18:753][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/LoginUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset" SILENT=true
+[2018.11.30-09.30.18:955][280]LogSavePackage: Save=182.80ms
+[2018.11.30-09.30.18:957][280]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/LoginUIDCCE0A0542A7868AC6A000AE3A64BC3C.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.30-09.30.18:961][280]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.30-09.30.34:323][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/LoginUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset" SILENT=true
+[2018.11.30-09.30.34:530][179]LogSavePackage: Save=188.80ms
+[2018.11.30-09.30.34:530][179]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/LoginUI0AE3366145A2984789C36480AB48970A.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.30-09.30.34:533][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.30-09.30.41:698][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/LoginUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset" SILENT=true
+[2018.11.30-09.30.41:898][606]LogSavePackage: Save=181.44ms
+[2018.11.30-09.30.41:899][606]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/LoginUIB313DF5647099F4131C46E8A679A2A52.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.30-09.30.41:903][606]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.30-09.31.05:976][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/LoginUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset" SILENT=true
+[2018.11.30-09.31.06:190][ 29]LogSavePackage: Save=194.54ms
+[2018.11.30-09.31.06:190][ 29]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/LoginUI1BDB10E4483A451C32BD35BB461C19FD.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.30-09.31.06:193][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.30-09.31.19:803][840]BlueprintLog: New page: LoginUI 컴파일
+[2018.11.30-09.31.20:242][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/UI/LoginUI" FILE="../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset" SILENT=true
+[2018.11.30-09.31.20:455][859]LogSavePackage: Save=194.87ms
+[2018.11.30-09.31.20:455][859]LogSavePackage: Moving '../../../../../../Users/user/Documents/GameGem/Saved/LoginUI6EE07867415B5883545A0FAF6E38B4DB.tmp' to '../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset'
+[2018.11.30-09.31.20:456][859]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GameGem/Content/PuzzleBP/Blueprints/UI/LoginUI.uasset
+[2018.11.30-09.31.27:250][266]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.30-09.31.27:300][266]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.31.27:301][266]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.11.30-09.31.27:361][266]LogPlayLevel: [PlayLevel] Compiling 메인화면 before play...
+[2018.11.30-09.31.27:403][266]LogBlueprint: Error: [Compiler 메인화면] 튜토리얼?  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.11.30-09.31.27:403][266]LogBlueprint: Error: [Compiler 메인화면] 메인게임?  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.11.30-09.31.27:403][266]LogBlueprint: Error: [Compiler 메인화면] 튜토리얼?  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.11.30-09.31.27:403][266]LogBlueprint: Error: [Compiler 메인화면] 메인게임?  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.11.30-09.31.27:419][266]LogBlueprint: Warning: [Compiler 메인화면] [1372.60] 메인화면 컴파일에 실패했습니다. 치명적 오류 4 회, 경고 0 회, [소요시간 84 ms] (/Game/PuzzleBP/Blueprints/UI/메인화면.메인화면)
+[2018.11.30-09.31.27:589][266]LogPlayLevel: [PlayLevel] Compiling 게임모드설정 before play...
+[2018.11.30-09.31.27:812][266]LogPlayLevel: [PlayLevel] Compiling InGameUI before play...
+[2018.11.30-09.31.27:974][266]LogPlayLevel: PlayLevel: Blueprint regeneration took 673 ms (3 blueprints)
+[2018.11.30-09.31.27:974][266]BlueprintLog: 메인화면 블루프린트 컴파일에 실패했습니다.
+[2018.11.30-09.31.32:243][413]BlueprintLog: New page: 메인화면 컴파일
+[2018.11.30-09.31.33:703][490]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.11.30-09.31.33:739][490]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.31.33:740][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-09.31.33:740][490]PIE: New page: PIE 세션: MainGame (2018. 12. 1. 오전 3:31:33)
+[2018.11.30-09.31.33:740][490]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame
+[2018.11.30-09.31.33:766][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025414s)
+[2018.11.30-09.31.33:767][490]LogAIModule: Creating AISystem for world MainGame
+[2018.11.30-09.31.33:767][490]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2018.11.30-09.31.33:767][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/MainGame.MainGame to /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame (0.026721s)
+[2018.11.30-09.31.33:796][490]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-09.31.33:838][490]LogInit: FAudioDevice initialized.
+[2018.11.30-09.31.33:894][490]LogLoad: Game class is 'PuzzleGameMode_C'
+[2018.11.30-09.31.33:898][490]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 60) at 2018.11.30-18.31.33
+[2018.11.30-09.31.33:898][490]LogWorld: Bringing up level for play took: 0.001891
+[2018.11.30-09.31.33:898][490]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.30-09.31.33:911][490]PIE: /Game/PuzzleBP/Maps/UEDPIE_0_MainGame 에 대한 에디터에서 플레이 시작 시간: -0.35
+[2018.11.30-09.31.33:911][490]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/PuzzleBP/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.11.30-09.31.35:809][592]LogNet: Browse: /Game/PuzzleBP/Maps/MainMenu
+[2018.11.30-09.31.35:809][592]LogLoad: LoadMap: /Game/PuzzleBP/Maps/MainMenu
+[2018.11.30-09.31.36:373][592]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.400 s
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: 
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: 
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: Stack: 
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x0000000007422786 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x00000000071C123A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x00000000071DB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x0000000005950199 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x000000000591EF4D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x0000000013396C17 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x00000000136ADED6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x00000000136C5259 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x00000000136C4774 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x00000000034DFB28 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x0000000003493FA8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x000000000350539D UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x00000000FF5361B1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x00000000FFDE4AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x000000009B675A26 UE4Editor.exe!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x000000009B685430 UE4Editor.exe!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x000000009B6854AA UE4Editor.exe!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x000000009B692379 UE4Editor.exe!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x000000009B693D57 UE4Editor.exe!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x0000000045A03034 KERNEL32.DLL!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: [Callstack] 0x0000000045CC1471 ntdll.dll!UnknownFunction []
+[2018.11.30-09.31.36:373][592]LogOutputDevice: Error: 
+[2018.11.30-09.31.36:376][592]LogStats:                SubmitErrorReport -  0.000 s
